@@ -1,5 +1,7 @@
 # Migration Emitter
 
+[![Build Status](https://travis-ci.org/LandRegistry/migration-emitter.svg)](https://travis-ci.org/LandRegistry/migration-emitter)
+
 This Ruby library is used to transform data items extracted from the legacy database of titles into the JSON format used to hold a title in the [system of record](https://github.com/LandRegistry/system-of-record).
 
 The generated JSON format is tested using the Python [datatype](https://github.com/LandRegistry/datatypes) library.
