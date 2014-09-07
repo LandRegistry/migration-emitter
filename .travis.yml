@@ -1,2 +1,2 @@
 language: ruby
-script: run_test.sh
+script: "./run_test.sh"
