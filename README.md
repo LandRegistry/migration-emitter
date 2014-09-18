@@ -32,22 +32,13 @@ Each piece of markup i.e. *DT* will be replaced with either a field, deed, or no
 
 The entries can then be grouped together based upon user need i.e provisions, easements, restrictions etc...
 
-Therefore the title template should look like this:
+Therefore, with the addition of the extent section, the title template should look like this:
 
 <pre>
 
   {
 
     "title_number" : "TEST_AB1234567",
-
-    "proprietorship" : an entry,
-    "property_description" : an entry,
-    "price_paid" : an entry,
-    "provisions" : [array of entries],
-    "easements" : [array of entries],
-    "restrictive_covenants" : [array of entries],
-    "restrictions" : [array of entries],
-    "bankruptcy" : [array of entries],
 
     "extent": {
         "type": "Feature",
@@ -70,6 +61,15 @@ Therefore the title template should look like this:
         "properties":{
         }
     }
+
+    "proprietorship" : an entry,
+    "property_description" : an entry,
+    "price_paid" : an entry,
+    "provisions" : [array of entries],
+    "easements" : [array of entries],
+    "restrictive_covenants" : [array of entries],
+    "restrictions" : [array of entries],
+    "bankruptcy" : [array of entries]
 
   }
 
