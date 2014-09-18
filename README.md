@@ -47,6 +47,7 @@ Therefore the title template should look like this:
     "easements" : [array of entries],
     "restrictive_covenants" : [array of entries],
     "restrictions" : [array of entries],
+    "bankruptcy" : [array of entries],
 
     "extent": {
         "type": "Feature",
@@ -139,7 +140,7 @@ However, we have several existing fields in the JSON that I will leave in in thi
             "easements" : [array of entries],
             "restrictive_covenants" : [array of entries],
             "restrictions" : [array of entries],
-            "bankruptcy" : [array of entries],
+            "bankruptcy" : [array of entries]
     }
 
 </pre>
