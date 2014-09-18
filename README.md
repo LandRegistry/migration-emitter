@@ -34,41 +34,45 @@ The entries can then be grouped together based upon user need i.e provisions, ea
 
 Therefore the title template should look like this:
 
-{
+<pre>
 
-  "title_number" : "TEST_AB1234567",
+  {
 
-  "proprietorship" : an entry,
-  "property_description" : an entry,
-  "price_paid" : an entry,
-  "provisions" : [array of entries],
-  "easements" : [array of entries],
-  "restrictive_covenants" : [array of entries],
-  "restrictions" : [array of entries],
+    "title_number" : "TEST_AB1234567",
 
-  "extent": {
-      "type": "Feature",
-      "crs": {  
-          "type":"name",
-          "properties":{  
-              "name":"urn:ogc:def:crs:EPSG:27700"
-          }
-      },
-      "geometry":{  
-          "type":"Polygon",
-          "coordinates":[  
-              [[530857.01,181500.00],
-              [530857.00,181500.00],
-              [530857.00,181500.00],
-              [530857.00,181500.00],
-              [530857.01,181500.00]]
-          ]
-      },
-      "properties":{
-      }
+    "proprietorship" : an entry,
+    "property_description" : an entry,
+    "price_paid" : an entry,
+    "provisions" : [array of entries],
+    "easements" : [array of entries],
+    "restrictive_covenants" : [array of entries],
+    "restrictions" : [array of entries],
+
+    "extent": {
+        "type": "Feature",
+        "crs": {  
+            "type":"name",
+            "properties":{  
+                "name":"urn:ogc:def:crs:EPSG:27700"
+            }
+        },
+        "geometry":{  
+            "type":"Polygon",
+            "coordinates":[  
+                [[530857.01,181500.00],
+                [530857.00,181500.00],
+                [530857.00,181500.00],
+                [530857.00,181500.00],
+                [530857.01,181500.00]]
+            ]
+        },
+        "properties":{
+        }
+    }
+
   }
 
-}
+</pre>
 
 However, we have several existing fields in the JSON that I will leave in in this first pass in order to not break the current services. The resulting structure is:
 
