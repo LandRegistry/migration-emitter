@@ -3,7 +3,7 @@
 # Install JRuby and packages
 yum -y install java-1.7.0-openjdk-headless
 yum -y install jruby
-yum -y install jrubygem-cucumber \
+yum -y install jrubygem-cucumber jrubygem-jbuilder \
 			   jrubygem-json jrubygem-rest_client jrubygem-torquebox jrubygem-torquebox-backstage jrubygem-torquebox-server jrubygem-torquespec \
 			   jrubygem-json_spec
 

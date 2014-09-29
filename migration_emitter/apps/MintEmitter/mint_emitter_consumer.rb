@@ -45,12 +45,6 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 		if body['title_number'].nil?
 			raise 'No title number in JSON'
 		end
-		#hash = {}
-		#hash['title_number'] = body['title_number']
-		
-		#TEMPLATE/TRANSFORM BIT IN THE FUTURE
-		#json = tranform_hash_json(body)
-		#hash['body'] = json
 
     json = JSONBuilder.convert_hash(body)
 
@@ -80,8 +74,8 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 
 end
 
-require_relative 'C:/SVN/alpha_dev_env/code/MigrateRegister/apps/Migrator/register_transformer'
-rt = RegisterTransformer.new
-
-mec = MintEmitterConsumer.new
-pp mec.process_message(rt.transform_register('BK507336'))
+#------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
+#require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
+#rt = RegisterTransformer.new
+#mec = MintEmitterConsumer.new
+#pp JSON.parse(mec.process_message(rt.transform_register('BK506704')))
