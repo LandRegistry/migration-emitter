@@ -11,7 +11,7 @@ Using an intermediate data model enables the complex process of extracting title
 ####migration_emitter
 
 The migration emitter app is written in jRuby and runs on a Torquebox server. The app consumes messages from a queue which contains a hash (key/value pairs) for each
-migrating title
+migrating title.
 
 ### Title JSON Structure
 
