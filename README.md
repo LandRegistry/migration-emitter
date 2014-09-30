@@ -8,6 +8,10 @@ The generated JSON format is tested using the Python [datatype](https://github.c
 
 Using an intermediate data model enables the complex process of extracting title information from legacy systems to be decoupled from the constrained document format used by the [the mint](https://github.com/LandRegistry/mint) which is slowly emerging to answer stories driven by [user needs](https://www.gov.uk/design-principles#first).
 
+####migration_emitter
+
+The migration emitter app is written in jRuby and runs on a Torquebox server. The app consumes messages from a queue which contains a hash (key/value pairs) for each
+migrating title
 
 ### Title JSON Structure
 
