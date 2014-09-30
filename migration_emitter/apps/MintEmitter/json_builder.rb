@@ -4,8 +4,8 @@ require_relative '../MintEmitter/data_extractor'
 class JSONBuilder
 
   def self.convert_hash(model)
-    pp hash
-    puts 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    #pp hash
+    #puts 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
     output = Jbuilder.encode do |json|
       json.ignore_nil! true

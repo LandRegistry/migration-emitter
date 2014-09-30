@@ -20,17 +20,18 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
   #consume the message from the queue and publish if successful
 	def on_message(body)
 		@body = body
-		hash = process_message(body)
-		body = post_message(hash)
+		json_message = process_message(body)
+		post_message(json_message)
 		queue = TorqueBox.fetch('/queues/mint_submit_completed')
+    hash = {}
+    hash['title_number'] = json_message['title_number']
 		hash['submitted_at'] = Time.now
-		hash.delete('body')
-		queue.publish ActiveSupport::JSON.encode(hash)
-	end
+
+		queue.publish hash.to_json
+  end
 
   #process the hash and convert to json ready to submit
 	def process_message(body)
-    pp body
 		if !body.is_a? Hash
 			raise 'Body not Hash'
 		end
@@ -47,13 +48,13 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 		end
 
     json = JSONBuilder.convert_hash(body)
-
+    post_message(json)
 		return json
 	end
 
   #submit message to the mint
 	def post_message(message)
-		RestClient.post(@url + message['title_number'], message['body'], :content_type => :json, :accept => :json) { |response, request, result, &block|
+		RestClient.post(@url + message['title_number'], message, :content_type => :json, :accept => :json) { |response, request, result, &block|
 			if response.code != 201
 				raise "Mint post failed with response code: " + response.code.to_s + " Response: " + response
 			end
@@ -78,4 +79,6 @@ end
 #require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
 #rt = RegisterTransformer.new
 #mec = MintEmitterConsumer.new
-#pp JSON.parse(mec.process_message(rt.transform_register('BK506704')))
+##rt.transform_register('BK506704')
+##pp JSON.parse(mec.process_message(rt.transform_register('BK506704')))
+#pp JSON.parse(mec.on_message(rt.transform_register('BK507314')))
