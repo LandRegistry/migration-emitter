@@ -34,6 +34,26 @@ The text field will contain markup such as:
 
 Each piece of markup i.e. *DT* will be replaced with either a field, deed, or note. Once each piece of markup has been replaced you have the full text for the entry.
 
+A deed looks like this;
+<pre>
+{
+    "type" : string, 
+    "date" : date, 
+    "parties" : [2 or more parties]
+}
+</pre>
+
+<pre>
+And a party to a deed looks like this
+{
+    "title" : string, 
+    "full_name" : string, 
+    "decoration" : string
+}
+</pre>
+
+
+
 The entries can then be grouped together based upon user need i.e provisions, easements, restrictions etc...
 
 Therefore, with the addition of the extent section, the title template should look like this:
