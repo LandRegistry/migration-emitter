@@ -88,12 +88,10 @@ However, we have several existing fields in the JSON that I will leave in in thi
 
             "proprietors": [
                 {
-                    "first_name": "firstname",
-                    "last_name": "lastname"
+                    "full_name": "firstname lastname"
                 },
                 {
-                    "first_name": "firstname",
-                    "last_name": "lastname"
+                    "full_name": "firstname lastname"
                 }
             ],
 
