@@ -52,6 +52,22 @@ And a party to a deed looks like this
 }
 </pre>
 
+An address looks like this:
+
+<pre>
+{
+    "full_address": "8 Miller Way, Plymouth, Devon, PL6 8UQ", 
+    "house_no" : "8", 
+    "street_name" : "Miller Way", 
+    "town" : "Plymouth", 
+    "postal_county" : "Devon", 
+    "region_name" : "", 
+    "country" : "", 
+    "postcode":""
+}
+</pre>
+
+*Note* that only full_address is guaranteed to be populated.
 
 
 The entries can then be grouped together based upon user need i.e provisions, easements, restrictions etc...
