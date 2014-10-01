@@ -109,7 +109,9 @@ Therefore, with the addition of the extent section, the title template should lo
     "easements" : [array of entries],
     "restrictive_covenants" : [array of entries],
     "restrictions" : [array of entries],
-    "bankruptcy" : [array of entries]
+    "bankruptcy" : [array of entries],
+    "charges" : [array of entries],
+    "other" : [array of entries]
 
   }
 
@@ -178,7 +180,9 @@ However, we have several existing fields in the JSON that I will leave in in thi
             "easements" : [array of entries],
             "restrictive_covenants" : [array of entries],
             "restrictions" : [array of entries],
-            "bankruptcy" : [array of entries]
+            "bankruptcy" : [array of entries],
+            "charges" : [array of entries],
+            "other" : [array of entries]
     }
 
 </pre>
