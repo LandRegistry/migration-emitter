@@ -66,7 +66,7 @@ class DataExtractor
       model['entries'].detect { |entry|
         if %w(RDES RMRL PPMS).include? entry['role_code']
             address = {}
-            address['address'] = get_address(entry['infills'][0]['address'])
+            address['address'] = get_address(entry)
             return address
         end
       }
@@ -74,18 +74,36 @@ class DataExtractor
   end # of get property
 
   #return hash of address
-  def self.get_address(address)
+  def self.get_address(entry)
     output = {}
-    output['full_address'] = address['addr_string'] if address['address_string']
-    output['house_no'] = address['house_no'] if address['house_no']
-    output['street_name'] = address['street_name'] if address['street_name']
-    output['town'] = address['town'] if address['town']
-    output['postal_county'] = address['postal_county'] if address['postal_county']
-    output['region_name'] = address['region_name'] if address['region_name']
-    output['country'] = address['country'] if address['country']
-    output['postcode'] = address['postcode'] if address['postcode']
+    if entry['infills'][0]['address'].present?
+      address = entry['infills'][0]['address']
 
+      output['full_address']              = address['address_string'] if address['address_string']
+      output['house_no']                  = address['house_no'] if address['house_no']
+      output['street_name']               = address['street_name'] if address['street_name']
+      output['town']                      = address['town'] if address['town']
+      output['postal_county']             = address['postal_county'] if address['postal_county']
+      output['region_name']               = address['region_name'] if address['region_name']
+      output['country']                   = address['country'] if address['country']
+      output['postcode']                  = address['postcode'] if address['postcode']
 
+      output['local_name']                = address['local_name'] if address['local_name']
+      output['dx_number']                 = address['dx_no'] if address['dx_no']
+      output['leading_information']       = address['leading_info'] if address['leading_info']
+      output['sub_building_description']  = address['sub_building_description'] if address['sub_building_description']
+      output['trailing_information']      = address['trail_info'] if address['trail_info']
+      output['sub_building_number']       = address['sub_building_no'] if address['sub_building_no']
+      output['house_alpha']               = address['house_alpha'] if address['house_alpha']
+      output['plot_no']                   = address['plot_no'] if address['plot_no']
+      output['secondary_house_alpha']     = address['secondary_house_alpha'] if address['secondary_house_alpha']
+      output['plot_code']                 = address['plot_code'] if address['plot_code']
+      output['secondary_house_number']    = address['secondary_house_no'] if address['secondary_house_no']
+      output['email_address']             = address['email_address'] if address['email_address']
+      output['address_type']              = address['address_type'] if address['address_type']
+      output['dx_exchange_name']          = address['exchange_name'] if address['exchange_name']
+      output['house_description']         = address['house_description'] if address['house_description']
+    end
 
     output
   end  # of get address
