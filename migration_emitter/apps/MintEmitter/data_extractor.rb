@@ -36,9 +36,13 @@ class DataExtractor
   #return hash of address
   def self.get_address(address)
     output = {}
+    output['full_address'] = address['addr_string'] if address['address_string']
     output['house_no'] = address['house_no'] if address['house_no']
-    output['road'] = address['street_name'] if address['street_name']
+    output['street_name'] = address['street_name'] if address['street_name']
     output['town'] = address['town'] if address['town']
+    output['postal_county'] = address['postal_county'] if address['postal_county']
+    output['region_name'] = address['region_name'] if address['region_name']
+    output['country'] = address['country'] if address['country']
     output['postcode'] = address['postcode'] if address['postcode']
     output
   end  # of get address

@@ -27,10 +27,18 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
     hash['title_number'] = JSON.parse(json_message)['title_number']
 		hash['submitted_at'] = Time.now
 		queue.publish hash.to_json
+    @logger.info( 'Mint submission complete: ' + hash['title_number'] + " at " + hash['submitted_at'] )
   end
 
   #process the hash and convert to json ready to submit
 	def process_message(body)
+    begin
+      body_hash = body
+      title = body_hash['title_number']
+    rescue
+      title = 'N/A'
+    end
+    @logger.info("Mint submission started: " + title)
 		if !body.is_a? Hash
 			raise 'Body not Hash'
 		end
@@ -47,7 +55,7 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 		end
 
     json = JSONBuilder.convert_hash(body)
-    #post_message(json)
+
 		return json
 	end
 
@@ -64,7 +72,13 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
   
 	def on_error(exception)
 		#log error
-		@logger.error("Mint Submission failure: " + exception.to_s + "\n" + exception.backtrace.join("\n"))
+    begin
+      body_hash = @body
+      title = body_hash['title_number']
+    rescue
+      title = 'N/A'
+    end
+		@logger.error("Mint Submission failure: " + title + "\n" + exception.to_s + "\n" + exception.backtrace.join("\n") + "\nMessage: " + @body.to_s)
 		#create error message from failed message body
 		error_message = {}
 		error_message['original_message'] = @body
@@ -79,6 +93,7 @@ end
 #require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
 #rt = RegisterTransformer.new
 #mec = MintEmitterConsumer.new
-#pp mec.on_message(JSON.parse('{"title_number":"DN1"}'))
 #
-#JSON.parse(mec.process_message(rt.transform_register('BK507314')))
+#pp JSON.parse(mec.process_message( JSON.parse('{"title_number":"DN1"}') ) )
+#pp mec.on_message(JSON.parse('{"title_number":"DN1"}'))
+
