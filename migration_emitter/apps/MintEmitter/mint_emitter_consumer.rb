@@ -94,6 +94,6 @@ end
 #rt = RegisterTransformer.new
 #mec = MintEmitterConsumer.new
 #
-#pp JSON.parse(mec.process_message( JSON.parse('{"title_number":"DN1"}') ) )
+#pp JSON.parse(mec.process_message( rt.transform_register('BK507314') ) )
 #pp mec.on_message(JSON.parse('{"title_number":"DN1"}'))
 
