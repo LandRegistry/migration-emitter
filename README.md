@@ -19,7 +19,8 @@ A title is really just a list of entries, where each entry is a different piece 
 
 <pre>
   {
-    "text" : "example text",
+    "template" : "example text with markup",
+    "full_text" : "example text with markup replaced with real values",
     "fields" : {a list of fields},
     "deeds" : [an array of deeds],
     "notes" : [an array of notes]
