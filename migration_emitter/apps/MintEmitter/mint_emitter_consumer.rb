@@ -93,7 +93,7 @@ end
 require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
 rt = RegisterTransformer.new
 mec = MintEmitterConsumer.new
-
-pp JSON.parse(mec.process_message( rt.transform_register('BK507314') ) )
+pp JSON.parse(mec.process_message( rt.transform_register('BD161870') ) )
+#pp JSON.parse(mec.process_message( rt.transform_register('BK507314') ) )
 #pp mec.on_message(JSON.parse('{"title_number":"DN1"}'))
 
