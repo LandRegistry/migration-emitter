@@ -2,6 +2,46 @@ require_relative 'common_routines'
 
 class DataExtractor
 
+  #return a hash containing bankruptcy entries
+  def self.get_bankruptcy( model )
+    bankruptcy_array = []
+
+    if model['entries'].present?
+      model['entries'].detect do |entry|
+        if %w(CBAN CRED OBAN OBIB ORED OSMH).include? entry['role_code']
+          bankruptcy['template']    = entry['template_text'].present? ? entry['template_text'] : ''
+          bankruptcy['full_text']   = ''  #TODO - extract full text into model
+          bankruptcy['fields']      = ''
+          bankruptcy['deeds']       = get_deeds( entry )
+          bankruptcy['notes']       = get_notes( entry )
+
+          bankruptcy_array.push(bankruptcy)
+        end
+      end
+    end
+
+    bankruptcy_array
+  end
+
+  #return a hash containing price paid information
+  def self.get_price_paid( model )
+    price_paid = {}
+
+    if model['entries'].present?
+      model['entries'].detect do |entry|
+        if entry['role_code'] == 'RPPD'
+          price_paid['template']    = entry['template_text'].present? ? entry['template_text'] : ''
+          price_paid['full_text']   = ''  #TODO - extract full text into model
+          price_paid['fields']      = ''
+          price_paid['deeds']       = get_deeds( entry )
+          price_paid['notes']       = get_notes( entry )
+        end
+      end
+    end
+
+    price_paid
+  end
+
   #return a hash containing proprietorship information
   def self.get_proprietorship(model)
     proprietorship = {}
@@ -76,7 +116,6 @@ class DataExtractor
     address_array = []
 
     if proprietor['addresses'].present?
-      puts 'here'
       proprietor['addresses'].each do |address|
         json_address = {}
 
@@ -105,11 +144,10 @@ class DataExtractor
         json_address['dx_exchange_name']          = address['exchange_name'] if address['exchange_name']
         json_address['house_description']         = address['house_description'] if address['house_description']
 
-        pp json_address
         address_array.push(json_address) if json_address.present?
       end
     end
-    pp address_array
+
     address_array
   end  # of get address
 
