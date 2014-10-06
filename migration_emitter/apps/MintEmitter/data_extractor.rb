@@ -12,8 +12,8 @@ class DataExtractor
           bankruptcy['template']    = entry['template_text'].present? ? entry['template_text'] : ''
           bankruptcy['full_text']   = ''  #TODO - extract full text into model
           bankruptcy['fields']      = ''
-          bankruptcy['deeds']       = get_deeds( entry )
-          bankruptcy['notes']       = get_notes( entry )
+          bankruptcy['deeds']       = CommonRoutines.get_deeds( entry )
+          bankruptcy['notes']       = CommonRoutines.get_notes( entry )
 
           bankruptcy_array.push(bankruptcy)
         end
@@ -33,8 +33,8 @@ class DataExtractor
           price_paid['template']    = entry['template_text'].present? ? entry['template_text'] : ''
           price_paid['full_text']   = ''  #TODO - extract full text into model
           price_paid['fields']      = ''
-          price_paid['deeds']       = get_deeds( entry )
-          price_paid['notes']       = get_notes( entry )
+          price_paid['deeds']       = CommonRoutines.get_deeds( entry )
+          price_paid['notes']       = CommonRoutines.get_notes( entry )
         end
       end
     end
@@ -51,8 +51,8 @@ class DataExtractor
           proprietorship['template']    = entry['template_text'].present? ? entry['template_text'] : ''
           proprietorship['full_text']   = ''  #TODO - extract full text into model
           proprietorship['fields']      = get_proprietor_fields( entry )
-          proprietorship['deeds']       = get_deeds( entry )
-          proprietorship['notes']       = get_notes( entry )
+          proprietorship['deeds']       = CommonRoutines.get_deeds( entry )
+          proprietorship['notes']       = CommonRoutines.get_notes( entry )
         end #of prop entry
       } #end of entry loop
     end  #of entry
@@ -150,44 +150,6 @@ class DataExtractor
 
     address_array
   end  # of get address
-
-  #return array of deeds on entry
-  def self.get_deeds( entry )
-    deeds_array = []
-
-    if entry['deeds'].present?
-      entry['deeds'].each do |deed|
-        new_deed = {}
-        new_deed['type']              = deed['description'].present? ? deed['description'] : ''
-        new_deed['date']              = deed['date'].present? ? deed['date'] : ''
-        new_deed['parties']           = '' #TODO - extract deed parties
-        new_deed['rentcharge_amount'] = deed['rentcharge_amount'].present? ? deed['rentcharge_amount'] : ''
-        new_deed['payment_detail']    = deed['date'].present? ? deed['date'] : ''
-        new_deed['lease_term']        = deed['payment_detail'].present? ? deed['payment_detail'] : ''
-
-        deeds_array.push(new_deed) if new_deed.present?
-      end # of deed
-    end  # of deeds present
-
-    deeds_array
-  end
-
-  #return array of notes on entry
-  def self.get_notes( entry )
-    notes_array = []
-
-    if entry['notes'].present?
-      entry['notes'].each do |note|
-        new_note = {}
-        new_note['text']                = note['text'].present? ? note['text'] : ''
-        new_note['documents_referred']  = note['font'].present? ? note['font'] : ''
-
-        notes_array.push(new_note) if new_note.present?
-      end # of note
-    end  # of notes present
-
-    notes_array
-  end
 
 
 end

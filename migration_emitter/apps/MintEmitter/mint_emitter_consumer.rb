@@ -25,7 +25,7 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 		queue = TorqueBox.fetch('/queues/mint_submit_completed')
     hash = {}
     hash['title_number'] = JSON.parse(json_message)['title_number']
-		hash['submitted_at'] = Time.now
+		hash['submitted_at'] = Time.now.to_s
 		queue.publish hash.to_json
     @logger.info( 'Mint submission complete: ' + hash['title_number'] + " at " + hash['submitted_at'] )
   end
@@ -90,10 +90,14 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 end
 
 #------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
-require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
-rt = RegisterTransformer.new
+#require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
+#rt = RegisterTransformer.new
+#m = rt.transform_register('BD161870')
 mec = MintEmitterConsumer.new
-pp JSON.parse(mec.process_message( rt.transform_register('BD161870') ) )
+#File.open('model.yml', 'w') { |fo| fo.puts m.to_yaml }
+model = YAML.load_file('model.yml')
+pp JSON.parse( mec.process_message(model) )
+#pp JSON.parse(mec.process_message( rt.transform_register('BD161870') ) )
 #pp JSON.parse(mec.process_message( rt.transform_register('BK507314') ) )
 #pp mec.on_message(JSON.parse('{"title_number":"DN1"}'))
 

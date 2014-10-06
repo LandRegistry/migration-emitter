@@ -9,7 +9,7 @@ class JSONBuilder
 
     output = Jbuilder.encode do |json|
 
-      json.ignore_nil! true
+      #json.ignore_nil! true
 
       #Old structure
       json.title_number           model['title_number'] if model['title_number']
