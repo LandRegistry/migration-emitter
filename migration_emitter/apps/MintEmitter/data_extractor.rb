@@ -2,7 +2,7 @@ require_relative 'common_routines'
 
 class DataExtractor
 
-  #return a hash containing bankruptcy entries
+  #return an array containing bankruptcy entries
   def self.get_bankruptcy( model )
     bankruptcy_array = []
 

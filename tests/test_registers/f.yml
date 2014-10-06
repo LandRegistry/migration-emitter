@@ -1,0 +1,272 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 368368.9
+          - 71180.46
+        - - 368362.1
+          - 71180.5
+        - - 368362.08
+          - 71181.6
+        - - 368361.9
+          - 71194.9
+        - - 368361.9
+          - 71201.88
+        - - 368361.9
+          - 71207.93
+        - - 368369.2
+          - 71207.9
+        - - 368368.9
+          - 71180.46
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 368368.9
+          - 71180.46
+        - - 368362.1
+          - 71180.5
+        - - 368362.08
+          - 71181.6
+        - - 368361.9
+          - 71194.9
+        - - 368361.9
+          - 71201.88
+        - - 368361.9
+          - 71207.93
+        - - 368369.2
+          - 71207.9
+        - - 368368.9
+          - 71180.46
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+last_app_timestamp: '2002-01-21T11:22:19.000+00:00'
+edition_date: '2002-01-21T00:00:00.000+00:00'
+class: Absolute
+tenure: Leasehold
+title_number: CYM167
+entries:
+- entry_id: '2005-11-22 11:57:26.007995'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  status: Current
+  entry_date: '2002-01-21'
+  template_text: The Leasehold land shown edged with red on the plan of the above title filed at the Registry. Short particulars of the land and the leases under which the land is held are contained in the Property Register Schedule hereto.
+- entry_id: '2005-11-22 11:57:26.105585'
+  role_code: RMRL
+  language: ENG
+  sub_register: M
+  schedule:
+    fields:
+    - text: First Floor Flat
+      header: Property description
+    - text: '2001-11-07'
+      header: Date of lease
+    - parties:
+      - names:
+        - surname: Grommitt
+          forename: Wallace
+      - names:
+        - surname: Lyttleton
+          forename: Miles Davies Davies Humphrey
+      header: Parties
+    - text: 99 years from 7 November 2001
+      header: Term
+    - text: £30
+      header: Rent
+    schedule_type: M
+    parent_register: A
+    header: SCHEDULE OF SHORT PARTICULARS OF THE LAND AND OF THE LEASES UNDER WHICH THE LAND IS HELD
+  status: Current
+- entry_id: '2005-11-22 11:57:26.114755'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: Flat 1, 9 High Street
+      header: Property description
+    - text: £3
+      header: Apportioned rent
+    - text: '2001-09-19'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - surname: Grommitt
+          forename: Wallace
+      - names:
+        - surname: Davies
+          forename: Miles
+      header: Parties
+    - text: CYM678
+      header: Title No under which land is registered
+    - text: '2002-01-21'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2005-11-22 11:57:26.025635'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Cardiff
+        address_string: First Floor Flat, 9 High Street, Cardiff
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: DAVIES
+        forename: MILES
+        name_category: A
+    - addresses:
+      - postal_county: Cardiff
+        address_string: First Floor Flat, 9 High Street, Cardiff
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: LYTTLETON
+        forename: HUMPHREY
+        name_category: A
+    type: Proprietor
+  status: Current
+  entry_date: '2002-01-21'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2005-11-22 11:57:26.127955'
+  role_code: RPPD
+  language: ENG
+  sub_register: B
+  infills:
+  - text: 21 December 2001
+    date: '2001-12-21'
+    type: DATE
+  - text: £50,000
+    type: PRICE
+  status: Current
+  entry_date: '2002-01-21'
+  template_text: The price stated to have been paid on *DA* was *AM*.
+- entry_id: '2005-11-22 11:57:26.135435'
+  role_code: OJPR
+  language: ENG
+  sub_register: B
+  status: Current
+  entry_date: '2002-01-21'
+  template_text: 'RESTRICTION: No disposition by a sole proprietor of the land (not
+    being a trust corporation) under which capital money arises is to be registered
+    except under an order of the registrar or of the Court.'
+- entry_id: '2005-11-22 11:57:26.061415'
+  role_code: RRNT
+  language: ENG
+  sub_register: C
+  infills:
+  - {}
+  - text: Transfers
+  status: Current
+  entry_date: '2002-01-21'
+  template_text: The parts of the land affected thereby are subject to the specified *O<>O* yearly rentcharges created by and to the covenants contained in, the *M<>M* particulars of which are set out in the Schedule of Rentcharges hereto.
+- entry_id: '2005-11-22 11:57:26.070145'
+  role_code: RLER
+  language: ENG
+  sub_register: C
+  status: Current
+  entry_date: '2002-01-21'
+  template_text: The land is subject, during the terms created by the leases of easements specified in the schedule of leases of easements hereto, to the rights granted by the said leases.
+- entry_id: '2005-11-22 11:57:26.078015'
+  role_code: RLER
+  language: ENG
+  sub_register: C
+  status: Current
+  entry_date: '2002-01-21'
+  template_text: "The parts of the land affected thereby are subject to the leases\
+    \ set out in the schedule of leases hereto.\rThe leases grant and reserve easements\
+    \ as therein mentioned."
+- entry_id: '2005-11-22 11:57:26.084365'
+  role_code: RFEA
+  language: ENG
+  sub_register: F
+  schedule:
+    fields:
+    - text: 10 High Street
+      header: Benefitting land
+    - text: CYM123
+      header: Title Number of benefitting land
+    - text: '1986-07-29'
+      header: Date of lease
+    - text: 99 years from 29/071986
+      header: Term of lease
+    - text: '2002-01-21'
+      header: Registration date
+    schedule_type: F
+    parent_register: C
+    header: SCHEDULE OF LEASES OF EASEMENTS
+  status: Current
+- entry_id: '2005-11-22 11:57:26.093515'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '2002-01-21'
+      header: Registration Date
+    - text: green spotted
+      header: Plan Reference
+    - text: Flat 1A
+      header: Property Description
+    - text: '1989-07-03'
+      header: Date of Lease
+    - text: 99 years from 3/07/1989
+      header: Term
+    - text: CYM234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2005-11-22 11:57:26.098455'
+  role_code: RWRN
+  language: ENG
+  sub_register: W
+  schedule:
+    fields:
+    - text: Green with grey buildings
+      header: Description of land
+    - text: £3
+      header: Rentcharge
+    - text: Transfer
+      header: Nature of deed
+    - text: '1992-02-12'
+      header: Date of Deed
+    - text: hello
+      header: Remarks
+    - text: CYM254
+      header: Title No.of rentcharge
+    - text: '2002-01-21'
+      header: Registration date
+    schedule_type: W
+    parent_register: C
+    header: SCHEDULE OF RENTCHARGES
+  status: Current
+migration_errors:
+- extractor: Register Check
+  message: Title is not syncronised
+dlr: Wales Office
+districts:
+- CARDIFF
+- CAERDYDD

@@ -8,7 +8,6 @@ class JSONBuilder
   def self.convert_hash(model)
 
     output = Jbuilder.encode do |json|
-
       #json.ignore_nil! true
 
       #Old structure

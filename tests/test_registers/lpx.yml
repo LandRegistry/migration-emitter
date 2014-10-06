@@ -1,0 +1,4839 @@
+---
+edition_date: '2000-02-17T00:00:00.000+00:00'
+last_app_timestamp: '2000-02-17T09:31:00.000+00:00'
+class: Absolute
+tenure: Freehold
+entries:
+- entry_id: '2014-07-01 17:14:30.150565'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  entry_date: '1993-07-16'
+  status: Current
+  template_text: The Freehold land shown edged with red on the plan of the above Title filed and described in the Property Register Schedule hereto.
+- entry_id: '2014-07-01 17:14:35.597865'
+  role_code: DMMR
+  language: ENG
+  sub_register: A
+  deeds:
+  - date: '1925-09-26'
+    description: Conveyance
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  - text: BK10976
+    type: TITLE NO
+  entry_date: '1995-02-17'
+  status: Current
+  template_text: "There are excluded from the registration of the land *PR* on the\
+    \ filed plan the mines and minerals and ancillary rights excepted and reserved\
+    \ by a *DT* thereof and other land dated *DD* made between (1) Redstock Mining\
+    \ Company Limited (2) Redstock Extraction Limited and (3) Landacre Limited.\r\r\
+    <NOTE></NOTE>"
+  notes:
+  - text: Abstract of Conveyance filed under *TN*
+    font: ' '
+- entry_id: '2014-07-01 17:14:35.665915'
+  role_code: DAEA
+  language: ENG
+  sub_register: A
+  deeds:
+  - date: '1962-06-18'
+    description: Transfer
+  entry_date: '1995-02-17'
+  status: Current
+  template_text: "The land has the benefit of the following rights granted by the\
+    \ *DT* dated *DD* referred to in the Charges Register:-\r\r\"A right at all times\
+    \ to drain into the cesspit situate in O.S. 177 through the pipes leading from\
+    \ the property hereby transferred to the said cesspit and also a right to enter\
+    \ upon O.S. 177 for the purpose of maintaining cleansing and keeping in repair\
+    \ the said pipes and cesspit.\"\r\r<NOTE></NOTE>"
+  notes:
+  - text: O.S. 177 is shown on the filed plan and lies to the north east of the land in this title
+    font: ' '
+- entry_id: '2014-07-01 17:14:35.715745'
+  role_code: DAEA
+  language: ENG
+  sub_register: A
+  deeds:
+  - date: '1986-02-03'
+    description: Conveyance
+  infills:
+  - text: of the *PR* on the filed plan
+    type: EXTENT
+  - text: edged and numbered 1 in blue
+    type: PLAN REF
+  entry_date: '1995-02-17'
+  status: Current
+  template_text: "The land has the benefit of the following rights granted by but\
+    \ is subject to the following rights served by a *DT**DE* dated *DD* made between\
+    \ (1) Morley Arthur Joslin Sexton and (2) Charles William Hallett and Rosemary\
+    \ Hallett:-\r\r\"TOGETHER WITH the benefit of all rights reserved to in the First\
+    \ Schedule hereto BUT EXCEPTING AND RESERVING unto the Vendor and his successors\
+    \ in title the rights specified in the Second Schedule hereto\r\r<UNREADABLE></UNREADABLE>\r\
+    \r<CENTRE>THE FIRST SCHEDULE referred to above</CENTRE>\r\r(a)  the right to connect\
+    \ to with and take a supply from all water pipes and electric cables laid within\
+    \ Eighty years from the date hereof in over or upon the Vendors retained land\
+    \ (shown for the purpose of identification only edged blue on the plan annexed\
+    \ hereto\r\r(b)  The right to lay a line of pipes and construct a septic tank\
+    \ and soakaway and land drain leading therefrom in the approximate position shown\
+    \ coloured green on the plan annexed hereto\r\r(c)  The right to enter on to the\
+    \ Vendors retained land for the purpose of maintaining repairing renewing and\
+    \ replacing the said pipes drains and cables the Purchasers doing no unnecessary\
+    \ damage and making good forthwith all damage occasioned by the exercise of such\
+    \ rights and PROVIDED FURTHER that the Purchasers shall make good the surface\
+    \ of the said retained land of the Vendor to its present condition for agricultural\
+    \ purposes\r\r<UNREADABLE></UNREADABLE>\r\r(e)  The right to enter on to the Vendors\
+    \ retained land for the purpose of maintaining such buildings as are erected or\
+    \ may be erected on the property hereby conveyed and which immediately adjoin\
+    \ the Vendors retained land the Purchaser making good any damage caused in the\
+    \ exercise of such rights\r\r<UNREADABLE></UNREADABLE>\r\r<CENTRE>THE SECOND SCHEDULE\
+    \ above referred to</CENTRE>\r\r<CENTRE>Exceptions and Reservations</CENTRE>\r\
+    \r1.  The Vendor reserves the full and free right within Eight years from the\
+    \ date hereof for the owner of occupiers for the time being of the Vendors retained\
+    \ property not hereby conveyed to enter upon the property hereby conveyed and\
+    \ to lay and connect to such wires cables pipes drains and sewers under the property\
+    \ hereby conveyed as are necessary for the supply of electricity water telephone\
+    \ and other domestic services and for the disposal of water and sewage for the\
+    \ beneficial enjoyment of such buildings as are or may be erected on the remainder\
+    \ of the Vendors retained property with the right forever thereafter to use the\
+    \ same\r\r2. There is also reserved a right of entry for repair and maintenance"
+- entry_id: '2014-07-01 17:14:35.814665'
+  role_code: DAEA
+  language: ENG
+  sub_register: A
+  deeds:
+  - date: '1994-05-20'
+    description: Transfer
+  entry_date: '1994-02-28'
+  status: Current
+  template_text: The land has the benefit of the rights granted by but is subject to the rights reserved by the *DT* dated *DD* referred to in the Charges Register
+- entry_id: '2014-07-01 17:14:35.850865'
+  role_code: DPRO
+  language: ENG
+  sub_register: A
+  deeds:
+  - date: '1994-05-20'
+    description: Transfer
+  entry_date: '1994-02-28'
+  status: Current
+  template_text: The *DT* dated *DD* referred to above contains provisions as to light or air and boundary structures
+- entry_id: '2014-07-01 17:14:35.580415'
+  role_code: PMPS
+  language: ENG
+  sub_register: P
+  schedule:
+    fields:
+    - text: 1 Vicarage Road, Reading (RG9 1HF).
+      header: Short description
+    - text: tinted blue
+      header: Plan reference
+    schedule_type: P
+    parent_register: A
+    header: SCHEDULE OF PROPERTIES
+  status: Current
+- entry_id: '2014-07-01 17:14:30.210275'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Manchester
+        address_string: 123 London Road, Manchester M60 1YH
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: MORRIS
+        forename: MALCOLM
+        name_category: A
+    type: Proprietor
+  entry_date: '1998-04-23'
+  status: Current
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2014-07-01 17:14:35.894095'
+  role_code: OIMP
+  language: ENG
+  sub_register: B
+  entry_date: '1998-04-23'
+  status: Current
+  template_text: The covenants implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 in the disposition to the proprietor are modified.
+- entry_id: '2014-07-01 17:14:35.937625'
+  role_code: OPEC
+  language: ENG
+  sub_register: B
+  entry_date: '1998-04-23'
+  status: Current
+  template_text: The Transfer to the proprietor contains a covenant to observe and perform the covenants referred to in the Charges Register and of indemnity in respect thereof.
+- entry_id: '2014-07-01 17:14:35.961625'
+  role_code: OPEC
+  language: ENG
+  sub_register: B
+  deeds:
+  - date: '1998-06-12'
+    parties:
+    - names:
+      - surname: Jones
+        forename: Valerie
+    - names:
+      - surname: Pineapple
+        forename: Percy
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  - text: Purchaser's
+  entry_date: '1998-04-23'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between *DP* contains *M<purchaser's/vendor's>M* personal covenant(s) details of which are set out in the schedule of personal covenants hereto.
+- entry_id: '2014-07-01 17:14:35.984675'
+  role_code: XSCH
+  language: ENG
+  sub_register: X
+  deeds:
+  - date: '1998-05-10'
+    description: Transfer
+  status: Current
+  template_text: "The following are details of the personal covenants contained in\
+    \ the *DT* dated *DD* referred to in the Proprietorship Register:-\r\rTHE Purchaser\
+    \ hereby covenants with the Vendor to keep a secure fence on all boundaries of\
+    \ the land transferred and to keep that fence in a good state of repair"
+- entry_id: '2014-07-01 17:14:30.259105'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1811-01-08'
+    description: Conveyance
+  entry_date: '1997-01-02'
+  status: Current
+  template_text: A *DT* dated *DD* made between (1) William Broom and James Chapman (2) James Keeling and (3) William Culverwell contains covenants a copy of which is set out in the Schedule of restrictive covenants annexed
+- entry_id: '2014-07-01 17:14:30.370905'
+  role_code: RLER
+  language: ENG
+  sub_register: C
+  entry_date: '1993-07-16'
+  status: Current
+  template_text: "The parts of the land affected thereby are subject to the leases\
+    \ set out in the schedule of leases hereto.\rThe leases grant and reserve easements\
+    \ as therein mentioned."
+- entry_id: '2014-07-01 17:14:30.395855'
+  role_code: CCHA
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 20 May 1993
+    date: '1993-05-20'
+    type: DATE
+  entry_date: '1995-02-17'
+  status: Current
+  template_text: REGISTERED CHARGE dated *CD* to secure the moneys including the further advances therein mentioned.
+- entry_id: '2014-07-01 17:14:30.416815'
+  role_code: CCHR
+  language: ENG
+  sub_register: C
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Deeds Centre, 101 Midsummer Boulevard, Milton Keynes MK9 1AA
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Abbey National PLC
+    type: Charge Proprietor
+  entry_date: '1995-02-17'
+  status: Current
+  template_text: 'Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds
+    Centre, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.'
+- entry_id: '2014-07-01 17:14:30.426305'
+  role_code: CCHA
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 20 May 1993
+    date: '1993-05-20'
+    type: DATE
+  entry_date: '1995-02-17'
+  status: Current
+  template_text: REGISTERED CHARGE dated *CD* to secure the moneys including the further advances therein mentioned.
+- entry_id: '2014-07-01 17:14:30.434485'
+  role_code: CCHR
+  language: ENG
+  sub_register: C
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Mortgage Service Centre, P.O. Box 1546, Sheffield S1 2UJ
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: HSBC Bank PLC
+    type: Charge Proprietor
+  entry_date: '1995-02-17'
+  status: Current
+  template_text: 'Proprietor: #HSBC BANK PLC# (Co. Regn. No. 14259) 40-41-42 of Mortgage
+    Service Centre, P.O. Box 1546, Sheffield S1 2UJ.'
+- entry_id: '2014-07-01 17:14:30.453685'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.544395'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.595895'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.651445'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.698515'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.732975'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.779525'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.840835'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.886755'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1925-09-05'
+    description: Conveyance
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Frederick Jackson and Sampson Green contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.927705'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:30.973525'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.013895'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.081475'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.114975'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.138445'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.159205'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.209985'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.227425'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.249775'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.277025'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.298295'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.332025'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.372135'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.408585'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.451845'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.497765'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.521215'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-05-12'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) David Letts and Molly Jenner and (2) Ernest Eccles contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:31.539205'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.569955'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.588585'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.617115'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.674825'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.695735'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.724935'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.749455'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.765205'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.798995'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.819075'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.835085'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.862895'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.898565'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no transfer
+    of, or other dealing with, the Charge dated *CD* is to be registered without the
+    consent of the registered proprietor of the land under section 7 of the Local
+    Government Act 1986'
+- entry_id: '2014-07-01 17:14:31.916035'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:31.949195'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.011105'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.063085'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.077625'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.092475'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.112075'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.132685'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.157795'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.180705'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.211875'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.276385'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.317385'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.357725'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.393565'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.419575'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.437245'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.458545'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.490355'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.522065'
+  role_code: CCCR
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 12 June 1997
+    date: '1997-06-12'
+    type: DATE
+  - text: W5
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: 'RESTRICTION: Except under an order of the registrar no disposition
+    by the proprietor of the Charge dated *CD* referred to above is to be registered
+    without the consent of Fred Bloggs of 456 The Cutting, Chiswick, London *TN*'
+- entry_id: '2014-07-01 17:14:32.557175'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1985-05-04'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Elizabeth Smith contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:32.606355'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1985-05-04'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Elizabeth Smith contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:32.661475'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1985-05-04'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between (1) Stroud Proprietory Limited and (2) Elizabeth Smith contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2014-07-01 17:14:32.695005'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.724655'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.737345'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.748055'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.759965'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.770915'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.782335'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.792465'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.804095'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.818055'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.828915'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to such restrictive covenants as may have been imposed thereon before 8 July 1998 and are still subsisting and capable of being enforced
+- entry_id: '2014-07-01 17:14:32.842065'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:32.899295'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:32.920765'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:32.937485'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:32.951475'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:32.970425'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.035775'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.055445'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.071565'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.085885'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.099075'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.119455'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.130235'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.141135'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.156415'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.170155'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.182405'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.194505'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.206075'
+  role_code: RMHA
+  language: ENG
+  sub_register: C
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: Notice of rights of occupation under the Matrimonial Homes Act 1967 in favour of Ford Anglia of 7 Cardinnis Green, Liskeard, PL14 3BS the spouse of Ford Prefect
+- entry_id: '2014-07-01 17:14:33.229925'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.290675'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.350925'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.408835'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.456745'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.511815'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.574225'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.638845'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.681735'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.720565'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.754255'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.822425'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1993-05-23'
+    description: Transfer
+  infills:
+  - text: edged and numbered 1 in red
+    type: PLAN REF
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land *PR* on the filed plan is subject to the following rights\
+    \ reserved by a *DT* thereof dated *DD* made between (1) Landacre Developments\
+    \ Limited and (2) Reading District Council:-\r\r\"EXCEPTING AND RESERVING for\
+    \ the benefit of the retained land shown coloured blue on the plan attached hereto\
+    \ the right for the Vendor and his successors in title the owners for the time\
+    \ being of the land coloured blue to use that part of the drain under the land\
+    \ hereby transferred in the position shown by a blue line on the plan attached\
+    \ hereto.\""
+- entry_id: '2014-07-01 17:14:33.887795'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.902865'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.919935'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Alison Homes PLC and (2)\
+    \ Dorset Hotel PLC contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:33.936745'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to the rights reserved by the *DT* dated *DD* referred to above
+- entry_id: '2014-07-01 17:14:33.970265'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1998-06-29'
+    description: Transfer
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: The land is subject to the rights reserved by the *DT* dated *DD* referred to above
+- entry_id: '2014-07-01 17:14:34.015645'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1975-05-21'
+    description: Transfer
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Michael Mouse and (2) Donald\
+    \ Duck contains restrictive covenants.\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:34.054375'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1954-05-12'
+    description: Transfer
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Anthony Ward and Clifford\
+    \ T Ward and (2) Edward Harol Duce contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:34.098755'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1962-07-23'
+    description: Transfer
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land is subject to the following rights reserved by a *DT**DE*\
+    \ dated *DD* made between (1) Edward Harold Duce (Transferor) and (2) Michael\
+    \ Shears Payne and Wendy Payne (Transferees):-\r\r\"EXCEPT AND RESERVED unto the\
+    \ Transferor his successors in title or other the owner or owners for the time\
+    \ being of the adjoining land of the Transferor known as Woodside Farm of the\
+    \ right to the supply and free and uninterrupted flow and passage of water from\
+    \ the water main situate under the Henley-Maidenhead road to the adjoining property\
+    \ of the Transferor and to the property known as The Lodge, Remenham Place through\
+    \ the pipes conduits and junctions now used for conveying the same and in existence\
+    \ in under and upon the land hereby transferred and through any pipes conduits\
+    \ junctions which may at any time and from time to time with workmen and others\
+    \ to enter upon the land hereby transferred to cleanse maintain repair and renew\
+    \ the said pipes conduits and junctions the Transferor and his successors in title\
+    \ giving to the Transferee and his successors in title reasonable notice prior\
+    \ to such entry and doing thereby no unnecessary damage.\""
+- entry_id: '2014-07-01 17:14:34.132645'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1982-12-07'
+    description: Transfer
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "The land is subject to the following rights granted by the *DT*\
+    \ dated *DD* referred to above:-\r\r\"TOGETHER WITH the rights set out in the\
+    \ Second Schedule hereto\r\r<CENTRE>THE SECOND SCHEDULE hereinbefore referred\
+    \ to</CENTRE>\r\r<CENTRE>(Rights passing with the property hereby transferred)</CENTRE>\r\
+    \r(a) . . . . . . . . . .\r\r(b) the right to use the septic tank situated under\
+    \ the retained premises and all sewers drains water pipes telephone and electric\
+    \ wires or cables which run over or under the retained premises and serve the\
+    \ property hereby transferred with the right to enter upon such part of the retained\
+    \ premises as may be necessary for the purpose of inspecting cleansing maintaining\
+    \ and repairing such septic tank sewers drains water pipes telephone and electric\
+    \ wires or cables the person exercising this right making reasonable compensation\
+    \ for any damage which may be done thereby to the retained premises.\r\r(c) the\
+    \ right to enter upon such part of the retained premises only as is necessary\
+    \ for the purpose only of maintaining and decorating Willow Corner.\r\r(d) the\
+    \ right to shelter and protection of the building erected on part of the property\
+    \ hereby transferred as is now afforded by the retained buildings..............\""
+- entry_id: '2014-07-01 17:14:34.163745'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1978-06-05'
+    description: Conveyance
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Joseph Public and (2) Frederick\
+    \ Bloggs contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:34.178455'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1994-05-12'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Frederick Bloggs and (2)\
+    \ Jonathan Jones contains restrictive covenants.\r\r<NOTE></NOTE>"
+  notes:
+  - text: Original filed
+    font: I
+- entry_id: '2014-07-01 17:14:34.196175'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1990-08-29'
+    description: Transfer
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  - text: K123456
+    type: TITLE NO
+  entry_date: '1998-10-06'
+  status: Current
+  template_text: "A *DT**DE* dated *DD* made between (1) Wokingham District Council\
+    \ and (2) Paul Alan Marsh and Charlotte Jane Marsh contains restrictive covenants.\r\
+    \r<NOTE></NOTE>"
+  notes:
+  - text: Original filed under *TN*
+    font: I
+- entry_id: '2014-07-01 17:14:34.293845'
+  role_code: SSCH
+  language: ENG
+  sub_register: S
+  deeds:
+  - date: '1811-01-08'
+    description: Conveyance
+  status: Current
+  template_text: "The following are details of the covenants contained in the *DT*\
+    \ dated *DD* referred to in the Charges Register:-\r\r\"AND the said William Culverwell\
+    \ doth hereby for himself his heirs and assigns covenant promise and agree to\
+    \ and with the said James Arthur Keeling his heirs and assigns by these presents\
+    \ in manner following that is to say that no stable or Coach house shall be built\
+    \ on the said Plot of ground which shall extend more than twenty feet from the\
+    \ Eastermost End of the said Plot of ground or be more than twenty feet above\
+    \ the level of the intended Road or way to be made behind the said Plot of Ground\
+    \ hereby granted and released under such direction as before mentioned AND that\
+    \ the same Stable or coach house shall not have any flue for carrying smoke therein\
+    \ AND ALSO that no such Stable or coach house or any part thereof shall ever be\
+    \ converted into a dwellinghouse Lodging Room or dwelling apartment nor shall\
+    \ the same or any part thereof be used for any other purpose than as a stable\
+    \ and coachhouse nor shall any person or persons be permitted to reside or dwell\
+    \ therein or use the same in any manner ALSO that the whole westward front of\
+    \ the said stable or coach house shall be built with freestone properly coombed\
+    \ down and in uniformity with other stables and coach houses built or to be built\
+    \ at or on the Eastward end of gardens of houses forming the said new site of\
+    \ buildings called or intended to be called Cavendish Place and under the direction\
+    \ of the said William Broom and James Chapman their several heirs or assigns and\
+    \ that such stables and caochhouses shall be wholly covered with blue slate AND\
+    \ ALSO that he the said WILLIAM CULVERWELL his heirs appointees or assigns shall\
+    \ and will completely finish the said messuage or dwellinghouse and buildings\
+    \ hereby released agreeable to all and every the covenants herein contained so\
+    \ as to make the said messuage and buildings properly tenantable in evry respect\
+    \ on or before the thirty first day of December next AND ALSO that the said William\
+    \ Culverwell his heirs or assigns shall and will from time to time and at all\
+    \ times hereafter at his or their or some or one of their own proper costs and\
+    \ charges effectually lastingly and substantially repair maintain uphold amend\
+    \ and keep the said messuage or dwelling house now erected and built or now erecting\
+    \ and building on the plot of ground hereby intended to be granted and released\
+    \ and all other erections and building which shall or may be erected on the same\
+    \ plot of ground or any part thereof pursuant to any covenant therein contained\
+    \ with all appurtenances thereto belonging and all windows pavements Garden or\
+    \ Boundary walls gutters vaults and houses of office thereto belonging in by and\
+    \ with all manner of good lasting and substantial reparirs and amendments whatsoever\
+    \ AND ALSO that it shall and may be lawful to and for the said James Keeling his\
+    \ heirs or assigns his or their nominees or agents at his or their free will and\
+    \ pleasure with or without workmen or others at any convenient time in the day\
+    \ time not exceeding twice in any one year into and upon the said plot of ground\
+    \ and dwellinghouse hreby released or into the said Vault and area or any part\
+    \ thereof or any building erected or to be erected on any part of the said plot\
+    \ of ground to enter and come and then and there to view search and see the state\
+    \ and condition of the Reparations of the same and of all such default pf reparations\
+    \ as shall be then and there found to give or leave notice or warning in writing\
+    \ to the said William Culverwell his heirs or assigns or at or on the aforesaid\
+    \ messuage so erected or to be erected to repair the same and that within six\
+    \ calendar months from and after the time of such notice or warning left at the\
+    \ said William Culverston his heirs or assigns shall and will well and effectually\
+    \ substantially and lastingly repari and amend the same accordinly AND ALSO that\
+    \ in case the said messuage or dwelling house and building so erected and to be\
+    \ so completed on the Plot of ground hereby granted and released shall at any\
+    \ time hereafter be burnt destroyed or damaged by fire lightening tempest civil\
+    \ or foreign emenies or by any other cause or means he the said William Culverwell\
+    \ his heirs or assigns shalll and will erect and build the same at his or their\
+    \ own costs so soon as may be and at the most within two years after such fire\
+    \ or other accident shall have happened in as good lasting and substantial a manner\
+    \ and in the same elevation style and order and of as good or greater value than\
+    \ the messuage or dwellinghouse and building so destroyed burnt or damaged AND\
+    \ ALSO shall and will when the said messuage or dwellnghouse now erecting and\
+    \ building on the premises hereby conveyed shall be completed and finished forthwith\
+    \ Insure and from time to time and at all times for ever hereafter keep the same\
+    \ constantly insured from and against any loss or damage by fire in one of the\
+    \ Public Insurance Offices against fire at Bath or London to the amount of not\
+    \ less than one thousand pounds and duly pay the premium or consideration money\
+    \ for such insurance and in case of accident shall happen by fire to the said\
+    \ messuage or dwellinghouse so insureed the money payable under and by virtue\
+    \ of such insurance shall be paid and such Insurance Office and the Directors\
+    \ and proprietors of the same are hereby full authorised to apply the same either\
+    \ to the repariing of the damages done by such fire or in erecting any building\
+    \ on the same ground than the messuage so burnt injured or consumed by fire as\
+    \ aforesaid AND the said William Culverwell for himself his heirs and assigns\
+    \ doth agree that such monies shall not be paid or applied to any other purpose\
+    \ whatsoever AND ALSO that after the  said messuage and Premises shall be built\
+    \ and completed in manner aforesaid he the said William Culverwell his heirs or\
+    \ assigns shall not nor will alter or vary in any respect whatsoever the westernmost\
+    \ front of the said House nor the Area Stone plinth iron railing or Pavement before\
+    \ such western front nor erect any building or erection in or over the said Area\
+    \ the sole use whereof is hereby granted save only a Veranda from the Drawing\
+    \ room Windows and also save an Arch to lead into the passage only on the Parlour\
+    \ floor of the said House from and out of the said Street or place and also save\
+    \ Pantries in the said area which shall not be built or erected higher that the\
+    \ foot of the base made to support the iron railing in front of the said area\
+    \ to the end the same area may be for ever open and the uniformity of Building\
+    \ in the fronts of all the dwellinghouses built or intended in the said place\
+    \ called Caviendish Place may for ever be preserved AND ALSO shall not nor will\
+    \ at any time hereafter erect or raise any boundary or garden walls higher than\
+    \ eight feet or lower than six feet but for ever support and maintain all boundary\
+    \ and garden walls of the height last mentioned AND ALSO when the said footway\
+    \ and pavement below the west front of the said messuage and the iron railings\
+    \ and bast stone intended to bound in the Area there shall be completed agreeable\
+    \ to the covenants hereinbefore contained he that said William Culverwell his\
+    \ heirs appointees or assigns shall and will forever keep all the same pavement\
+    \ iron Railings bounding the said Area in the like state and in good and substantial\
+    \ repair and condition AND ALSO that no house or office or other building shall\
+    \ be ever made in the said vaults or in the said area westward of the said messuage\
+    \ AND ALSO that he the said William Culverwell his heirs or assigns shall not\
+    \ nor will at nay time hereafter erect or build or permit or suffer to be erected\
+    \ or built any office or building whatsoever eastward or behind the said messuage\
+    \ which shall extend more than fifteen feet from the present Eastern front of\
+    \ the said messuage or which shall be higher than the cills of the lower staircase\
+    \ window at present made in the same messuage without the consent in writing of\
+    \ the said William Brown and James Chapman their respective heirs or assigns first\
+    \ had and obtained nor shall not will make any flue for smoke in any outbuildings\
+    \ which shall not be carried up in and to the top of the main Chimney Stack now\
+    \ errected in nad for the said house AND ALSO that he the said William Culverwell\
+    \ his heirs or assigns shall not nor will use or carry on or in the said Plot\
+    \ of ground hereby released or any building thereon nor permit any person or persons\
+    \ to use or carry on or within the same the trades of a butcher slaughterman tallow\
+    \ chandler melter or tallow marble mason plumber glazier book binder sawyer carpenter\
+    \ or any other noisy noisome or offensive trade business or calling whatsoever.\"\
+    \r\r<NOTE></NOTE>"
+  notes:
+  - text: This is a new note to a very long entry which does not have separate paragaraphs
+    font: ' '
+- entry_id: '2014-07-01 17:14:34.331135'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule: {}
+  status: Current
+- entry_id: '2014-07-01 17:14:34.359085'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule: {}
+  status: Current
+- entry_id: '2014-07-01 17:14:34.371765'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule: {}
+  status: Current
+- entry_id: '2014-07-01 17:14:34.387255'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule: {}
+  status: Current
+- entry_id: '2014-07-01 17:14:34.398265'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1995-12-19'
+      header: Registration Date
+    - text: '1'
+      header: Plan Reference
+    - text: First one
+      header: Property Description
+    - text: '1996-08-08'
+      header: Date of Lease
+    - text: 999 years
+      header: Term
+    - text: GR656565
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.401735'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1970-05-12'
+      header: Registration Date
+    - text: 2 in yellow
+      header: Plan Reference
+    - text: Flat 23
+      header: Property Description
+    - text: '1991-06-25'
+      header: Date of Lease
+    - text: 300 years from 25.6.1991
+      header: Term
+    - text: BK123
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.405195'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1970-05-13'
+      header: Registration Date
+    - text: 1 in yellow
+      header: Plan Reference
+    - text: Test 3
+      header: Property Description
+    - text: '1968-07-25'
+      header: Date of Lease
+    - text: 55 years from 12.5.1970
+      header: Term
+    - text: BK234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.407855'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.412575'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.416115'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.422475'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.425465'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.428135'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.431025'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.433595'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.440835'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.443425'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 1
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.446185'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.465755'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.469635'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.472655'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.489795'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.520855'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.530555'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.543095'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.545855'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 2
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.548425'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.551135'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.553735'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.559095'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.561735'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.564855'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.582525'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.585105'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.587385'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.590045'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.594925'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.597845'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.607675'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 3
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.663865'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.670875'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.673995'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.677885'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.700115'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.703155'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.705795'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.708415'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.711025'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.713635'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.716455'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.719195'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Macro 4
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.721805'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.724485'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.747805'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.765435'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.769805'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.786895'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.801565'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.804695'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.821665'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.827885'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.830745'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.833885'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.836495'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 5
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 9999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.839155'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.856295'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.859375'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.862025'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.873645'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.892755'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.907155'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.909965'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.912395'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.914895'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 6
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.920685'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.923485'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.937645'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.956525'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.959245'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.961875'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:34.992145'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.003095'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.005705'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.018035'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.036485'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 7
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.039145'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.067265'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.090445'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.093425'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.099445'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.132205'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.136585'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.139465'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.141925'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 8
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.147535'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.153145'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.155835'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.187685'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.200395'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.203365'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.205925'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.208665'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.211405'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.214025'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 9
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.216845'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.219425'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.222115'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.224975'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.233385'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.252295'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.255535'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.268085'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.271045'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.273745'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 10
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.276535'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 11
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.279375'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 11
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.282355'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 11
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.284715'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 11
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.291845'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 11
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.294145'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 12 in yellow
+      header: Plan Reference
+    - text: Flat 11
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.306595'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 22 in yellow
+      header: Plan Reference
+    - text: Flat 12
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.309425'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 22 in yellow
+      header: Plan Reference
+    - text: Flat 12
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.337815'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 22 in yellow
+      header: Plan Reference
+    - text: Flat 12
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.340785'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 125 in yellow
+      header: Plan Reference
+    - text: Flat 125
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.356005'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 126 in yellow
+      header: Plan Reference
+    - text: Flat 126
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.362095'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 127 in yellow
+      header: Plan Reference
+    - text: Flat 127
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.365215'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 129 in yellow
+      header: Plan Reference
+    - text: Flat 129
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+- entry_id: '2014-07-01 17:14:35.368025'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1976-12-13'
+      header: Registration Date
+    - text: 130 in yellow
+      header: Plan Reference
+    - text: Flat 130
+      header: Property Description
+    - text: '1971-12-12'
+      header: Date of Lease
+    - text: 999 years from 11.12.1971
+      header: Term
+    - text: GR123234
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+title_number: BK500521
+dlr: Gloucester Office
+migration_errors:
+- extractor: Register Check
+  message: Title is not syncronised
+- extractor: Schedule Extractor
+  entry_id: '2014-07-01 17:14:34.331135'
+  message: No deeds found for schedule entry 2014-07-01 17:14:34.331135
+- extractor: Schedule Extractor
+  entry_id: '2014-07-01 17:14:34.359085'
+  message: No deeds found for schedule entry 2014-07-01 17:14:34.359085
+- extractor: Schedule Extractor
+  entry_id: '2014-07-01 17:14:34.371765'
+  message: No deeds found for schedule entry 2014-07-01 17:14:34.371765
+- extractor: Schedule Extractor
+  entry_id: '2014-07-01 17:14:34.387255'
+  message: No deeds found for schedule entry 2014-07-01 17:14:34.387255
+- extractor: Geometry Extractor
+  message: No extent or index
+districts:
+- READING

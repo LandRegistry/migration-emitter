@@ -59,7 +59,7 @@ class Old_JSON_Extractor
   #return hash of address
   def self.get_property_address(entry)
     output = {}
-    if entry['infills'][0]['address'].present?
+    if entry['infills'].present? && entry['infills'][0]['address'].present?
       address = entry['infills'][0]['address']
 
       output['full_address']              = address['address_string'] if address['address_string']
