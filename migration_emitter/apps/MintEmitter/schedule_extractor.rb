@@ -19,8 +19,8 @@ class ScheduleExtractor
     schedules['Z'] = []
 
     if model['entries'].present?
-      model['entries'].detect do |entry|
-
+      model['entries'].each do |entry|
+        puts entry['role_code']
         case entry['role_code']
           when 'DIRC' #D
             schedule_entry = setup_schedule_entry( entry )
@@ -64,19 +64,41 @@ class ScheduleExtractor
 
           when 'RLLE' #L
             schedule_entry = setup_schedule_entry( entry )
-            schedule_entry['template'] = 'Benefitting land: *S1* *S<Title Number of benefiting land:>2* Date of lease: *S3* Term of lease: *S4* *S<Registration date:>5*'
+            schedule_entry['template']    = 'Registration Date: *S1* Plan Reference:*S2* Property Description: *S3* Date of Lease: *S4* Term: *S5* Lessees Title: *S6*'
             fields = {}
-            fields['benefiting_land']   = find_fields(entry, 'Benefitting land')
-            fields['title_number']      = find_optional_fields(entry, 'Title Number of benefitting land')
-            fields['date_of_lease']     = find_fields(entry, 'Date of lease')
-            fields['term_of_lease']     = find_fields(entry, 'Term of lease')
-            fields['registration_date'] = find_optional_fields(entry, 'Registration date')
-
+            fields['registration_date']   = find_fields(entry, 'Registration Date')
+            fields['plan_reference']      = find_fields(entry, 'Plan Reference')
+            fields['property_description']= find_fields(entry, 'Property Description')
+            fields['date_of_lease']       = find_fields(entry, 'Date of Lease')
+            fields['term']                = find_fields(entry, 'Term')
+            fields['lessees_title']       = find_fields(entry, 'Lessees Title')
+            
             schedule_entry['fields'] = fields
             schedules['L'].push(schedule_entry) if schedule_entry
 
           when 'RMRL' #M
+            schedule_entry = setup_schedule_entry( entry )
+            schedule_entry['template'] = 'Property description: *S1* Date of lease: *S2* Parties: *S3* Term: *S4* Rent: *S5*'
+            fields = {}
+            fields['property_description'] = find_fields(entry, 'Property description')
+            fields['date_of_lease']        = find_fields(entry, 'Date of lease')
+            fields['parties']              = extract_parties( entry )
+            fields['term']                 = find_fields(entry, 'Term')
+            fields['rent']                 = find_fields(entry, 'Rent')
+
+            schedule_entry['fields'] = fields
+            schedules['M'].push(schedule_entry) if schedule_entry
+            
           when 'PMPS' #P
+            schedule_entry = setup_schedule_entry( entry )
+            schedule_entry['template'] = 'Short description: *S1* Plan reference: *S2*'
+            fields = {}
+            fields['short_description'] = find_fields(entry, 'Short description')
+            fields['plan_reference']        = find_fields(entry, 'Plan reference')
+
+            schedule_entry['fields'] = fields
+            schedules['P'].push(schedule_entry) if schedule_entry          
+
           when 'RWDF' #Q
           when 'DMRR' #R
           when 'RSAR' #T
@@ -93,7 +115,9 @@ class ScheduleExtractor
   end
 
   def self.find_fields( entry, header )
-    return (entry['schedule']['fields'].find{|fields| fields['header'] == header})['text']
+    if entry['schedule'].present?
+      return (entry['schedule']['fields'].find{|fields| fields['header'] == header})['text']
+    end
   end
 
   def self.find_optional_fields( entry, header )
