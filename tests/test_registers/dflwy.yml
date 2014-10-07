@@ -257,9 +257,9 @@ entries:
   schedule:
     fields:
     - text: 15 Welford Road
-      header: Benefitting land
+      header: Benefiting land
     - text: CYM123
-      header: Title Number of benefitting land
+      header: Title Number of benefiting land
     - text: '2003-09-23'
       header: Date of lease
     - text: 99 years from 23 September 2003
@@ -311,7 +311,7 @@ entries:
     - text: Transfer
       header: Nature of deed
     - text: '2003-09-23'
-      header: Date of Deed
+      header: Date of deed
     - text: Copy filed
       header: Remarks
     - text: CYM1
@@ -338,7 +338,7 @@ entries:
     - text: Transfer
       header: Nature of deed
     - text: '2003-09-23'
-      header: Date of Deed
+      header: Date of deed
     - text: Copy filed
       header: Remarks
     - text: '2004-07-27'

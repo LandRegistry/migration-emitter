@@ -56,6 +56,10 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 
     json = JSONBuilder.convert_hash(body)
 
+    if json['error'].present?
+      raise 'Error building JSON'
+    end
+
 		return json
 	end
 
@@ -91,16 +95,16 @@ end
 
 #------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
 # mec = MintEmitterConsumer.new
-# model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/lpx.yml'))
+# model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/q.yml'))
 # pp JSON.parse( mec.process_message(model) )
-#pp JSON.parse(mec.process_message( rt.transform_register('BD161870') ) )
+
 
 
 ##xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
-require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
-rt = RegisterTransformer.new
-m = rt.transform_register('BK501311')
-mec = MintEmitterConsumer.new
-File.open('mw.yml', 'w') { |fo| fo.puts m.to_yaml }
-model = YAML.load_file('mw.yml')
-pp JSON.parse( mec.process_message(model) )
+# require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
+# rt = RegisterTransformer.new
+# m = rt.transform_register('CYM415')
+# mec = MintEmitterConsumer.new
+# File.open('r.yml', 'w') { |fo| fo.puts m.to_yaml }
+# model = YAML.load_file('r.yml')
+# pp  mec.process_message(model)

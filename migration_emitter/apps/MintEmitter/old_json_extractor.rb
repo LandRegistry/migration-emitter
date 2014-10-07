@@ -93,20 +93,22 @@ class Old_JSON_Extractor
 
   #return hash of payment details including array of titles
   def self.get_payment(model)
+    price_info = {}
     if model['entries'].present?
       model['entries'].detect { |entry|
         if %w(RPPD).include? entry['role_code']
-          price_info = {}
+
           titles = []
           entry['infills'].each do |infill|
             price_info['price_paid'] = infill['text'] if infill['type'] == 'PRICE'
             titles.push(infill['text']) if infill['type'] == 'TITLE'
           end  #of each infill
           price_info['titles'] = titles if titles.present?
-          return price_info
         end
       }
     end
+
+    price_info
   end
 
 end
