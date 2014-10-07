@@ -1,0 +1,440 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 366680.08
+          - 79122.89
+        - - 366677.7
+          - 79127.33
+        - - 366674.16
+          - 79133.93
+        - - 366661.51
+          - 79158.34
+        - - 366664.46
+          - 79162.14
+        - - 366668.71
+          - 79167.54
+        - - 366670.67
+          - 79163.73
+        - - 366676.35
+          - 79152.72
+        - - 366689.14
+          - 79127.94
+        - - 366680.08
+          - 79122.89
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 366680.08
+          - 79122.89
+        - - 366677.7
+          - 79127.33
+        - - 366674.16
+          - 79133.93
+        - - 366661.51
+          - 79158.34
+        - - 366664.46
+          - 79162.14
+        - - 366668.71
+          - 79167.54
+        - - 366670.67
+          - 79163.73
+        - - 366676.35
+          - 79152.72
+        - - 366689.14
+          - 79127.94
+        - - 366680.08
+          - 79122.89
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+last_app_timestamp: '2007-09-05T10:47:48.000+01:00'
+edition_date: '2007-09-05T00:00:00.000+01:00'
+class: Absolute
+tenure: Leasehold
+entries:
+- entry_id: '2007-08-01 07:50:58.592210'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  entry_date: '2007-08-01'
+  status: Current
+- entry_id: '2007-08-01 07:46:35.411830'
+  role_code: DVQX
+  language: ENG
+  sub_register: A
+  deeds:
+  - date: '2007-07-09'
+    parties:
+    - names:
+      - surname: Temple
+        forename: Shirley
+    - names:
+      - surname: Morrison
+        forename: Marion
+    description: Lease
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  - text: wibble
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: "The registered rentcharge was created by a *DT**DE* dated *DD* made\
+    \ between *DP* *M<>M*.\r\r*N<¬NOTE: Copy filed>N*"
+  notes:
+  - text: Copy filed
+    font: I
+- entry_id: '2007-08-01 07:38:35.011980'
+  role_code: RWDF
+  language: ENG
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'The leasehold land out of which the registered rentcharge issues is held
+        under a lease of which the following are short particulars and the registered
+        rentcharge is subject to all obligations and liabilities incident to the said
+        leasehold term:'
+      header: ''
+    - text: '2007-07-09'
+      header: Date of Lease
+    - text: 999 years
+      header: Term
+    - parties:
+      - names:
+        - surname: Ulianov
+          forename: Vladimir Illych
+      - names:
+        - surname: Kennedy
+          forename: John Fitzgerald
+      header: Parties
+    schedule_type: Q
+    parent_register: A
+    header: ''
+  entry_date: '2007-08-01'
+  status: Current
+- entry_id: '2007-08-03 08:11:40.703630'
+  role_code: RKHL
+  language: ENG
+  sub_register: A
+  entry_date: '2007-08-03'
+  status: Current
+  template_text: The title includes any legal easements referred to in clause LR11.1 of the registered lease but is subject to any rights that are granted or reserved by the lease and affect the registered land.
+- entry_id: '2007-08-01 07:40:17.626760'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - town: Caernarfon
+        address_string: 23 High Street, Caernarfon
+        secondary_house_no: '0'
+        house_no: '23'
+        address_type: U
+        street_name: High Street
+      name:
+        company_reg_num: '2112'
+        name_category: B
+        non_private_individual_name: Angkor Wat Plc
+    type: Proprietor
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2007-08-01 07:38:58.821570'
+  role_code: CBCR
+  language: ENG
+  sub_register: B
+  infills:
+  - text: 23/07/2007
+    date: '2007-07-23'
+    type: DATE
+  - text: Halifax PLC
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: 'RESTRICTION: No disposition of the registered estate by the proprietor
+    of the registered estate is to be registered without a written consent signed
+    by the proprietor for the time being of the Charge dated *CD* in favour of *CP*
+    referred to in the Charges Register.'
+- entry_id: '2007-08-01 07:38:58.407170'
+  role_code: CCHA
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 23/07/2007
+    date: '2007-07-23'
+    type: DATE
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: REGISTERED CHARGE dated *CD*.
+- entry_id: '2007-09-05 09:47:48.803245'
+  role_code: CCHR
+  language: ENG
+  sub_register: C
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Trinity Road, Halifax, W Yorkshire HX1 2RG
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Halifax PLC
+    type: Charge Proprietor
+  entry_date: '2007-09-05'
+  status: Current
+  template_text: 'Proprietor: #HALIFAX PLC# (Co. Regn. No. 2367076) of Trinity Road,
+    Halifax, W Yorkshire HX1 2RG.'
+- entry_id: '2007-08-01 07:58:21.365900'
+  role_code: RLER
+  language: ENG
+  sub_register: C
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: The land is subject, during the terms created by the leases of easements specified in the schedule of leases of easements hereto, to the rights granted by the said leases.
+- entry_id: '2007-08-01 08:06:07.747560'
+  role_code: RRNT
+  language: ENG
+  sub_register: C
+  infills:
+  - text: regular
+  - text: lease
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: The parts of the land affected thereby are subject to the specified *O<>O* yearly rentcharges created by and to the covenants contained in, the *M<>M* particulars of which are set out in the Schedule of Rentcharges hereto.
+- entry_id: '2007-08-01 08:02:18.601400'
+  role_code: CCHA
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 06/06/2006
+    date: '2006-06-06'
+    type: DATE
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: REGISTERED CHARGE dated *CD*.
+- entry_id: '2007-08-01 08:02:18.682780'
+  role_code: CCHR
+  language: ENG
+  sub_register: C
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Nationwide House, Pipers Way, Swindon L SN38 1NW
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Nationwide Building Society
+    type: Charge Proprietor
+  entry_date: '2007-08-01'
+  status: Current
+  template_text: 'Proprietor: >NATIONWIDE BUILDING SOCIETY> of Nationwide House, Pipers
+    Way, Swindon L SN38 1NW.'
+- entry_id: '2007-08-03 08:10:56.556590'
+  role_code: DCEA
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1971-08-11'
+    description: Conveyance
+  entry_date: '2007-08-03'
+  status: Current
+  template_text: "The land is subject to the following rights granted by a Conveyance\
+    \ of the land tinted yellow on the filed plan dated 11 August 1971 made between\
+    \ (1) The Secretary of State For Social Services (Vendor) and (2) The County Council\
+    \ of The Administrative County of Kent (Purchaser):-\r\r\"Full right and liberty\
+    \ for the Purchaser and its successors in title to (a) lay construct maintain\
+    \ repair and renew within the adjoining land of the Vendor to the north of the\
+    \ land hereby conveyed a foul drain with a diameter of six inches in the position\
+    \ shown by a red line between points \"D\" and \"F\" on the said plan such drain\
+    \ to be constructed in accordance with Clause 2 hereof (b) connect the said drain\
+    \ to the Vendor's drain at point \"F\" on the said plan and (c) use the said drains\
+    \ for the passage of water and soil from the buildings to be erected on the land\
+    \ hereby conveyed into the public sewer.\r\rTHE Purchaser hereby covenants with\
+    \ the Vendor to\r\r(a)  Lay the foul drain hereinbefore referred to at an average\
+    \ invert level of about three feet with two heavy duty manholes to be constructed\
+    \ at approximately ground level in the positions marked \"M.H.\" on the said plan\
+    \ the trench for the length of drain between points \"D\" and \"E\" to be excavated\
+    \ by machine but the length of drain between points \"E\" and \"F\" to be hand\
+    \ dug the working width to be of a maximum of sixteen feet reducing to ten feet\
+    \ and the Purchaser will be responsible for returning the top soil and re-seeding\
+    \ and for renewing tarmac on the Section \"E\" to \"F\"\r\r(b)  Be responsible\
+    \ for any damage caused by its Contractors during the work of laying and constructing\
+    \ the said drain\r\r(c)  Enclose with suitable fences any part of the trenches\
+    \ where left open\r\r(d)  Idemnify the Vendor against any damage or loss occurring\
+    \ to its property patients staff or any other person or persons as a direct result\
+    \ of the carrying out of the said drainage work from the commencement of such\
+    \ work until the completion thereof\r\r(e)  Be responsible for any disturbance\
+    \ and accommodation works and the making good of any damage arising from the laying\
+    \ maintaining repairing or renewal of the said drain and of the exercise of the\
+    \ rights hereinbefore granted  The Management Committee is to be advised on all\
+    \ occasions when the Purchaser wishes to enter the hospital grounds for any purpose\
+    \ in connection with the drainage system.\"\r\rNOTE: The red line referred to\
+    \ is shown by a blue broken line on the filed plan and the points D, E and F are\
+    \ reproduced thereon.  The manholes marked MH referred to are similarly reproduced\
+    \ on the filed plan thereon"
+- entry_id: '2007-08-01 07:53:45.555910'
+  role_code: RFEA
+  language: ENG
+  sub_register: F
+  schedule:
+    fields:
+    - text: Number 3
+      header: Benefiting land
+    - text: CYM103
+      header: Title Number of benefiting land
+    - text: '2006-08-01'
+      header: Date of lease
+    - text: 999 years
+      header: Term of lease
+    - text: '2006-08-01'
+      header: Registration date
+    schedule_type: F
+    parent_register: C
+    header: SCHEDULE OF LEASES OF EASEMENTS
+  status: Current
+- entry_id: '2007-08-01 07:53:45.459570'
+  role_code: RFEA
+  language: ENG
+  sub_register: F
+  schedule:
+    fields:
+    - text: Number 2
+      header: Benefiting land
+    - text: CYM102
+      header: Title Number of benefiting land
+    - text: '2007-02-12'
+      header: Date of lease
+    - text: 999 years
+      header: Term of lease
+    - text: '2007-02-12'
+      header: Registration date
+    schedule_type: F
+    parent_register: C
+    header: SCHEDULE OF LEASES OF EASEMENTS
+  status: Current
+- entry_id: '2007-08-01 07:53:45.187640'
+  role_code: RFEA
+  language: ENG
+  sub_register: F
+  schedule:
+    fields:
+    - text: Number 1
+      header: Benefiting land
+    - text: CYM101
+      header: Title Number of benefiting land
+    - text: '2007-05-14'
+      header: Date of lease
+    - text: 999 years
+      header: Term of lease
+    - text: '2007-05-14'
+      header: Registration date
+    schedule_type: F
+    parent_register: C
+    header: SCHEDULE OF LEASES OF EASEMENTS
+  status: Current
+- entry_id: '2007-08-01 07:53:45.639820'
+  role_code: RFEA
+  language: ENG
+  sub_register: F
+  schedule:
+    fields:
+    - text: Number 4
+      header: Benefiting land
+    - text: CYM104
+      header: Title Number of benefiting land
+    - text: '2007-07-24'
+      header: Date of lease
+    - text: 999 years
+      header: Term of lease
+    - text: '2007-07-24'
+      header: Registration date
+    schedule_type: F
+    parent_register: C
+    header: SCHEDULE OF LEASES OF EASEMENTS
+  status: Current
+- entry_id: '2007-08-01 08:06:07.655350'
+  role_code: RFEA
+  language: ENG
+  sub_register: F
+  schedule:
+    fields:
+    - text: Numbered 5
+      header: Benefitting land
+    - text: CYM105
+      header: Title Number of benefiting land
+    - text: '2003-08-05'
+      header: Date of lease
+    - text: 999 years
+      header: Term of lease
+    - text: '2004-08-12'
+      header: Registration date
+    schedule_type: F
+    parent_register: C
+    header: SCHEDULE OF LEASES OF EASEMENTS
+  status: Current
+- entry_id: '2007-08-01 08:06:07.291550'
+  role_code: RWRN
+  language: ENG
+  sub_register: W
+  schedule:
+    fields:
+    - text: Garage 1
+      header: Description of land
+    - text: £100
+      header: Rentcharge
+    - text: Conveyance
+      header: Nature of deed
+    - text: '2007-08-01'
+      header: Date of deed
+    - text: CYM150
+      header: Title No.of rentcharge
+    - text: '2007-04-02'
+      header: Registration date
+    schedule_type: W
+    parent_register: C
+    header: SCHEDULE OF RENTCHARGES
+  status: Current
+- entry_id: '2007-08-01 08:06:07.480800'
+  role_code: RWRN
+  language: ENG
+  sub_register: W
+  schedule:
+    fields:
+    - text: Garage 2
+      header: Description of land
+    - text: £100
+      header: Rentcharge
+    - text: Lease
+      header: Nature of deed
+    - text: '2007-06-18'
+      header: Date of deed
+    - text: CYM151
+      header: Title No.of rentcharge
+    - text: '2007-05-21'
+      header: Registration date
+    schedule_type: W
+    parent_register: C
+    header: SCHEDULE OF RENTCHARGES
+  status: Current
+title_number: CYM610
+dlr: Wales Office
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2007-08-01 07:50:58.592210'
+  message: Address not deconstructed in Intelligent Register for title
+districts:
+- ISLE OF ANGLESEY
+- SIR YNYS MON

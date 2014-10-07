@@ -1,0 +1,8 @@
+development:
+  mint_endpoint: http://10.0.2.15:8080/FakeMint/titles/
+
+test:
+  mint_endpoint: http://10.0.2.15:8080/FakeMint/titles/
+
+production:
+  mint_endpoint: http://10.0.2.15:8080/FakeMint/titles/

@@ -8,6 +8,10 @@ The generated JSON format is tested using the Python [datatype](https://github.c
 
 Using an intermediate data model enables the complex process of extracting title information from legacy systems to be decoupled from the constrained document format used by the [the mint](https://github.com/LandRegistry/mint) which is slowly emerging to answer stories driven by [user needs](https://www.gov.uk/design-principles#first).
 
+###migration_emitter
+
+The migration emitter app is written in jRuby and runs on a Torquebox server. The app consumes messages from a queue which contains a hash (key/value pairs) for each migrating title.
+The hash will is reconstructed into the appropriate JSON format using the Jbuilder rubygem. The finished JSON is then posted to the mint.
 
 ### Title JSON Structure
 
@@ -15,7 +19,8 @@ A title is really just a list of entries, where each entry is a different piece 
 
 <pre>
   {
-    "text" : "example text",
+    "template" : "example text with markup",
+    "full_text" : "example text with markup replaced with real values",
     "fields" : {a list of fields},
     "deeds" : [an array of deeds],
     "notes" : [an array of notes]
@@ -29,6 +34,42 @@ The text field will contain markup such as:
 </pre>
 
 Each piece of markup i.e. *DT* will be replaced with either a field, deed, or note. Once each piece of markup has been replaced you have the full text for the entry.
+
+A deed looks like this;
+<pre>
+{
+    "type" : string,
+    "date" : date,
+    "parties" : [2 or more parties]
+}
+</pre>
+
+<pre>
+And a party to a deed looks like this
+{
+    "title" : string,
+    "full_name" : string,
+    "decoration" : string
+}
+</pre>
+
+An address looks like this:
+
+<pre>
+{
+    "full_address": "8 Miller Way, Plymouth, Devon, PL6 8UQ",
+    "house_no" : "8",
+    "street_name" : "Miller Way",
+    "town" : "Plymouth",
+    "postal_county" : "Devon",
+    "region_name" : "",
+    "country" : "",
+    "postcode":""
+}
+</pre>
+
+*Note* that only full_address is guaranteed to be populated.
+
 
 The entries can then be grouped together based upon user need i.e provisions, easements, restrictions etc...
 
@@ -93,12 +134,10 @@ However, we have several existing fields in the JSON that I will leave in in thi
 
             "proprietors": [
                 {
-                    "first_name": "firstname",
-                    "last_name": "lastname"
+                    "full_name": "firstname lastname"
                 },
                 {
-                    "first_name": "firstname",
-                    "last_name": "lastname"
+                    "full_name": "firstname lastname"
                 }
             ],
 

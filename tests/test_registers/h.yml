@@ -1,0 +1,237 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 383762.14
+          - 218791.13
+        - - 383761.65
+          - 218792.79
+        - - 383759.7
+          - 218799.3
+        - - 383759.02
+          - 218801.64
+        - - 383758.35
+          - 218803.99
+        - - 383757.26
+          - 218803.31
+        - - 383756.0
+          - 218807.75
+        - - 383757.19
+          - 218808.0
+        - - 383754.6
+          - 218817.01
+        - - 383758.95
+          - 218817.95
+        - - 383760.7
+          - 218817.1
+        - - 383766.25
+          - 218798.48
+        - - 383767.92
+          - 218792.84
+        - - 383765.68
+          - 218792.17
+        - - 383763.5
+          - 218791.52
+        - - 383762.14
+          - 218791.13
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 383762.14
+          - 218791.13
+        - - 383761.65
+          - 218792.79
+        - - 383759.7
+          - 218799.3
+        - - 383759.02
+          - 218801.64
+        - - 383758.35
+          - 218803.99
+        - - 383757.26
+          - 218803.31
+        - - 383756.0
+          - 218807.75
+        - - 383757.19
+          - 218808.0
+        - - 383754.6
+          - 218817.01
+        - - 383758.95
+          - 218817.95
+        - - 383760.7
+          - 218817.1
+        - - 383766.25
+          - 218798.48
+        - - 383767.92
+          - 218792.84
+        - - 383765.68
+          - 218792.17
+        - - 383763.5
+          - 218791.52
+        - - 383762.14
+          - 218791.13
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2010-09-15T00:00:00.000+01:00'
+last_app_timestamp: '2010-09-15T09:00:52.000+01:00'
+class: Absolute
+tenure: Leasehold
+title_number: CYM592
+entries:
+- entry_id: '2007-07-27 11:47:00.545040'
+  role_code: RDES
+  language: CYM
+  sub_register: A
+  infills:
+  - address:
+      town: Holyhead
+      address_string: Gloucester Medical Eye Centre, London Road, Holyhead
+      street_name: London Road
+      house_description: Gloucester Medical Eye Centre
+    type: Address
+  status: Current
+  entry_date: '2007-07-27'
+  template_text: Y tir Prydlesol a amlinellir yn goch ar gynllun y teitl uchod a ffeilir yn y Gofrestrfa sef *AD*
+- entry_id: '2007-07-27 11:49:39.453430'
+  role_code: DAEA
+  language: CYM
+  sub_register: A
+  deeds:
+  - date: '1889-04-17'
+    description: Conveyance
+  infills:
+  - type: EXTENT
+  - type: EXTENT
+  status: Current
+  entry_date: '2007-07-27'
+  template_text: Mae gan y tir *E<>E* fudd yr hawliau a roddir gan ond mae'n ddarostyngedig i'r hawliau a gedwir gan y *DT**DE* dyddiedig *DD* y cyfeirir ato yn y Gofrestr Arwystlon.
+- entry_id: '2007-07-27 11:49:39.699390'
+  role_code: DPRO
+  language: CYM
+  sub_register: A
+  deeds:
+  - date: '1889-04-17'
+    description: Conveyance
+  infills:
+  - type: EXTENT
+  status: Current
+  entry_date: '2007-07-27'
+  template_text: Mae'r *DT**DE* dyddiedig *DD* y cyfeirir ato uchod yn cynnwys gosodiad ynghylch golau neu aer.
+- entry_id: '2007-07-27 12:32:37.810170'
+  role_code: RSLP
+  language: CYM
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'Short particulars of the lease(s) (or under-lease(s)) under which the
+        land is held:'
+      header: ''
+    - text: '2007-07-02'
+      header: Date
+    - text: 99 years
+      header: Term
+    - text: £99
+      header: Rent
+    - parties:
+      - names:
+        - surname: Whiskas
+          forename: Tosca
+        - surname: Jago
+          forename: Alison
+        - surname: Jago
+          forename: Spencer
+      - names:
+        - surname: Whiskies
+          forename: Yusarian
+      header: Parties
+    schedule_type: H
+    parent_register: A
+    header: ''
+  status: Current
+  entry_date: '2007-07-27'
+- entry_id: '2010-09-15 08:28:02.680980'
+  role_code: RPRO
+  language: CYM
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - town: Holyhead
+        address_string: Gloucester Medical Eye Centre, London Road, Holyhead
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+        street_name: London Road
+        house_description: Gloucester Medical Eye Centre
+      name:
+        surname: Goodinson
+        forename: Sarah
+        name_category: A
+    type: Proprietor
+  status: Current
+  entry_date: '2010-09-15'
+  template_text: 'PERCHENNOG: *RP*'
+- entry_id: '2010-09-15 08:04:14.970550'
+  role_code: DCOV
+  language: CYM
+  sub_register: C
+  deeds:
+  - date: '2007-07-02'
+    parties:
+    - names:
+      - surname: West
+        forename: Fred
+    - names:
+      - surname: Whiskas
+        forename: Tosca
+    - names:
+      - surname: Spencer
+        forename: Jago
+    description: Transfer
+  infills:
+  - text: of other land
+    type: EXTENT
+  - text: Phasellus ligula risus, dignissim at, luctus vel, tincidunt non, massa. Duis odio. Sed nec dui quis mi elementum lobortis. Vestibulum magna. Pellentesque nunc leo, tempus et, mattis non, cursus eget, est. Nulla facilisi. Suspendisse mattis lectus sed justo. Ut id sapien. Nam mollis pulvinar eros. Morbi at massa. Sed sodales, quam at tempor facilisis, nunc ipsum cursus nulla, at vulputate quam magna ut arcu. Curabitur non mi et leo porttitor malesuada. Donec auctor facilisis ipsum. Suspendisse potenti. Cras nunc purus, dignissim quis, imperdiet a, pretium et, magna. Vestibulum sit amet sapien. Nam elit dolor, suscipit laoreet, pellentesque nec, porttitor commodo, magna. Quisque consequat. Nulla at odio sit amet massa suscipit tincidunt. Morbi commodo tristique sem. Praesent dui leo, feugiat ac, consectetuer sit amet, vehicula vitae, diam. Sed eleifend pharetra odio. Quisque vulputate lorem at nibh. Nulla cursus blandit erat. Donec venenatis purus vel urna. Nunc adipiscing leo sed purus. Quisque fermentum feugiat sem. Duis augue. Suspendisse id velit aliquam velit blandit hendrerit. Nunc aliquam vehicula risus. Nunc nunc ante, laoreet vitae, convallis non, mattis in, sapien. Nullam mauris. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus lorem lectus, tincidunt in, convallis at, adipiscing vel, felis. Cras egestas orci quis metus. Nulla consectetuer euismod sapien. Mauris est. Curabitur convallis. Vestibulum hendrerit. Donec ornare lacus eget enim. Suspendisse potenti. Aliquam ligula arcu, blandit sit amet, ullamcorper scelerisque, congue vitae, sapien. In mollis molestie erat. Vivamus sit amet tellus et tortor vulputate pellentesque. Maecenas lectus leo, faucibus in, placerat in, fringilla id, nulla. Curabitur imperdiet enim quis ante. Quisque eros mi, luctus sit amet, semper in, suscipit at, sem. Aenean sit amet enim at leo feugiat lacinia. Fusce sed felis sit amet ipsum ultrices vulputate. Aliquam eget augue. Nam sollicitudin, nunc at vehicula tempus, urna nibh pellentesque magna, sit amet blandit mi lacus ac magna. Duis fringilla turpis ut erat. Vestibulum ullamcorper eros sed elit malesuada semper. Pellentesque at augue sit amet nulla pharetra commodo. Morbi orci sapien, ultricies sit amet, posuere in, bibendum sed, nibh. Nunc facilisis tellus nec orci.
+    type: VERBATIM
+  status: Current
+  entry_date: '2007-07-27'
+  template_text: Mae *DT**DE* dyddiedig *DD* a wnaed rhwng *DP* yn cynnwys y cyfamodau canlynol:- *VT*
+- entry_id: '2010-09-15 08:13:38.738600'
+  role_code: DCOV
+  language: CYM
+  sub_register: C
+  deeds:
+  - date: '2007-07-02'
+    parties:
+    - names:
+      - surname: Smith
+        forename: Sam
+    - names:
+      - surname: Jones
+        forename: Sid
+    description: Transfer
+  infills:
+  - type: EXTENT
+  status: Current
+  entry_date: '2007-08-01'
+  notes:
+  - text: Copi yn y ffeil
+    font: I
+  template_text: "Mae *DT**DE* dyddiedig *DD* a wnaed rhwng *DP* yn cynnwys cyfamodau\
+    \ cyfyngu.\r\r*N<¬NODYN: Copi yn y ffeil>N*."
+dlr: Wales Office
+districts:
+- ISLE OF ANGLESEY
+- SIR YNYS MON
