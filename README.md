@@ -38,8 +38,8 @@ Each piece of markup i.e. *DT* will be replaced with either a field, deed, or no
 A deed looks like this;
 <pre>
 {
-    "type" : string, 
-    "date" : date, 
+    "type" : string,
+    "date" : date,
     "parties" : [2 or more parties]
 }
 </pre>
@@ -47,8 +47,8 @@ A deed looks like this;
 <pre>
 And a party to a deed looks like this
 {
-    "title" : string, 
-    "full_name" : string, 
+    "title" : string,
+    "full_name" : string,
     "decoration" : string
 }
 </pre>
@@ -57,13 +57,13 @@ An address looks like this:
 
 <pre>
 {
-    "full_address": "8 Miller Way, Plymouth, Devon, PL6 8UQ", 
-    "house_no" : "8", 
-    "street_name" : "Miller Way", 
-    "town" : "Plymouth", 
-    "postal_county" : "Devon", 
-    "region_name" : "", 
-    "country" : "", 
+    "full_address": "8 Miller Way, Plymouth, Devon, PL6 8UQ",
+    "house_no" : "8",
+    "street_name" : "Miller Way",
+    "town" : "Plymouth",
+    "postal_county" : "Devon",
+    "region_name" : "",
+    "country" : "",
     "postcode":""
 }
 </pre>
@@ -80,6 +80,9 @@ Therefore, with the addition of the extent section, the title template should lo
   {
 
     "title_number" : "TEST_AB1234567",
+    "tenure":"Absolute",
+    "class_of_title":"Freehold",
+    "edition_date":"10.05.2005",
 
     "extent": {
         "type": "Feature",
@@ -112,6 +115,7 @@ Therefore, with the addition of the extent section, the title template should lo
     "restrictions" : [array of entries],
     "bankruptcy" : [array of entries],
     "charges" : [array of entries],
+    "h_schedule" : an array,
     "other" : [array of entries]
 
   }
@@ -124,6 +128,9 @@ However, we have several existing fields in the JSON that I will leave in in thi
 
     {
             "title_number": "TEST_AB1234567",
+            "tenure":"Absolute",
+            "class_of_title":"Freehold",
+            "edition_date":"10.05.2005",
 
             "proprietors": [
                 {
@@ -183,6 +190,7 @@ However, we have several existing fields in the JSON that I will leave in in thi
             "restrictions" : [array of entries],
             "bankruptcy" : [array of entries],
             "charges" : [array of entries],
+            "h_schedule" : an array,
             "other" : [array of entries]
     }
 
