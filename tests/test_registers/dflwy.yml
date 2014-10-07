@@ -1,0 +1,362 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 368200.4
+          - 71190.5
+        - - 368196.0
+          - 71190.8
+        - - 368192.41
+          - 71191.08
+        - - 368192.27
+          - 71201.62
+        - - 368192.2
+          - 71207.62
+        - - 368200.8
+          - 71207.6
+        - - 368200.8
+          - 71201.6
+        - - 368200.4
+          - 71190.5
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 368200.4
+          - 71190.5
+        - - 368196.0
+          - 71190.8
+        - - 368192.41
+          - 71191.08
+        - - 368192.27
+          - 71201.62
+        - - 368192.2
+          - 71207.62
+        - - 368200.8
+          - 71207.6
+        - - 368200.8
+          - 71201.6
+        - - 368200.4
+          - 71190.5
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+last_app_timestamp: '2004-07-27T10:54:49.000+01:00'
+edition_date: '2004-07-27T00:00:00.000+01:00'
+class: Absolute
+tenure: Freehold
+title_number: CYM220
+entries:
+- entry_id: '2005-04-05 14:20:55.051845'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  entry_date: '2002-03-13'
+  status: Current
+- entry_id: '2005-04-05 14:20:55.119275'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Ceredigion
+        address_string: 8 High Street, New Quay, Ceredigion
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: BEAKER
+        trading_name: English Partnerships
+        forename: TRACEY
+        name_category: A
+    - addresses:
+      - postal_county: Ceredigion
+        address_string: 8 High Street, New Quay, Ceredigion
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: CUP
+        trading_name: English Partnerships
+        forename: URIAH
+        name_category: A
+    - addresses:
+      - postal_county: Ceredigion
+        address_string: 8 High Street, New Quay, Ceredigion
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: DRINKING-VESSEL
+        trading_name: English Partnerships
+        forename: VANESSA
+        name_category: A
+    - addresses:
+      - postal_county: Ceredigion
+        address_string: 8 High Street, New Quay, Ceredigion
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: EGG-CUP
+        trading_name: English Partnerships
+        forename: WILLIAM
+        name_category: A
+    type: Proprietor
+  entry_date: '2004-07-27'
+  status: Current
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2005-04-05 14:20:55.989305'
+  role_code: OJPR
+  language: ENG
+  sub_register: B
+  entry_date: '2004-07-27'
+  status: Current
+  template_text: 'RESTRICTION: No disposition by a sole proprietor of the registered
+    estate (except a trust corporation) under which capital money arises is to be
+    registered unless authorised by an order of the court.'
+- entry_id: '2005-04-05 14:20:55.168165'
+  role_code: CCHA
+  language: ENG
+  sub_register: C
+  infills:
+  - text: 11 February 2002
+    date: '2002-02-11'
+    type: DATE
+  entry_date: '2002-03-13'
+  status: Current
+  template_text: REGISTERED CHARGE dated *CD* to secure the moneys including the further advances therein mentioned.
+- entry_id: '2005-04-05 14:20:55.207675'
+  role_code: CCHR
+  language: ENG
+  sub_register: C
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Deeds Centre, 101 Midsummer Boulevard, Milton Keynes MK9 1AA
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Abbey National PLC
+    type: Charge Proprietor
+  entry_date: '2002-03-13'
+  status: Current
+  template_text: 'Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds
+    Centre, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.'
+- entry_id: '2005-04-05 14:20:55.215515'
+  role_code: RCOV
+  language: ENG
+  sub_register: C
+  status: Current
+  template_text: The deeds and documents, particulars of which are set out in the schedule of deeds and documents hereto, contain restrictive covenants relating to the parts of the land therein specified.
+- entry_id: '2005-04-05 14:20:55.344145'
+  role_code: RLER
+  language: ENG
+  sub_register: C
+  entry_date: '2004-06-16'
+  status: Current
+  template_text: The land is subject, during the terms created by the leases of easements specified in the schedule of leases of easements hereto, to the rights granted by the said leases.
+- entry_id: '2005-04-05 14:20:55.351035'
+  role_code: RLER
+  language: ENG
+  sub_register: C
+  entry_date: '2004-06-16'
+  status: Current
+  template_text: "The parts of the land affected thereby are subject to the leases\
+    \ set out in the schedule of leases hereto.\rThe leases grant and reserve easements\
+    \ as therein mentioned."
+- entry_id: '2005-04-05 14:20:55.357515'
+  role_code: DCOV
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '2003-09-23'
+    parties:
+    - names:
+      - surname: Strauss
+        forename: Andrew
+    - names:
+      - surname: Best
+        forename: Tino
+    description: Transfer
+  infills:
+  - type: EXTENT
+  entry_date: '2004-06-16'
+  status: Current
+  template_text: A *DT**DE* dated *DD* made between *DP* contains covenants details of which are set out in the schedule of restrictive covenants hereto.
+- entry_id: '2005-04-05 14:20:55.384505'
+  role_code: RRNT
+  language: ENG
+  sub_register: C
+  infills:
+  - {}
+  - text: Transfers
+  entry_date: '2004-06-16'
+  status: Current
+  template_text: The parts of the land affected thereby are subject to the specified *O<>O* yearly rentcharges created by and to the covenants contained in, the *M<>M* particulars of which are set out in the Schedule of Rentcharges hereto.
+- entry_id: '2005-04-05 14:20:55.590595'
+  role_code: DRNT
+  language: ENG
+  sub_register: C
+  deeds:
+  - date: '1904-09-23'
+    description: Transfer
+  status: Current
+  template_text: Particulars of exonerations o f the rentcharge of £10000 created by the *DT* dated *DD* referred to above are set out in the Schedule of Apportionments and Exonerations hereto
+- entry_id: '2005-04-05 14:20:55.716125'
+  role_code: DIRC
+  language: ENG
+  sub_register: D
+  schedule:
+    fields:
+    - text: tinted blue on the filed plan
+      header: Plans reference
+    - text: Transfer
+      header: Nature of deed
+    - text: '2003-09-23'
+      header: Date of deed
+    - parties:
+      - names:
+        - surname: Strauss
+          forename: Andrew
+        - surname: Trescothic
+          forename: Marcus
+      header: Parties
+    - text: None
+      header: Remarks
+    schedule_type: D
+    parent_register: C
+    header: SCHEDULE OF DEEDS IMPOSING RESTRICTIVE COVENANTS
+  status: Current
+  notes:
+  - text: This is a note to a D schedule
+    font: ' '
+- entry_id: '2005-04-05 14:20:55.794035'
+  role_code: SSCH
+  language: ENG
+  sub_register: S
+  status: Current
+  template_text: This is a new entry in the S schedule of Restrictive Covenants
+- entry_id: '2005-04-05 14:20:55.828385'
+  role_code: RFEA
+  language: ENG
+  sub_register: F
+  schedule:
+    fields:
+    - text: 15 Welford Road
+      header: Benefiting land
+    - text: CYM123
+      header: Title Number of benefiting land
+    - text: '2003-09-23'
+      header: Date of lease
+    - text: 99 years from 23 September 2003
+      header: Term of lease
+    - text: '2004-07-27'
+      header: Registration date
+    schedule_type: F
+    parent_register: C
+    header: SCHEDULE OF LEASES OF EASEMENTS
+  status: Current
+  notes:
+  - text: This is a note to the F schedule
+    font: ' '
+- entry_id: '2005-04-05 14:20:55.834645'
+  role_code: RLLE
+  language: ENG
+  sub_register: L
+  schedule:
+    fields:
+    - text: '2004-07-27'
+      header: Registration Date
+    - text: tinted blue on the filed plan
+      header: Plan Reference
+    - text: 15 Welford Road
+      header: Property Description
+    - text: '2003-09-23'
+      header: Date of Lease
+    - text: 99 years from 23.09.2003
+      header: Term
+    - text: CYM123
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  status: Current
+  notes:
+  - text: This is a note to the L schedule
+    font: ' '
+- entry_id: '2005-04-05 14:20:55.841805'
+  role_code: RWRN
+  language: ENG
+  sub_register: W
+  schedule:
+    fields:
+    - text: 21 Brabham Mews
+      header: Description of land
+    - text: £15
+      header: Rentcharge
+    - text: Transfer
+      header: Nature of deed
+    - text: '2003-09-23'
+      header: Date of deed
+    - text: Copy filed
+      header: Remarks
+    - text: CYM1
+      header: Title No.of rentcharge
+    - text: '2004-07-27'
+      header: Registration date
+    schedule_type: W
+    parent_register: C
+    header: SCHEDULE OF RENTCHARGES
+  status: Current
+  notes:
+  - text: This is a note to the W schedule
+    font: ' '
+- entry_id: '2005-04-05 14:20:55.846825'
+  role_code: RWAP
+  language: ENG
+  sub_register: Y
+  schedule:
+    fields:
+    - text: £30
+      header: Improved or apportioned rentcharge
+    - text: 23 Twickenham Court
+      header: Property description
+    - text: Transfer
+      header: Nature of deed
+    - text: '2003-09-23'
+      header: Date of deed
+    - text: Copy filed
+      header: Remarks
+    - text: '2004-07-27'
+      header: Registration date
+    schedule_type: Y
+    parent_register: C
+    header: SCHEDULE OF APPORTIONMENTS AND EXONERATIONS
+  status: Current
+  notes:
+  - text: This is a note to a Y schedule
+    font: ' '
+migration_errors:
+- extractor: Register Check
+  message: Title is not syncronised
+- extractor: Property Extractor
+  entry_id: '2005-04-05 14:20:55.051845'
+  message: Address not deconstructed in Intelligent Register for title
+dlr: Wales Office
+districts:
+- CEREDIGION
+- SIR CEREDIGION

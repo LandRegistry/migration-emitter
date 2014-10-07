@@ -1,0 +1,125 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 364819.25
+          - 79500.0
+        - - 364823.5
+          - 79492.5
+        - - 364791.5
+          - 79473.6
+        - - 364787.0
+          - 79481.2
+        - - 364817.5
+          - 79500.0
+        - - 364818.8
+          - 79500.8
+        - - 364819.25
+          - 79500.0
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 364791.5
+          - 79473.6
+        - - 364787.0
+          - 79481.2
+        - - 364817.5
+          - 79500.0
+        - - 364818.8
+          - 79500.8
+        - - 364819.25
+          - 79500.0
+        - - 364823.5
+          - 79492.5
+        - - 364791.5
+          - 79473.6
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+last_app_timestamp: '2010-02-10T10:06:51.000+00:00'
+edition_date: '2010-02-10T00:00:00.000+00:00'
+class: Possessory
+tenure: Freehold
+entries:
+- entry_id: '2009-01-16 15:17:15.935665'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  status: Current
+  entry_date: '2003-09-10'
+- entry_id: '2009-01-16 15:17:17.272925'
+  role_code: DMRR
+  language: ENG
+  sub_register: R
+  schedule:
+    fields:
+    - text: £100
+      header: Rentcharge sum
+    - text: 12 January 1954
+      header: Payable on
+    - text: West Life
+      header: Property description
+    - text: CYM 456
+      header: Title No under which land is registered
+    - text: Transfer
+      header: Nature of deed
+    - text: '1967-12-10'
+      header: Date of deed
+    - parties:
+      - names:
+        - surname: Us
+      - names:
+        - surname: Them
+      header: Parties
+    schedule_type: R
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2009-01-16 15:17:15.987695'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Brighton
+        address_string: 45 Tottenham Road, Brighton BR5 7YH
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: LAKE
+        forename: ANDY
+        name_category: A
+    type: Proprietor
+  status: Current
+  entry_date: '2003-09-10'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2009-01-16 15:17:16.774325'
+  role_code: RCEA
+  language: ENG
+  sub_register: C
+  status: Current
+  entry_date: '2003-09-10'
+  template_text: The land is subject to rights of drainage
+title_number: CYM415
+dlr: Wales Office
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2009-01-16 15:17:15.935665'
+  message: No property address or property schedule found for title
+districts:
+- ISLE OF ANGLESEY
+- SIR YNYS MON

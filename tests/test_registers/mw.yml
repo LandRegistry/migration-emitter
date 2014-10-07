@@ -1,0 +1,94 @@
+---
+edition_date: '1997-03-04T00:00:00.000+00:00'
+last_app_timestamp: '1997-03-04T23:59:59.000+00:00'
+class: Good
+tenure: Leasehold
+entries:
+- entry_id: '2005-10-04 15:14:26.158825'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  status: Current
+  entry_date: '1997-03-04'
+  template_text: The Leasehold land shown edged with red on the plan of the above Title filed at the Registry. Short particulars of the land and of the leases under which the land is held are contained in the Property Register Schedule hereto.
+- entry_id: '2005-10-04 15:14:26.864925'
+  role_code: RMRL
+  language: ENG
+  sub_register: M
+  schedule:
+    fields:
+    - text: Flat 1
+      header: Property description
+    - text: '1997-06-01'
+      header: Date of lease
+    - parties:
+      - names:
+        - surname: Sprout
+          forename: Vera
+      - names:
+        - surname: Parsley
+          forename: Dill
+      header: Parties
+    - text: 99 years from 1 June 1998
+      header: Term
+    - text: £4
+      header: Rent
+    schedule_type: M
+    parent_register: A
+    header: SCHEDULE OF SHORT PARTICULARS OF THE LAND AND OF THE LEASES UNDER WHICH THE LAND IS HELD
+  status: Current
+- entry_id: '2005-10-04 15:14:26.236595'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Reading
+        address_string: 34 The Street, Reading
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: GREEN
+        forename: LANCELOT
+        name_category: A
+    type: Proprietor
+  status: Current
+  entry_date: '1997-03-04'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2005-10-04 15:14:26.305675'
+  language: ENG
+  sub_register: C
+  status: Current
+  entry_date: '1997-03-04'
+  template_text: This is a C Register Entry
+- entry_id: '2005-10-04 15:14:26.721125'
+  role_code: RWRN
+  language: ENG
+  sub_register: W
+  schedule:
+    fields:
+    - text: 1 High Street
+      header: Description of land
+    - text: £4
+      header: Rentcharge
+    - text: Transfer
+      header: Nature of deed
+    - text: '1997-06-02'
+      header: Date of Deed
+    - text: BK5656
+      header: Title No.of rentcharge
+    schedule_type: W
+    parent_register: C
+    header: SCHEDULE OF RENTCHARGES
+  status: Current
+title_number: BK501311
+dlr: Gloucester Office
+migration_errors:
+- extractor: Register Check
+  message: Title is not syncronised
+- extractor: Geometry Extractor
+  message: No extent or index
+districts:
+- WINDSOR AND MAIDENHEAD

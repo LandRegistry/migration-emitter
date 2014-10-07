@@ -1,0 +1,157 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 368193.88
+          - 71339.18
+        - - 368192.72
+          - 71344.89
+        - - 368190.37
+          - 71356.06
+        - - 368198.68
+          - 71357.6
+        - - 368201.1
+          - 71346.53
+        - - 368202.2
+          - 71340.8
+        - - 368193.88
+          - 71339.18
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 368193.88
+          - 71339.18
+        - - 368192.72
+          - 71344.89
+        - - 368190.37
+          - 71356.06
+        - - 368198.68
+          - 71357.6
+        - - 368201.1
+          - 71346.53
+        - - 368202.2
+          - 71340.8
+        - - 368193.88
+          - 71339.18
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+last_app_timestamp: '2002-06-11T16:10:54.000+01:00'
+edition_date: '2002-06-11T00:00:00.000+01:00'
+class: Absolute
+tenure: Freehold
+title_number: BK505853
+entries:
+- entry_id: '2005-11-22 11:53:45.091855'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  status: Current
+  entry_date: '2002-06-11'
+- entry_id: '2005-11-22 11:53:45.187605'
+  role_code: DPRO
+  language: ENG
+  sub_register: A
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  deeds:
+  - date: '1999-05-19'
+    description: Transfer
+  status: Current
+  entry_date: '2002-06-11'
+  template_text: The *DT**DE* dated *DD* referred to above contains provisions as to light or air and boundary structures.
+- entry_id: '2005-11-22 11:53:45.155955'
+  role_code: DRTP
+  language: ENG
+  sub_register: Z
+  schedule:
+    fields:
+    - text: £1
+      header: Rentcharge sum
+    - text: 1 may
+      header: Payable on
+    - text: tinted pibnk
+      header: Land out of which rentcharge issues
+    - text: '1987-05-25'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - surname: vsvhhkl
+      header: Name of Transferee
+    - text: tgl1234
+      header: Title No.under which land is registered
+    - text: tinited pink
+      header: Plan reference
+    - text: '1986-05-15'
+      header: Registration date
+    schedule_type: Z
+    parent_register: A
+    header: SCHEDULE OF RENTCHARGES CREATED BY TRANSFERS OF PART
+  status: Current
+- entry_id: '2005-11-22 11:53:45.194965'
+  role_code: DRTP
+  language: ENG
+  sub_register: Z
+  schedule:
+    fields:
+    - text: £3
+      header: Rentcharge sum
+    - text: next tuesday
+      header: Payable on
+    - text: ohjgogoa
+      header: Land out of which rentcharge issues
+    - text: '1999-05-14'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - surname: oshgk
+      header: Name of Transferee
+    - text: tgl1234
+      header: Title No.under which land is registered
+    - text: gheghl
+      header: Plan reference
+    schedule_type: Z
+    parent_register: A
+    header: SCHEDULE OF RENTCHARGES CREATED BY TRANSFERS OF PART
+  status: Current
+- entry_id: '2005-11-22 11:53:45.134605'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: London
+        address_string: 24 Montogomery Avenue, London
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: P
+        name_category: A
+    type: Proprietor
+  status: Current
+  entry_date: '2002-06-11'
+  template_text: 'PROPRIETOR: *RP*'
+migration_errors:
+- extractor: Register Check
+  message: Title is not syncronised
+- extractor: Property Extractor
+  entry_id: '2005-11-22 11:53:45.091855'
+  message: No property address or property schedule found for title
+dlr: Gloucester Office
+districts:
+- BRACKNELL FOREST

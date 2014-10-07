@@ -1,0 +1,674 @@
+---
+edition_date: '2012-10-08T00:00:00.000+01:00'
+last_app_timestamp: '2012-10-08T13:20:57.000+01:00'
+class: Absolute
+tenure: Freehold
+title_number: CYM104
+entries:
+- entry_id: '2012-10-08 12:20:11.346415'
+  role_code: RDES
+  language: ENG
+  sub_register: A
+  status: Current
+  entry_date: '2001-06-20'
+- entry_id: '2012-10-08 12:20:17.224805'
+  role_code: RPRV
+  language: ENG
+  sub_register: A
+  infills:
+  - text: edged and numbered in green
+    type: PLAN REF
+  status: Current
+  entry_date: '2001-06-20'
+  template_text: By transfers of the land *PR* on the filed plan the rent of £25.50 reserved by the registered lease was (as between the parties thereto) apportioned. details of the said transfers and apportionments are set out in the schedule of apportioned rents hereto. (Unless otherwise stated the said transfers modify the covenants implied by section 24 of the Land registration Act 1925 and contain provisions and mutual charges for the securing the payment of the apportioned rents and all money (if any) which may become payable under covenants implied by the said transfers
+- entry_id: '2012-10-10 11:09:36.755220'
+  role_code: RLET
+  language: ENG
+  sub_register: A
+  status: Current
+  entry_date: '2012-10-08'
+  template_text: The landlord's title is registered.
+- entry_id: '2012-10-10 11:09:52.637010'
+  role_code: RLET
+  language: ENG
+  sub_register: A
+  status: Current
+  entry_date: '2012-10-08'
+  template_text: The registrar has not seen any consent to the grant of this sub-lease that the superior lease, out of which it was granted, may have required.
+- entry_id: '2012-10-08 12:20:15.291935'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.696535'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter Johnn
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.708235'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawles Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.712015'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.722955'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.727625'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '2001-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.730915'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.745575'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.755605'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.760295'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.764315'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 the Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.768065'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.774965'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.778755'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.784565'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.789265'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.795445'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John Sparrow Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.798785'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.812325'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.825995'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis Cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:17.839585'
+  role_code: RSAR
+  language: ENG
+  sub_register: T
+  schedule:
+    fields:
+    - text: 8 The Howens
+      header: Property description
+    - text: £25.50
+      header: Apportioned rent
+    - text: '1976-05-12'
+      header: Date of Transfer
+    - parties:
+      - names:
+        - non_private_individual_name: Hawkes Limited
+      - names:
+        - surname: Sparrow
+          forename: Peter John
+        - surname: Sparrow
+          forename: Mavis cecilia
+      header: Parties
+    - text: DN82716
+      header: Title No under which land is registered
+    - text: '1976-06-02'
+      header: Registration date
+    schedule_type: T
+    parent_register: A
+    header: SCHEDULE OF REGISTERED RENTCHARGES
+  status: Current
+- entry_id: '2012-10-08 12:20:12.825735'
+  role_code: RPRO
+  language: ENG
+  sub_register: B
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Isle of Anglesey
+        address_string: 52 Hector Road, Isle of Anglesey
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: JONES
+        forename: JOHN
+        name_category: A
+    type: Proprietor
+  status: Current
+  entry_date: '2001-06-20'
+  template_text: 'PROPRIETOR: *RP*'
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2012-10-08 12:20:11.346415'
+  message: Address not deconstructed in Intelligent Register for title
+- extractor: Geometry Extractor
+  message: No extent or index
+dlr: Wales Office
+districts:
+- ISLE OF ANGLESEY
+- SIR YNYS MON
