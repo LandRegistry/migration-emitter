@@ -111,7 +111,7 @@ class ScheduleExtractor
             fields['payable_on']            = find_fields(entry, 'Payable on')
             fields['property_description']  = find_fields(entry, 'Property description')
             fields['title_no']              = find_fields(entry, 'Title No under which land is registered')
-            fields['natre_of_deed']         = find_fields(entry, 'Nature of deed')
+            fields['nature_of_deed']         = find_fields(entry, 'Nature of deed')
             fields['date_of_deed']          = find_fields(entry, 'Date of deed')
             fields['parties']               = extract_parties( entry, 'Parties' )
             fields['remarks']               = find_optional_fields(entry, 'Remarks')
@@ -208,7 +208,7 @@ class ScheduleExtractor
     schedule_entry['header']          = entry['schedule']['header'].present? ? entry['schedule']['header'] : ''
     schedule_entry['deed']            = CommonRoutines.get_deeds( entry )  #TODO - get deeds for schedules
     schedule_entry['notes']           = CommonRoutines.get_notes( entry )
-    schedule_entry['full_text']       = '' #TODO - get full text
+    schedule_entry['full_text']       = entry['full_text'].present? ? entry['full_text'] : ''
     schedule_entry['entry_date']      = entry['entry_date'].present? ? entry['entry_date'] : ''
     schedule_entry['role_code']       = entry['role_code'].present? ? entry['role_code'] : ''
     schedule_entry['status']          = entry['status'].present? ? entry['status'] : ''

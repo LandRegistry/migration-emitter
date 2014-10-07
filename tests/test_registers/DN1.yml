@@ -1,0 +1,10 @@
+---
+migration_errors:
+- extractor: Register Check
+  message: Title is not converted
+- extractor: Register Metadata
+  message: No T_REG_CLASS_HIST row found
+- extractor: Geometry Extractor
+  message: No extent or index
+entries: []
+title_number: DN1

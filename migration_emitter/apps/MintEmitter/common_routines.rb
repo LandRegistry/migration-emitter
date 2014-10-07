@@ -56,4 +56,18 @@ class CommonRoutines
     notes_array
   end
 
+  def self.set_up_entry( entry )
+  #  new_entry['header']          = entry['schedule']['header'].present? ? entry['schedule']['header'] : ''
+    new_entry['deed']            = get_deeds( entry )
+    new_entry['notes']           = get_notes( entry )
+    new_entry['full_text']       = entry['full_text'].present? ? entry['full_text'] : ''
+    new_entry['entry_date']      = entry['entry_date'].present? ? entry['entry_date'] : ''
+    new_entry['role_code']       = entry['role_code'].present? ? entry['role_code'] : ''
+    new_entry['status']          = entry['status'].present? ? entry['status'] : ''
+    new_entry['lang_code']       = entry['language'].present? ? entry['language'] : ''
+  #  new_entry['parent_register'] = entry['schedule']['parent_register'].present? ? entry['schedule']['parent_register'] : ''
+
+    new_entry
+  end
+
 end

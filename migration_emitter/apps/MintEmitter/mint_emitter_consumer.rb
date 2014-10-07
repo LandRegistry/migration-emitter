@@ -95,7 +95,7 @@ end
 
 #------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
 # mec = MintEmitterConsumer.new
-# model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/q.yml'))
+# model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/CYM104.yml'))
 # pp JSON.parse( mec.process_message(model) )
 
 
@@ -103,8 +103,9 @@ end
 ##xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
 # require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
 # rt = RegisterTransformer.new
-# m = rt.transform_register('CYM415')
+# title = 'CYM104'
+# m = rt.transform_register(title)
 # mec = MintEmitterConsumer.new
-# File.open('r.yml', 'w') { |fo| fo.puts m.to_yaml }
-# model = YAML.load_file('r.yml')
-# pp  mec.process_message(model)
+# File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
+# model = YAML.load_file(title + '.yml')
+# pp  JSON.parse( mec.process_message(model) )
