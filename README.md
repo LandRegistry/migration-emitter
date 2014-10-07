@@ -39,6 +39,9 @@ Therefore, with the addition of the extent section, the title template should lo
   {
 
     "title_number" : "TEST_AB1234567",
+    "tenure":"Absolute",
+    "class_of_title":"Freehold",
+    "edition_date":"10.05.2005",
 
     "extent": {
         "type": "Feature",
@@ -69,7 +72,10 @@ Therefore, with the addition of the extent section, the title template should lo
     "easements" : [array of entries],
     "restrictive_covenants" : [array of entries],
     "restrictions" : [array of entries],
-    "bankruptcy" : [array of entries]
+    "bankruptcy" : [array of entries],
+    "charges" : [array of entries],
+    "h_schedule" : an array,
+    "other" : [array of entries]
 
   }
 
@@ -81,6 +87,9 @@ However, we have several existing fields in the JSON that I will leave in in thi
 
     {
             "title_number": "TEST_AB1234567",
+            "tenure":"Absolute",
+            "class_of_title":"Freehold",
+            "edition_date":"10.05.2005",
 
             "proprietors": [
                 {
@@ -140,7 +149,10 @@ However, we have several existing fields in the JSON that I will leave in in thi
             "easements" : [array of entries],
             "restrictive_covenants" : [array of entries],
             "restrictions" : [array of entries],
-            "bankruptcy" : [array of entries]
+            "bankruptcy" : [array of entries],
+            "charges" : [array of entries],
+            "h_schedule" : an array,
+            "other" : [array of entries]
     }
 
 </pre>
