@@ -4,7 +4,7 @@ class Old_JSON_Extractor
   #return array of private individual proprietors
   def self.get_proprietors(model)
     if model['entries'].present?
-      model['entries'].detect { |entry|
+      model['entries'].each { |entry|
         if %w(RCAU RPRO).include? entry['role_code']
           names = []
           entry['infills'].each do |infill|
@@ -46,7 +46,7 @@ class Old_JSON_Extractor
   #return hash of property details including has of address
   def self.get_property(model)
     if model['entries'].present?
-      model['entries'].detect { |entry|
+      model['entries'].each { |entry|
         if %w(RDES RMRL PPMS).include? entry['role_code']
           address = {}
           address['address'] = get_property_address(entry)
@@ -95,7 +95,7 @@ class Old_JSON_Extractor
   def self.get_payment(model)
     price_info = {}
     if model['entries'].present?
-      model['entries'].detect { |entry|
+      model['entries'].each { |entry|
         if %w(RPPD).include? entry['role_code']
 
           titles = []

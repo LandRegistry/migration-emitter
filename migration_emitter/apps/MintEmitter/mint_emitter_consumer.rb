@@ -93,17 +93,17 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 
 end
 
-#------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
+# #------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
 # mec = MintEmitterConsumer.new
 # model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/CYM104.yml'))
 # pp JSON.parse( mec.process_message(model) )
 
 
 
-##xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
+# #xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
 # require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
 # rt = RegisterTransformer.new
-# title = 'CYM104'
+# title = 'BK505807'
 # m = rt.transform_register(title)
 # mec = MintEmitterConsumer.new
 # File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }

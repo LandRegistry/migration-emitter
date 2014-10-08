@@ -29,8 +29,8 @@ class CommonRoutines
         new_deed['date']              = deed['date'].present? ? deed['date'] : ''
         new_deed['parties']           = '' #TODO - extract deed parties
         new_deed['rentcharge_amount'] = deed['rentcharge_amount'].present? ? deed['rentcharge_amount'] : ''
-        new_deed['payment_detail']    = deed['date'].present? ? deed['date'] : ''
-        new_deed['lease_term']        = deed['payment_detail'].present? ? deed['payment_detail'] : ''
+        new_deed['payment_detail']    = deed['payment_detail'].present? ? deed['payment_detail'] : ''
+        new_deed['lease_term']        = deed['lease_term'].present? ? deed['lease_term'] : ''
 
         deeds_array.push(new_deed) if new_deed.present?
       end # of deed
@@ -57,6 +57,7 @@ class CommonRoutines
   end
 
   def self.set_up_entry( entry )
+    new_entry = {}
   #  new_entry['header']          = entry['schedule']['header'].present? ? entry['schedule']['header'] : ''
     new_entry['deed']            = get_deeds( entry )
     new_entry['notes']           = get_notes( entry )
@@ -65,6 +66,7 @@ class CommonRoutines
     new_entry['role_code']       = entry['role_code'].present? ? entry['role_code'] : ''
     new_entry['status']          = entry['status'].present? ? entry['status'] : ''
     new_entry['lang_code']       = entry['language'].present? ? entry['language'] : ''
+    new_entry['sub_register']    = entry['sub_register'].present? ? entry['sub_register'] : ''
   #  new_entry['parent_register'] = entry['schedule']['parent_register'].present? ? entry['schedule']['parent_register'] : ''
 
     new_entry

@@ -7,14 +7,14 @@ class DataExtractor
     bankruptcy_array = []
 
     if model['entries'].present?
-      model['entries'].detect do |entry|
+      model['entries'].each do |entry|
         if %w(CBAN CRED OBAN OBIB ORED OSMH).include? entry['role_code']
-          bankruptcy = {}
-          bankruptcy['template']    = entry['template_text'].present? ? entry['template_text'] : ''
-          bankruptcy['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
-          bankruptcy['fields']      = ''
-          bankruptcy['deeds']       = CommonRoutines.get_deeds( entry )
-          bankruptcy['notes']       = CommonRoutines.get_notes( entry )
+          bankruptcy = CommonRoutines.set_up_entry( entry )
+          # bankruptcy['template']    = entry['template_text'].present? ? entry['template_text'] : ''
+          # bankruptcy['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
+          # bankruptcy['fields']      = ''
+          # bankruptcy['deeds']       = CommonRoutines.get_deeds( entry )
+          # bankruptcy['notes']       = CommonRoutines.get_notes( entry )
 
           bankruptcy_array.push(bankruptcy)
         end
@@ -29,13 +29,14 @@ class DataExtractor
     price_paid = {}
 
     if model['entries'].present?
-      model['entries'].detect do |entry|
+      model['entries'].each do |entry|
         if entry['role_code'] == 'RPPD'
-          price_paid['template']    = entry['template_text'].present? ? entry['template_text'] : ''
-          price_paid['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
-          price_paid['fields']      = ''
-          price_paid['deeds']       = CommonRoutines.get_deeds( entry )
-          price_paid['notes']       = CommonRoutines.get_notes( entry )
+          price_paid = CommonRoutines.set_up_entry( entry )
+          # price_paid['template']    = entry['template_text'].present? ? entry['template_text'] : ''
+          # price_paid['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
+          # price_paid['fields']      = ''
+          # price_paid['deeds']       = CommonRoutines.get_deeds( entry )
+          # price_paid['notes']       = CommonRoutines.get_notes( entry )
         end
       end
     end
@@ -47,13 +48,14 @@ class DataExtractor
   def self.get_proprietorship(model)
     proprietorship = {}
     if model['entries'].present?
-      model['entries'].detect { |entry|
+      model['entries'].each { |entry|
         if %w(RCAU RPRO).include? entry['role_code']
-          proprietorship['template']    = entry['template_text'].present? ? entry['template_text'] : ''
-          proprietorship['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
-          proprietorship['fields']      = get_proprietor_fields( entry )
-          proprietorship['deeds']       = CommonRoutines.get_deeds( entry )
-          proprietorship['notes']       = CommonRoutines.get_notes( entry )
+          proprietorship = CommonRoutines.set_up_entry( entry )
+          # proprietorship['template']    = entry['template_text'].present? ? entry['template_text'] : ''
+          # proprietorship['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
+          # proprietorship['fields']      = get_proprietor_fields( entry )
+          # proprietorship['deeds']       = CommonRoutines.get_deeds( entry )
+          # proprietorship['notes']       = CommonRoutines.get_notes( entry )
         end #of prop entry
       } #end of entry loop
     end  #of entry
