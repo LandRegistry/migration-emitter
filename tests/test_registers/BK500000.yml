@@ -1,0 +1,546 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: MultiPolygon
+      coordinates:
+      - - - - 463926.5
+            - 151868.84
+          - - 463919.46
+            - 151860.32
+          - - 463920.46
+            - 151871.28
+          - - 463926.5
+            - 151868.84
+      - - - - 463913.52
+            - 151868.84
+          - - 463913.09
+            - 151866.19
+          - - 463908.01
+            - 151865.87
+          - - 463908.01
+            - 151869.69
+          - - 463913.52
+            - 151868.84
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 463913.35
+          - 151844.5
+        - - 463913.5
+          - 151847.3
+        - - 463912.95
+          - 151847.35
+        - - 463913.08
+          - 151851.15
+        - - 463920.89
+          - 151850.8
+        - - 463920.65
+          - 151846.5
+        - - 463922.95
+          - 151846.2
+        - - 463922.93
+          - 151845.83
+        - - 463922.55
+          - 151838.95
+        - - 463917.5
+          - 151839.55
+        - - 463917.7
+          - 151843.0
+        - - 463914.1
+          - 151843.2
+        - - 463914.15
+          - 151844.2
+        - - 463913.35
+          - 151844.5
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2011-12-28T00:00:00.000+00:00'
+last_app_timestamp: '2011-12-28T11:22:14.000+00:00'
+class: Absolute
+tenure: Leasehold
+entries:
+- entry_id: '2011-12-28 11:54:44.725430'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  full_text: "<CENTRE>YORK</CENTRE>\r\rY tir Rhydd-ddaliol a amlinellir yn goch ar\
+    \ gynllun y teitl uchod a ffeilir yn y Gofrestrfa ac a ddisgrifir yn yr Atodlen\
+    \ Cofrestr Eiddo at hyn.The Leasehold land shown edged with red on the plan of\
+    \ the above Title filed at the Registry and being 49 High Street, Gloucester (GL1\
+    \ 4SP)."
+- entry_id: '2006-09-18 15:34:04.622105'
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'Short particulars of the lease(s) (or under-lease(s)) under which the
+        land is held:'
+      header: ''
+    - text: '1991-05-01'
+      header: Date
+    - text: 99 years
+      header: Term
+    - text: £99
+      header: Rent
+    - parties:
+      - names:
+        - non_private_individual_name: you and me plc
+      - names:
+        - surname: fred
+        - surname: ginger
+      - names:
+        - surname: pass
+      - names:
+        - surname: pass
+      - names:
+        - surname: pass
+      - names:
+        - surname: pass
+      header: Parties
+    schedule_type: H
+    parent_register: A
+    header: ''
+  deeds:
+  - rent_detail: £99
+    date: '1991-05-01'
+    parties:
+    - names:
+      - non_private_individual_name: you and me plc
+    - names:
+      - surname: fred
+      - surname: ginger
+    - names:
+      - surname: pass
+    - names:
+      - surname: pass
+    - names:
+      - surname: pass
+    - names:
+      - surname: pass
+    lease_term: 99 years
+    description: Lease
+  status: Current
+  role_code: RSLP
+  language: ENG
+  full_text: "Short particulars of the lease(s) (or under-lease(s)) under which the\
+    \ land is held:\rDate        : 1 May 1991                                    \
+    \             \rTerm        : 99 years                                       \
+    \            \rRent        : £99                                             \
+    \           \rParties     : (1) you and me plc                               \
+    \          \r              (2)  fred and  ginger                             \
+    \         \r              (3)  pass                                          \
+    \        \r              (4)  pass                                           \
+    \       \r              (5)  pass                                            \
+    \      \r              (6)  pass"
+  entry_date: '2003-09-11'
+- entry_id: '2006-09-18 15:34:07.205615'
+  sub_register: A
+  deeds:
+  - date: '2000-09-10'
+    description: Transfer
+  status: Current
+  role_code: DAEA
+  language: ENG
+  full_text: "A Transfer dated 10 September 2000 made between (1) Some One and (2)\
+    \ Some One Else is expressed to grant the following rights.  These rights are\
+    \ included in the registration only so far as the grantor was entitled to grant\
+    \ them.  The evidence produced on first registration did not show whether the\
+    \ grantor owned the servient land, or had sufficient rights over it to make the\
+    \ grant:-\r\r\"legal jargon that noone will ever bother taking the time to read\
+    \ properly\""
+  entry_date: '2006-09-18'
+  template_text: "A *DT* dated *DD* made between (1) Some One and (2) Some One Else\
+    \ is expressed to grant the following rights.  These rights are included in the\
+    \ registration only so far as the grantor was entitled to grant them.  The evidence\
+    \ produced on first registration did not show whether the grantor owned the servient\
+    \ land, or had sufficient rights over it to make the grant:-\r\r\"legal jargon\
+    \ that noone will ever bother taking the time to read properly\""
+- entry_id: '2009-10-09 09:55:03.955680'
+  sub_register: A
+  deeds:
+  - date: '2007-04-09'
+    parties:
+    - names:
+      - forename: Bob
+      - forename: betty
+    description: Conveyance
+  status: Current
+  role_code: DAEA
+  language: ENG
+  full_text: "The land  has the benefit of the following rights granted by a Conveyance\
+    \ of the land in this title dated 9 April 2009 made between Bob and Sid:-\r\r\
+    A load of legal bumpf about rights and whatnot. I'm sure somebody cares.\r\rOh,\
+    \ there must be a reference to a plan in this text as I'm adding a note about\
+    \ it.\r\r¬NOTE: Copy pln filed."
+  entry_date: '2009-03-24'
+  template_text: "The land  has the benefit of the following rights granted by a Conveyance\
+    \ of the land in this title dated 9 April 2009 made between Bob and Sid:-\r\r\
+    A load of legal bumpf about rights and whatnot. I'm sure somebody cares.\r\rOh,\
+    \ there must be a reference to a plan in this text as I'm adding a note about\
+    \ it.\r\r¬NOTE: Copy pln filed."
+- entry_id: '2011-07-26 10:41:26.984770'
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'Short particulars of the lease(s) (or under-lease(s)) under which the
+        land is held:'
+      header: ''
+    - text: '2005-07-05'
+      header: Date
+    - text: ''
+      header: Term
+    - header: Parties
+    schedule_type: H
+    parent_register: A
+    header: ''
+  deeds:
+  - date: '2005-07-05'
+    description: Deed
+  status: Current
+  role_code: RSLP
+  language: ENG
+  full_text: "Short particulars of the lease(s) (or under-lease(s)) under which the\
+    \ land is held:\r\rDate        : 5 July 2011\r\rTerm        : gde\r\rRent    \
+    \    : ge\r\rParties     : (1) Bob Bob              (2) Sid Sid"
+  entry_date: '2011-04-12'
+- entry_id: '2010-03-24 09:45:40.622150'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - town: London
+        address_string: 10 High Street, London
+        secondary_house_no: '0'
+        house_no: '10'
+        address_type: U
+        street_name: High Street
+      name:
+        name_information: trading as Trading Name
+        surname: One
+        forename: Number
+        name_category: A
+    - addresses:
+      - town: London
+        address_string: 10 High Street, London
+        secondary_house_no: '0'
+        house_no: '10'
+        address_type: U
+        street_name: High Street
+      name:
+        name_information: trading as Trading Name
+        surname: Two
+        forename: Number
+        name_category: A
+    - addresses:
+      - town: London
+        address_string: 10 High Street, London
+        secondary_house_no: '0'
+        house_no: '10'
+        address_type: U
+        street_name: High Street
+      name:
+        name_information: Executor of Some One
+        surname: Three
+        forename: Number
+        name_category: A
+    - addresses:
+      - town: London
+        address_string: 10 High Street, London
+        secondary_house_no: '0'
+        house_no: '10'
+        address_type: U
+        street_name: High Street
+      name:
+        name_information: Executor of Some One
+        surname: Four
+        forename: Number
+        name_category: A
+    type: Proprietor
+  full_text: 'PROPRIETOR: %NUMBER ONE% of 10 High Street, *London* trading as Trading
+    Name and %NUMBER TWO% of 10 High Street, *London* trading as Trading Name and
+    %NUMBER THREE% of 10 High Street, *London* Executor of Some One and %NUMBER FOUR%
+    of 10 High Street, *London* Executor of Some One.'
+  entry_date: '2010-02-23'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2006-09-18 15:34:07.325685'
+  sub_register: B
+  status: Current
+  role_code: CBCR
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 1 September 2006
+    date: '2006-09-01'
+    type: DATE
+  - text: Chargee Limited
+  full_text: 'RESTRICTION: No disposition of the registered estate by the proprietor
+    of the registered estate is to be registered without a written consent signed
+    by the proprietor for the time being of the Charge dated 1 September 2006 in favour
+    of Chargee Limited referred to in the Charges Register.'
+  entry_date: '2006-09-12'
+  template_text: 'RESTRICTION: No disposition of the registered estate by the proprietor
+    of the registered estate is to be registered without a written consent signed
+    by the proprietor for the time being of the Charge dated *CD* in favour of *CP*
+    referred to in the Charges Register.'
+  draft_entry_code: BX102
+- entry_id: '2009-12-10 09:18:59.382660'
+  sub_register: B
+  status: Current
+  role_code: ORES
+  language: ENG
+  full_text: 'RESTRICTION: Except by order of.'
+  entry_date: '2009-10-26'
+  template_text: 'RESTRICTION: Except by order of'
+- entry_id: '2010-01-12 09:44:43.964150'
+  sub_register: B
+  status: Current
+  role_code: CBCR
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 06/01/2009
+    date: '2009-01-06'
+    type: DATE
+  - text: LBS Bausparkasse Hamburg AG
+  full_text: 'RESTRICTION: No disposition of the registered estate by the proprietor
+    of the registered estate is to be registered without a written consent signed
+    by the proprietor for the time being of the Charge dated 6 January 2009 in favour
+    of LBS Bausparkasse Hamburg AG referred to in the Charges Register.'
+  entry_date: '2009-12-21'
+  template_text: 'RESTRICTION: No disposition of the registered estate by the proprietor
+    of the registered estate is to be registered without a written consent signed
+    by the proprietor for the time being of the Charge dated *CD* in favour of *CP*
+    referred to in the Charges Register.'
+  draft_entry_code: BX102
+- entry_id: '2006-09-18 15:34:01.603225'
+  sub_register: C
+  status: Current
+  role_code: CCHA
+  language: ENG
+  infills:
+  - text: 1 September 2006
+    date: '2006-09-01'
+    type: DATE
+  full_text: REGISTERED CHARGE dated 1 September 2006 to secure the monies therein mentioned.
+  entry_date: '2006-09-12'
+  template_text: REGISTERED CHARGE dated *CD* to secure the monies therein mentioned
+- entry_id: '2006-09-18 15:34:04.156855'
+  sub_register: C
+  status: Current
+  role_code: CCHR
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: 1 High Street, London
+        secondary_house_no: '0'
+        house_no: '0'
+      name:
+        name_category: B
+        non_private_individual_name: CHARGEE LIMITED
+    type: Proprietor
+  full_text: 'Proprietor: #CHARGEE LIMITED# of 1 High Street, London.'
+  entry_date: '2006-09-12'
+  template_text: 'Proprietor: *RP*'
+- entry_id: '2006-09-18 15:34:04.182225'
+  sub_register: C
+  status: Current
+  role_code: CCHA
+  language: ENG
+  infills:
+  - text: 7 September 2006
+    date: '2006-09-07'
+    type: DATE
+  full_text: REGISTERED CHARGE dated 7 September 2006.
+  entry_date: '2006-09-12'
+  template_text: REGISTERED CHARGE dated *CD*
+- entry_id: '2006-09-18 15:34:04.454155'
+  sub_register: C
+  status: Current
+  role_code: CCHR
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Trinity Road, Halifax, W Yorkshire HX1 2RG
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Halifax PLC
+    type: Charge Proprietor
+  full_text: 'Proprietor: #HALIFAX PLC# (Co. Regn. No. 2367076) of Trinity Road, Halifax,
+    W Yorkshire HX1 2RG.'
+  entry_date: '2006-09-12'
+  template_text: 'Proprietor: #HALIFAX PLC# (Co. Regn. No. 2367076) of Trinity Road,
+    Halifax, W Yorkshire HX1 2RG.'
+  draft_entry_code: CHPLC
+- entry_id: '2009-04-16 09:17:16.878300'
+  sub_register: C
+  deeds:
+  - date: '2004-04-08'
+    parties:
+    - names:
+      - forename: Elmo
+      - forename: Sid
+    description: Transfer
+  status: Current
+  role_code: DCEA
+  draft_entry_version: 2
+  language: ENG
+  infills:
+  - type: EXTENT
+  - text: dgfghgdf
+  - text: of the land in this title
+    type: EXTENT
+  full_text: "The land is subject to the rights dgfghgdf a Transfer of the land in\
+    \ this title dated 8 April 2004 made between  Elmo  and Sid .\r\r¬NOTE: Copy plan\
+    \ filed."
+  entry_date: '2009-03-24'
+  template_text: "The land *E<>E* is subject to the rights *M<>M* a *DT**DE* dated\
+    \ *DD* made between *DP*.\r\r*N<¬NOTE: Copy filed>N*."
+  notes:
+  - text: Copy plan filed
+    font: I
+  draft_entry_code: CF664
+- entry_id: '2009-10-09 09:55:04.339330'
+  sub_register: C
+  deeds:
+  - date: '2007-04-09'
+    parties:
+    - names:
+      - forename: Bob
+      - forename: betty
+    description: Conveyance
+  status: Current
+  role_code: DCEA
+  draft_entry_version: 2
+  language: ENG
+  infills:
+  - text: gffg
+    type: EXTENT
+  - text: gdfgdgdf
+  - text: of the land in this title
+    type: EXTENT
+  full_text: "The land gffg is subject to the rights gdfgdgdf a Conveyance of the\
+    \ land in this title dated 9 April 2007 made between  Bob  and betty .\r\r¬NOTE:\
+    \ Copy filed."
+  entry_date: '2009-03-24'
+  template_text: "The land *E<>E* is subject to the rights *M<>M* a *DT**DE* dated\
+    \ *DD* made between *DP*.\r\r*N<¬NOTE: Copy filed>N*."
+  notes:
+  - text: Copy filed
+    font: I
+  draft_entry_code: CF664
+- entry_id: '2010-01-12 09:44:44.525980'
+  sub_register: C
+  status: Current
+  role_code: CCHA
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 06/01/2009
+    date: '2009-01-06'
+    type: DATE
+  full_text: REGISTERED CHARGE dated 6 January 2009.
+  entry_date: '2009-12-21'
+  template_text: REGISTERED CHARGE dated *CD*.
+  draft_entry_code: CD100
+- entry_id: '2010-01-12 09:44:45.506350'
+  sub_register: C
+  status: Current
+  role_code: CCHR
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: 4 Rempstone Road, Swanage, Dorset BH19 1DP
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: LBS Bausparkasse Hamburg AG
+    type: Charge Proprietor
+  full_text: 'Proprietor: >LBS BAUSPARKASSE HAMBURG AG> (incorporated in Germany)
+    of 4 Rempstone Road, Swanage, Dorset BH19 1DP.'
+  entry_date: '2009-12-21'
+  template_text: 'Proprietor: >LBS BAUSPARKASSE HAMBURG AG> (incorporated in Germany)
+    of 4 Rempstone Road, Swanage, Dorset BH19 1DP.'
+  draft_entry_code: CY352
+- entry_id: '2010-05-04 14:38:46.895670'
+  sub_register: C
+  status: Current
+  role_code: CPPC
+  language: ENG
+  full_text: A Deed dated 19 January 2010 made between Gilder Audi Limited (2) Gilder Volkswagen Limited (3) Gilder Group Limited (4) Briers Investment Leasing Limited (5) Derby Audi Limited (6) Layerthorpe Limited (7) The Listerdale Motor Company Limited (8) National Westminster Bank Plc (9) Volkswagen Bank Gmbh and (10) Volkswagen Financial(Uk) Limited relates to priorities as between the Charges dated 19 January 2010 and 18 October 2002 in favour of National Westminster Bank PLC and Volkswagen Financial Services (UK) Limited referred to above as therein mentioned.
+  entry_date: '2010-04-06'
+  template_text: A Deed dated 19 January 2010 made between Gilder Audi Limited (2) Gilder Volkswagen Limited (3) Gilder Group Limited (4) Briers Investment Leasing Limited (5) Derby Audi Limited (6) Layerthorpe Limited (7) The Listerdale Motor Company Limited (8) National Westminster Bank Plc (9) Volkswagen Bank Gmbh and (10) Volkswagen Financial(Uk) Limited relates to priorities as between the Charges dated 19 January 2010 and 18 October 2002 in favour of National Westminster Bank PLC and Volkswagen Financial Services (UK) Limited referred to above as therein mentioned.
+title_number: BK500000
+uprns:
+- 28620716
+- 3414067
+- 3414068
+- 3414070
+- 3414071
+- 3414072
+- 3414073
+- 3414074
+- 3414075
+- 3414076
+- 3414077
+- 3414078
+- 3414079
+- 3414081
+- 3414082
+- 1004318253
+- 3414083
+- 23961040
+- 3414084
+- 501274206
+- 501274205
+- 501274207
+- 23961043
+- 27181939
+- 501274203
+- 501274204
+- 26974414
+- 29048540
+- 3414250
+- 3414251
+- 3414252
+- 3414253
+- 3414254
+- 28716314
+- 29630119
+- 28105221
+- 3414242
+- 26241683
+- 3414244
+- 26949530
+- 24208994
+- 30895006
+- 29635299
+dlr: Durham Office
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2011-12-28 11:54:44.725430'
+  message: Address not deconstructed in Intelligent Register for title
+districts:
+- YORK

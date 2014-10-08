@@ -1,0 +1,655 @@
+---
+geometry:
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 508865.54
+          - 429171.25
+        - - 508865.41
+          - 429171.31
+        - - 508863.93
+          - 429171.26
+        - - 508861.12
+          - 429172.58
+        - - 508856.37
+          - 429174.8
+        - - 508841.58
+          - 429181.72
+        - - 508829.37
+          - 429187.43
+        - - 508822.02
+          - 429191.02
+        - - 508818.5
+          - 429192.62
+        - - 508818.39
+          - 429193.2
+        - - 508816.8
+          - 429201.6
+        - - 508811.5
+          - 429229.6
+        - - 508811.24
+          - 429230.98
+        - - 508817.18
+          - 429230.21
+        - - 508823.12
+          - 429229.44
+        - - 508835.34
+          - 429227.86
+        - - 508847.34
+          - 429221.61
+        - - 508853.43
+          - 429218.44
+        - - 508876.89
+          - 429206.23
+        - - 508877.67
+          - 429205.83
+        - - 508877.69
+          - 429205.81
+        - - 508878.16
+          - 429205.55
+        - - 508878.63
+          - 429205.32
+        - - 508879.15
+          - 429205.07
+        - - 508879.69
+          - 429204.78
+        - - 508880.0
+          - 429204.53
+        - - 508880.23
+          - 429204.34
+        - - 508880.25
+          - 429204.33
+        - - 508880.77
+          - 429203.91
+        - - 508881.18
+          - 429203.29
+        - - 508881.6
+          - 429202.56
+        - - 508882.0
+          - 429201.96
+        - - 508882.01
+          - 429201.94
+        - - 508882.45
+          - 429200.96
+        - - 508882.45
+          - 429200.94
+        - - 508882.73
+          - 429200.32
+        - - 508883.04
+          - 429199.65
+        - - 508883.07
+          - 429199.58
+        - - 508883.35
+          - 429198.9
+        - - 508883.56
+          - 429198.09
+        - - 508883.67
+          - 429197.28
+        - - 508883.75
+          - 429196.21
+        - - 508883.7
+          - 429195.95
+        - - 508881.6
+          - 429191.7
+        - - 508880.82
+          - 429190.07
+        - - 508873.72
+          - 429175.23
+        - - 508872.83
+          - 429173.37
+        - - 508872.01
+          - 429172.91
+        - - 508871.6
+          - 429172.74
+        - - 508871.05
+          - 429172.48
+        - - 508870.31
+          - 429172.15
+        - - 508868.84
+          - 429171.67
+        - - 508867.39
+          - 429171.38
+        - - 508866.65
+          - 429171.33
+        - - 508865.54
+          - 429171.25
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 508816.8
+          - 429201.6
+        - - 508811.5
+          - 429229.6
+        - - 508811.15
+          - 429230.65
+        - - 508835.34
+          - 429227.83
+        - - 508858.7
+          - 429215.4
+        - - 508877.28
+          - 429206.18
+        - - 508879.83
+          - 429204.62
+        - - 508881.39
+          - 429203.49
+        - - 508882.08
+          - 429202.55
+        - - 508882.45
+          - 429200.95
+        - - 508882.89
+          - 429199.03
+        - - 508883.21
+          - 429196.68
+        - - 508883.07
+          - 429194.68
+        - - 508881.6
+          - 429191.7
+        - - 508880.7
+          - 429189.9
+        - - 508876.1
+          - 429180.6
+        - - 508875.85
+          - 429180.05
+        - - 508875.65
+          - 429179.75
+        - - 508873.45
+          - 429175.26
+        - - 508872.03
+          - 429173.7
+        - - 508870.33
+          - 429172.56
+        - - 508867.92
+          - 429171.71
+        - - 508864.8
+          - 429171.43
+        - - 508829.46
+          - 429187.61
+        - - 508822.1
+          - 429191.02
+        - - 508819.42
+          - 429192.19
+        - - 508816.8
+          - 429201.6
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2013-09-27T00:00:00.000+01:00'
+last_app_timestamp: '2013-09-27T09:19:10.000+01:00'
+class: Absolute
+tenure: Leasehold
+title_number: HS18112
+entries:
+- entry_id: '2004-11-08 11:24:46.255605'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  entry_date: '1977-05-30'
+  full_text: "<CENTRE>CITY OF KINGSTON UPON HULL</CENTRE>\r\rThe Leasehold land shown\
+    \ edged with red on the plan of the above Title filed at the Registry and being\
+    \ land on the South side of Caughey Street, Kingston upon Hull."
+- entry_id: '2011-09-05 14:47:46.957010'
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'Short particulars of the lease(s) (or under-lease(s)) under which the
+        land is held:'
+      header: ''
+    - text: '1976-11-01'
+      header: Date
+    - text: 99 years from 1 April 1975
+      header: Term
+    - text: As therein mentioned
+      header: Rent
+    - parties:
+      - names:
+        - non_private_individual_name: Kingston upon Hull City Council
+      - names:
+        - non_private_individual_name: Blue Circle Investments Limited
+      header: Parties
+    schedule_type: H
+    parent_register: A
+    header: ''
+  deeds:
+  - rent_detail: As therein mentioned
+    date: '1976-11-01'
+    parties:
+    - names:
+      - non_private_individual_name: Kingston upon Hull City Council
+    - names:
+      - non_private_individual_name: Blue Circle Investments Limited
+    lease_term: 99 years from 1 April 1975
+    description: Lease
+  status: Current
+  role_code: RSLP
+  language: ENG
+  entry_date: '1976-11-01'
+  full_text: "Short particulars of the lease(s) (or under-lease(s)) under which the\
+    \ land is held:\rDate        : 1 November 1976                               \
+    \             \rTerm        : 99 years from 1 April 1975                     \
+    \            \rRent        : As therein mentioned                            \
+    \           \rParties     : (1) Kingston upon Hull City Council              \
+    \          \r              (2) Blue Circle Investments Limited"
+- entry_id: '2004-11-08 11:24:46.665975'
+  sub_register: A
+  deeds:
+  - rent_detail: As therein mentioned
+    date: '1976-11-01'
+    parties:
+    - names:
+      - non_private_individual_name: Kingston upon Hull City Council
+    - names:
+      - non_private_individual_name: Blue Circle Investments Limited
+    lease_term: 99 years from 1 April 1975
+    description: Lease
+  status: Current
+  role_code: RALI
+  draft_entry_version: 1
+  language: ENG
+  full_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the Lease.
+  template_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the Lease.
+  draft_entry_code: AG100
+- entry_id: '2006-03-14 21:42:52.704565'
+  sub_register: A
+  status: Current
+  role_code: RAEA
+  draft_entry_version: 1
+  language: ENG
+  full_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  template_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  draft_entry_code: AG303
+- entry_id: '2012-02-29 16:32:57.561200'
+  sub_register: A
+  status: Current
+  role_code: RPLR
+  draft_entry_version: 2
+  language: ENG
+  entry_date: '2012-01-19'
+  full_text: A new title plan based on the latest revision of the Ordnance Survey Map has been prepared.
+  template_text: A new title plan based on the latest revision of the Ordnance Survey Map has been prepared.
+  draft_entry_code: AL142
+- entry_id: '2013-12-12 10:15:53.150150'
+  sub_register: A
+  status: Current
+  role_code: RPLR
+  draft_entry_version: 2
+  language: ENG
+  infills:
+  - text: with an amended extent
+  - {}
+  entry_date: '2013-09-27'
+  full_text: A new title plan with an amended extent based on the latest revision of the Ordnance Survey Map has been prepared.
+  template_text: A new title plan *O<>O* based on the latest revision of the Ordnance Survey Map *O<>O* has been prepared.
+  draft_entry_code: AL143
+- entry_id: '2011-09-05 14:47:12.954570'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postcode: CR0 2AQ
+        sub_building_description: Land Registry Head Office
+        town: Croydon
+        address_string: Land Registry Head Office, Trafalgar House 1 Bedford Park, Croydon CR0 2AQ
+        secondary_house_no: '0'
+        house_no: '1'
+        address_type: U
+        street_name: Bedford Park
+        house_description: Trafalgar House
+      name:
+        name_category: E
+        non_private_individual_name: Secretary Of State For Communities And Local Government
+    type: Proprietor
+  entry_date: '1987-06-01'
+  full_text: 'PROPRIETOR: >SECRETARY OF STATE FOR COMMUNITIES AND LOCAL GOVERNMENT>
+    care of Property Asset Management, Land Registry Head Office, Trafalgar House
+    1 Bedford Park, Croydon CR0 2AQ.'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2004-11-08 11:24:46.695865'
+  sub_register: B
+  status: Current
+  role_code: OIMP
+  draft_entry_version: 1
+  language: ENG
+  full_text: The covenants implied under section 24(1)(a) of the Land Registration Act 1925 in the Transfer to the proprietor are  modified.
+  template_text: The covenants implied under section 24(1)(a) of the Land Registration Act 1925 in the Transfer to the proprietor are  modified.
+  draft_entry_code: BIMOD
+- entry_id: '2004-11-08 11:24:46.392975'
+  sub_register: C
+  deeds:
+  - date: '1847-06-01'
+    parties:
+    - names:
+      - surname: Hall
+        forename: The Reverend Samuel William
+    - names:
+      - surname: Foale
+        forename: William
+      - surname: Jones
+        forename: James
+    - names:
+      - surname: Younger
+        forename: Richard Grasby the
+    - names:
+      - surname: Lee
+        forename: Charles Alfred
+    description: Conveyance
+  status: Current
+  role_code: DCOV
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted pink
+    type: PLAN REF
+  full_text: A Conveyance of the freehold estate in the land tinted pink on the filed plan dated 1 June 1847 made between (1) The Reverend Samuel William Hall (2) William Foale and James Jones (3) Richard Grasby the Younger and (4) Charles Alfred Lee contains restrictive covenants but neither the original deed nor a certified copy or examined abstract thereof was produced on first registration.
+  template_text: A *DT**DE* dated *DD* made between *DP* contains restrictive covenants but neither the original deed nor a certified copy or examined abstract thereof was produced on first registration.
+  draft_entry_code: CR721
+- entry_id: '2004-11-08 11:24:46.452335'
+  sub_register: C
+  deeds:
+  - date: '1847-09-14'
+    parties:
+    - names:
+      - surname: Foale
+        forename: The Reverend
+      - surname: Jones
+        forename: James
+    - names:
+      - surname: Good
+        forename: William
+    - names:
+      - surname: Estill
+        forename: Hunter
+    description: Conveyance
+  status: Current
+  role_code: DCOV
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: of the freehold estate in the land *PR* on the filed plan
+    type: EXTENT
+  - text: tinted blue
+    type: PLAN REF
+  full_text: A Conveyance of the freehold estate in the land tinted blue on the filed plan dated 14 September 1847 made between (1) The Reverend Foale and James Jones (2) William Good and (3) Hunter Estill contains restrictive covenants but neither the original deed nor a certified copy or examined abstract thereof was produced on first registration.
+  template_text: A *DT**DE* dated *DD* made between *DP* contains restrictive covenants but neither the original deed nor a certified copy or examined abstract thereof was produced on first registration.
+  draft_entry_code: CR721
+- entry_id: '2004-11-08 11:24:46.472665'
+  sub_register: C
+  status: Current
+  role_code: RCOV
+  language: ENG
+  infills:
+  - text: tinted yellow
+    type: PLAN REF
+  full_text: The freehold estate in the land tinted yellow on the filed plan is subject to such restrictive covenants as may have been imposed thereon before 10 April 1948 and are still subsisting and capable of being enforced.
+  template_text: The freehold estate in the land *PR* on the filed plan is subject to such restrictive covenants as may have been imposed thereon before 10 April 1948 and are still subsisting and capable of being enforced
+- entry_id: '2004-11-08 11:24:46.501195'
+  sub_register: C
+  deeds:
+  - date: '1974-12-04'
+    description: Agreement
+  status: Current
+  role_code: DCOV
+  language: ENG
+  full_text: "An Agreement dated 4 December 1974 made between (1) The Yorkshire Electricity\
+    \ Board and (2) The Associated Portland Cement Manufacturers Limited relates to\
+    \ the supply of electricity.\r\r¬NOTE: Copy filed."
+  notes:
+  - text: Copy filed
+    font: I
+  template_text: "An *DT* dated *DD* made between (1) The Yorkshire Electricity Board\
+    \ and (2) The Associated Portland Cement Manufacturers Limited relates to the\
+    \ supply of electricity.\r\r<NOTE></NOTE>"
+- entry_id: '2012-02-29 16:32:13.779690'
+  sub_register: C
+  status: Current
+  role_code: RLER
+  draft_entry_version: 1
+  language: ENG
+  full_text: "The parts of the land affected thereby are subject to the leases set\
+    \ out in the schedule of leases hereto.\rThe leases grant and reserve easements\
+    \ as therein mentioned."
+  template_text: "The parts of the land affected thereby are subject to the leases\
+    \ set out in the schedule of leases hereto.\rThe leases grant and reserve easements\
+    \ as therein mentioned."
+  draft_entry_code: CH858
+- entry_id: '2004-11-08 11:24:46.574685'
+  sub_register: C
+  deeds:
+  - date: '1992-01-30'
+    description: Lease
+  status: Current
+  role_code: DCEA
+  language: ENG
+  infills:
+  - text: of the electricity sub-station *PR* on the filed plan
+    type: EXTENT
+  - text: edged and numbered 1 in blue
+    type: PLAN REF
+  - text: tinted brown
+    type: PLAN REF
+  full_text: "The parts of the land affected thereby are subject to the following\
+    \ rights granted by a Lease of the electricity sub-station edged and numbered\
+    \ 1 in blue on the filed plan dated 30 January 1992 referred to in the schedule\
+    \ of leases hereto:-\r\r\"TOGETHER with the rights for the Lessee to place in\
+    \ the demised premises an electricity substation (in conformity with existing\
+    \ Statutory Regulations) and the right to maintain use or remove such substation\
+    \ equipment and any ancillary apparatus therein TOGETHER ALSO with the right to\
+    \ the intent that the same shall be appurtenant to the demised premises and/or\
+    \ the Lessees electricity distribution system (subject and limited as mentioned\
+    \ in Clauses 2(f) and 4(1) hereof) for the Lessee to lay and therafter to place\
+    \ use maintain inspect repair alter renew remove \"the electric lines\") for use\
+    \ in connection with such substation under the strip of land coloured blue on\
+    \ the said plan and key plan (hereinafter called the \"underground cable land\"\
+    ) and for such purpose to break up and excavate so much of the underground cable\
+    \ land as may from time to time be necessary AND TOGETHER WITH the right of support\
+    \ for the electric lines from the subjacent and adjacent land of the Lessor PROVIDED\
+    \ ALWAYS that the Lessee in so doing shall cause as little damage as may be to\
+    \ the Lessee's adjoining property and shall remove and dispose of any surplus\
+    \ earth and shall replace any top soil removed in as near to its former position\
+    \ as possible and shall make good forthwith and restore the surface thereof to\
+    \ the reasonable satisfaction of the Lessor TOGETHER ALSO with a right to the\
+    \ intent that the same shall be appurtenant to the demised premises (subject and\
+    \ limited as mentioned in Clause 4(1)(b) hereof) for the Lessee and all persons\
+    \ authorised by it (in common with the Lessor and all other persons having a similar\
+    \ right) to pass and re-pass at all times and for all purposes connected with\
+    \ the placing in the demised premises of an electricity substation or the maintenace\
+    \ use or removal of such substation and any apparatus installed therein or in\
+    \ the exercise of the rights hereby granted with or without vehicles plant machinery\
+    \ and other apparatus and materials over and along the underground cable land.\"\
+    \r\rNOTE 1: The land coloured blue is tinted brown on the filed plan\r\rNOTE 2:\
+    \ Clauses 2(f) and 4(1) of the lease state the following respectively:-\r\r\"\
+    2(f) To indemnify the Crown and the Lessor against all costs charges expenses\
+    \ actions claims and demands in respect of any damage or injury (including injury\
+    \ resulting in death) to any property or person arising by reason of this Lease\
+    \ or anything done or purported to be done pursuant to the provisions hereof and\
+    \ to be responsible for and to make good or pay compensation for any such damage\
+    \ or injury to the satisfaction of the Lessor and this indemnity shall extend\
+    \ and apply to all sums payable (whether or not the payment thereof is legally\
+    \ enforceable) under any Statute Order Regulation Instruction Warrant or otherwise\
+    \ to any officer servant or agent of the Crown or the personal respresentatives\
+    \ or dependants of any such person in respect of any such damage or injury PROVIDED\
+    \ ALWAYS that the Lessor shall as soon as practicable give notice in writing to\
+    \ the Lessee of any claims brought made or threatened against the Crown or the\
+    \ Lessor and shall not settle adjust or compromise such claims without first consulting\
+    \ the Lessor AND PROVIDED ALWAYS that this indemnity shall not extend to any such\
+    \ damage or injury caused solely by the negligent act or default of any officer\
+    \ servant or agent of the Lessor or of the Crown acting within the scope of his\
+    \ employment or to such proportion of any such damage or injury as may be directly\
+    \ attributable to the contributory negligence of such officer servant or agent\
+    \ while acting as aforesaid.\r\r4.  PROVIDED ALWAYS AND IT IS HEREBY AGREED AND\
+    \ DECLARED as follows:-\r\r(1) (a) That the rights granted herein in respect of\
+    \ the demised premises and the underground cable land shall not be exercised by\
+    \ any employee servants or agents of the lessees without first obtaining a written\
+    \ permit from the Lessor (except in the case of emergency when such notice as\
+    \ is reasonably practicable shall be given).\r\r(b) That the rights hereby granted\
+    \ in respect of the electric lines and to pass and repass over and along are limited\
+    \ to such rights as shall not prevent or in any way hinder or restrict the Lessor\
+    \ from breaking up and excavating the underground cable and as may be necessary\
+    \ or convenient for installing new drains sewers pipes and watercourses therein\
+    \ or thereunder and maintaining testing inspecting renewing altering replacing\
+    \ and removing the same and any existing drains sewers pipes and watercourses.\""
+  notes:
+  - text: The land coloured blue is *PR* on the filed plan
+    font: ' '
+  - text: Clauses 2(f) and 4(1) of the lease state the following respectively:-
+    font: ' '
+  template_text: "The parts of the land affected thereby are subject to the following\
+    \ rights granted by a *DT**DE* dated *DD* referred to in the schedule of leases\
+    \ hereto:-\r\r\"TOGETHER with the rights for the Lessee to place in the demised\
+    \ premises an electricity substation (in conformity with existing Statutory Regulations)\
+    \ and the right to maintain use or remove such substation equipment and any ancillary\
+    \ apparatus therein TOGETHER ALSO with the right to the intent that the same shall\
+    \ be appurtenant to the demised premises and/or the Lessees electricity distribution\
+    \ system (subject and limited as mentioned in Clauses 2(f) and 4(1) hereof) for\
+    \ the Lessee to lay and therafter to place use maintain inspect repair alter renew\
+    \ remove \"the electric lines\") for use in connection with such substation under\
+    \ the strip of land coloured blue on the said plan and key plan (hereinafter called\
+    \ the \"underground cable land\") and for such purpose to break up and excavate\
+    \ so much of the underground cable land as may from time to time be necessary\
+    \ AND TOGETHER WITH the right of support for the electric lines from the subjacent\
+    \ and adjacent land of the Lessor PROVIDED ALWAYS that the Lessee in so doing\
+    \ shall cause as little damage as may be to the Lessee's adjoining property and\
+    \ shall remove and dispose of any surplus earth and shall replace any top soil\
+    \ removed in as near to its former position as possible and shall make good forthwith\
+    \ and restore the surface thereof to the reasonable satisfaction of the Lessor\
+    \ TOGETHER ALSO with a right to the intent that the same shall be appurtenant\
+    \ to the demised premises (subject and limited as mentioned in Clause 4(1)(b)\
+    \ hereof) for the Lessee and all persons authorised by it (in common with the\
+    \ Lessor and all other persons having a similar right) to pass and re-pass at\
+    \ all times and for all purposes connected with the placing in the demised premises\
+    \ of an electricity substation or the maintenace use or removal of such substation\
+    \ and any apparatus installed therein or in the exercise of the rights hereby\
+    \ granted with or without vehicles plant machinery and other apparatus and materials\
+    \ over and along the underground cable land.\"\r\r<NOTE></NOTE>\r\r<NOTE></NOTE>\r\
+    \r\"2(f) To indemnify the Crown and the Lessor against all costs charges expenses\
+    \ actions claims and demands in respect of any damage or injury (including injury\
+    \ resulting in death) to any property or person arising by reason of this Lease\
+    \ or anything done or purported to be done pursuant to the provisions hereof and\
+    \ to be responsible for and to make good or pay compensation for any such damage\
+    \ or injury to the satisfaction of the Lessor and this indemnity shall extend\
+    \ and apply to all sums payable (whether or not the payment thereof is legally\
+    \ enforceable) under any Statute Order Regulation Instruction Warrant or otherwise\
+    \ to any officer servant or agent of the Crown or the personal respresentatives\
+    \ or dependants of any such person in respect of any such damage or injury PROVIDED\
+    \ ALWAYS that the Lessor shall as soon as practicable give notice in writing to\
+    \ the Lessee of any claims brought made or threatened against the Crown or the\
+    \ Lessor and shall not settle adjust or compromise such claims without first consulting\
+    \ the Lessor AND PROVIDED ALWAYS that this indemnity shall not extend to any such\
+    \ damage or injury caused solely by the negligent act or default of any officer\
+    \ servant or agent of the Lessor or of the Crown acting within the scope of his\
+    \ employment or to such proportion of any such damage or injury as may be directly\
+    \ attributable to the contributory negligence of such officer servant or agent\
+    \ while acting as aforesaid.\r\r4.  PROVIDED ALWAYS AND IT IS HEREBY AGREED AND\
+    \ DECLARED as follows:-\r\r(1) (a) That the rights granted herein in respect of\
+    \ the demised premises and the underground cable land shall not be exercised by\
+    \ any employee servants or agents of the lessees without first obtaining a written\
+    \ permit from the Lessor (except in the case of emergency when such notice as\
+    \ is reasonably practicable shall be given).\r\r(b) That the rights hereby granted\
+    \ in respect of the electric lines and to pass and repass over and along are limited\
+    \ to such rights as shall not prevent or in any way hinder or restrict the Lessor\
+    \ from breaking up and excavating the underground cable and as may be necessary\
+    \ or convenient for installing new drains sewers pipes and watercourses therein\
+    \ or thereunder and maintaining testing inspecting renewing altering replacing\
+    \ and removing the same and any existing drains sewers pipes and watercourses.\""
+- entry_id: '2004-11-08 11:24:46.631695'
+  sub_register: L
+  schedule:
+    fields:
+    - text: '1992-02-19'
+      header: Registration Date
+    - text: 1 in blue
+      header: Plan Reference
+    - text: Electricity Sub-Station on the West side of Colonial Street
+      header: Property Description
+    - text: '1992-01-30'
+      header: Date of Lease
+    - text: 31.1.1992 to 31.3.2067
+      header: Term
+    - text: HS210063
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  deeds:
+  - date: '1992-01-30'
+    lease_term: 31.1.1992 to 31.3.2067
+    description: Lease
+  status: Current
+  role_code: RLLE
+  language: ENG
+  full_text: "Registration Date     : 19.02.1992                                 \
+    \      \rPlan Reference        : 1 in blue                                   \
+    \     \rProperty Description  : Electricity Sub-Station on the West side of  \
+    \    \r                        Colonial Street                               \
+    \   \rDate of Lease         : 30.01.1992                                     \
+    \  \rTerm                  : 31.1.1992 to 31.3.2067                          \
+    \ \rLessee's Title        : HS210063                                         \r\
+    NOTE: See entry in the Charges Register relating to the rights granted\rby this\
+    \ lease"
+  notes:
+  - text: "See entry in the Charges Register relating to the rights granted\rby this\
+      \ lease"
+    font: ' '
+- entry_id: '2012-02-29 17:28:52.023220'
+  sub_register: L
+  schedule:
+    fields:
+    - text: '2012-01-19'
+      header: Registration Date
+    - text: edged in blue (NSE)
+      header: Plan Reference
+    - text: South Wing, Earle House
+      header: Property Description
+    - text: '2011-12-09'
+      header: Date of Lease
+    - text: 20 years commencing on 11.4.2010
+      header: Term
+    - text: HS364683
+      header: Lessees Title
+    schedule_type: L
+    parent_register: C
+    header: SCHEDULE OF NOTICES OF LEASES
+  deeds:
+  - date: '2011-12-09'
+    lease_term: 20 years commencing on 11.4.2010
+    description: Lease
+  status: Current
+  role_code: RLLE
+  language: ENG
+  full_text: "Registration Date     : 19.01.2012                                 \
+    \      \rPlan Reference        : edged in blue (NSE)                         \
+    \     \rProperty Description  : South Wing, Earle House                      \
+    \    \rDate of Lease         : 09.12.2011                                    \
+    \   \rTerm                  : 20 years commencing on 11.4.2010               \
+    \  \rLessee's Title        : HS364683                                        \
+    \ \rNOTE: The lease comprises also other land."
+  notes:
+  - text: The lease comprises also other land.
+    font: ' '
+uprns:
+- 500016004
+- 1001289990
+- 1005761358
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2004-11-08 11:24:46.255605'
+  message: Address not deconstructed in Intelligent Register for title
+dlr: Kingston upon Hull Office
+districts:
+- CITY OF KINGSTON UPON HULL

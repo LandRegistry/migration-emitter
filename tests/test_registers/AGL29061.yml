@@ -1,0 +1,236 @@
+---
+edition_date: '2006-10-13T00:00:00.000+01:00'
+last_app_timestamp: '2006-10-13T11:32:04.000+01:00'
+class: Absolute
+tenure: Freehold
+entries:
+- entry_id: '2006-08-09 10:20:27.798525'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  full_text: "<CENTRE>HOUNSLOW</CENTRE>\r\rThe Freehold land shown edged with red\
+    \ on the plan of the above Title filed at the Registry and being 6 Snowy Fielder\
+    \ Waye, Hounslow."
+- entry_id: '2006-08-09 10:20:28.151295'
+  sub_register: A
+  deeds:
+  - date: '1991-10-21'
+    description: Transfer
+  status: Current
+  role_code: DANP
+  language: ENG
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  full_text: "A Transfer of the land in this title dated 21 October 1991 made between\
+    \ (1) The Mayor and Burgesses of The London Borough of Hounslow and (2) Yatin\
+    \ Patel and Minaxi Patel was made pursuant to Part V of the Housing Act 1985 and\
+    \ the land has the benefit of and is subject to such easements as are granted\
+    \ and reserved in the said Deed and has the benefit of and is subject to the easements\
+    \ and rights specified in paragraph 2 of Schedule 6 of the said Act.\r\r¬NOTE:\
+    \ Original filed."
+  notes:
+  - text: Original filed
+    font: I
+  template_text: "A *DT**DE* dated *DD* made between (1) The Mayor and Burgesses of\
+    \ The London Borough of Hounslow and (2) Yatin Patel and Minaxi Patel was made\
+    \ pursuant to Part V of the Housing Act 1985 and the land has the benefit of and\
+    \ is subject to such easements as are granted and reserved in the said Deed and\
+    \ has the benefit of and is subject to the easements and rights specified in paragraph\
+    \ 2 of Schedule 6 of the said Act.\r\r<NOTE></NOTE>"
+- entry_id: '2006-08-09 10:20:28.198365'
+  sub_register: A
+  deeds:
+  - date: '1991-10-21'
+    description: Transfer
+  status: Current
+  role_code: DPRO
+  language: ENG
+  full_text: The Transfer dated 21 October 1991 referred to above contains provisions as to boundary structures.
+  entry_date: '1992-01-31'
+  template_text: The *DT* dated *DD* referred to above contains provisions as to boundary structures
+- entry_id: '2006-08-09 10:20:27.811705'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Middx
+        address_string: 6 Snowy Fielder Waye, Isleworth, Middx
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: PATEL
+        forename: YATIN
+        name_category: A
+    - addresses:
+      - postal_county: Middx
+        address_string: 6 Snowy Fielder Waye, Isleworth, Middx
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: PATEL
+        forename: MINAXI
+        name_category: A
+    type: Proprietor
+  full_text: 'PROPRIETOR: %YATIN PATEL% and %MINAXI PATEL% of 6 Snowy Fielder Waye,
+    Isleworth, *Middx*.'
+  entry_date: '1992-01-31'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2006-08-09 10:20:27.958385'
+  sub_register: C
+  deeds:
+  - date: '1932-02-15'
+    description: Conveyance
+  status: Current
+  role_code: DCOV
+  language: ENG
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  full_text: "A Conveyance of the land in this title and other land dated 15 February\
+    \ 1932 made between (1) The Right Honourable Edward Frederick Lindley Baron Irwin\
+    \ K.G. and The Right Honourable Eustace Sutherland Campbell Percy (The Vendors)\
+    \ and (2) The County Council of The Administrative County of Middlesex (The Council)\
+    \ contains the following covenants:\r\rTHE Council for themselves and their successors\
+    \ in title with intent to bind so far as practicable the said land hereby covenant\
+    \ with the Vendors and their successors in title the owners for the time being\
+    \ of Syon House aforesaid that the Council and their successors in title will\
+    \ at all times hereafter observe the covenants and stipulations following videlicet:-\r\
+    \r(i) That the Council:-\r\r(a) will at all times keep and maintain the said watercourse\
+    \ between the points marked \"A\" and \"B\" on the said plan clean and free from\
+    \ any obstruction and will forthwith at their own cost construct to the reasonable\
+    \ approval of the Vendors' Agent two suitable brick manholes to give access to\
+    \ the tunnel and pipes between the points marked \"B\" and \"C\" in the said plan\
+    \ such manholes (including the covers and fittings thereof) to be the property\
+    \ of the Vendors\r\r(b) will at all times keep up repair and maintain the banks\
+    \ on each side of the said watercourse (including the said pond or backwater)\
+    \ between the points marked \"A\" and \"B\" in the said plan\r\r(c) will not at\
+    \ any time as owners or occupiers of the said land do anything which may cause\
+    \ or omit to do anything which may prevent any diminution in the flow of water\
+    \ in the said watercourse or cause any pollution of such water\r\r(d) will not\
+    \ at any time build over or obstruct or render impossible the free access to the\
+    \ tunnel or pipes between the said points \"B\" and \"C\"\r\r(ii) (a) That no\
+    \ part of the said land or any building or erection at any time thereon shall\
+    \ ever be used as or for a cemetery sewage works or for any offensive trade or\
+    \ offensive business\r\r(b) That no act or thing which is or may be or may give\
+    \ rise to a public or private nuisance shall ever be done or suffered upon the\
+    \ said land PROVIDED ALWAYS that the use of the said land for purposes of Public\
+    \ Assistance or Public Health (other than as a cemetery or sewage works) shall\
+    \ not be deemed to be a breach of this covenant nor of the covenant contained\
+    \ in the last preceding sub-clause (a)\r\r(c) That in the event of any sale Lease\
+    \ exchange or disposition by the Council of the said land or any part thereof\
+    \ (other than to a body or person having Compulsory Powers of acquisition thereover)\
+    \ the Council will require the Purchaser or Lessee or other person taking the\
+    \ same to enter into covenants binding himself and his successors in title and\
+    \ the land concerning that no part of such land or any building or erection at\
+    \ any time thereon shall ever (without the previous consent in writing of the\
+    \ Vendors or their successors in title) be used as or for flats or a shop or shops\
+    \ or for the sale of intoxicating liquors or as or for a place of public entertainment\
+    \ or recreation or as a Club\r\rNOTE: The points \"A\" and \"B\"  and \"B\" and\
+    \ \"C\" referred to in paragraph (i) do not affect the land in this title."
+  notes:
+  - text: The points "A" and "B"  and "B" and "C" referred to in paragraph (i) do not affect the land in this title
+    font: ' '
+  template_text: "A *DT**DE* dated *DD* made between (1) The Right Honourable Edward\
+    \ Frederick Lindley Baron Irwin K.G. and The Right Honourable Eustace Sutherland\
+    \ Campbell Percy (The Vendors) and (2) The County Council of The Administrative\
+    \ County of Middlesex (The Council) contains the following covenants:\r\rTHE Council\
+    \ for themselves and their successors in title with intent to bind so far as practicable\
+    \ the said land hereby covenant with the Vendors and their successors in title\
+    \ the owners for the time being of Syon House aforesaid that the Council and their\
+    \ successors in title will at all times hereafter observe the covenants and stipulations\
+    \ following videlicet:-\r\r(i) That the Council:-\r\r(a) will at all times keep\
+    \ and maintain the said watercourse between the points marked \"A\" and \"B\"\
+    \ on the said plan clean and free from any obstruction and will forthwith at their\
+    \ own cost construct to the reasonable approval of the Vendors' Agent two suitable\
+    \ brick manholes to give access to the tunnel and pipes between the points marked\
+    \ \"B\" and \"C\" in the said plan such manholes (including the covers and fittings\
+    \ thereof) to be the property of the Vendors\r\r(b) will at all times keep up\
+    \ repair and maintain the banks on each side of the said watercourse (including\
+    \ the said pond or backwater) between the points marked \"A\" and \"B\" in the\
+    \ said plan\r\r(c) will not at any time as owners or occupiers of the said land\
+    \ do anything which may cause or omit to do anything which may prevent any diminution\
+    \ in the flow of water in the said watercourse or cause any pollution of such\
+    \ water\r\r(d) will not at any time build over or obstruct or render impossible\
+    \ the free access to the tunnel or pipes between the said points \"B\" and \"\
+    C\"\r\r(ii) (a) That no part of the said land or any building or erection at any\
+    \ time thereon shall ever be used as or for a cemetery sewage works or for any\
+    \ offensive trade or offensive business\r\r(b) That no act or thing which is or\
+    \ may be or may give rise to a public or private nuisance shall ever be done or\
+    \ suffered upon the said land PROVIDED ALWAYS that the use of the said land for\
+    \ purposes of Public Assistance or Public Health (other than as a cemetery or\
+    \ sewage works) shall not be deemed to be a breach of this covenant nor of the\
+    \ covenant contained in the last preceding sub-clause (a)\r\r(c) That in the event\
+    \ of any sale Lease exchange or disposition by the Council of the said land or\
+    \ any part thereof (other than to a body or person having Compulsory Powers of\
+    \ acquisition thereover) the Council will require the Purchaser or Lessee or other\
+    \ person taking the same to enter into covenants binding himself and his successors\
+    \ in title and the land concerning that no part of such land or any building or\
+    \ erection at any time thereon shall ever (without the previous consent in writing\
+    \ of the Vendors or their successors in title) be used as or for flats or a shop\
+    \ or shops or for the sale of intoxicating liquors or as or for a place of public\
+    \ entertainment or recreation or as a Club\r\r<NOTE></NOTE>"
+- entry_id: '2006-08-09 10:20:27.988105'
+  sub_register: C
+  deeds:
+  - date: '1991-10-21'
+    description: Transfer
+  status: Current
+  role_code: CDCH
+  language: ENG
+  full_text: A Charge having the priority specified in Section 156 of the Housing Act 1985 to secure the liability to repay discount contained in the Transfer dated 21 October 1991 referred to in the Property Register.
+  template_text: A Charge having the priority specified in Section 156 of the Housing Act 1985 to secure the liability to repay discount contained in the *DT* dated *DD* referred to in the Property Register
+- entry_id: '2006-08-09 10:20:28.004425'
+  sub_register: C
+  status: Current
+  draft_entry_version: 1
+  role_code: CCHA
+  language: ENG
+  infills:
+  - text: 21 October 1991
+    date: '1991-10-21'
+    type: DATE
+  full_text: REGISTERED CHARGE dated 21 October 1991 to secure the moneys including the further advances therein mentioned.
+  entry_date: '1992-01-31'
+  template_text: REGISTERED CHARGE dated *CD* to secure the moneys including the further advances therein mentioned.
+  draft_entry_code: CHFAD
+- entry_id: '2006-10-13 10:32:04.961335'
+  sub_register: C
+  status: Current
+  draft_entry_version: 1
+  role_code: CCHR
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Property Finance, Kings Park Road, Moulton Park, Northampton NN3 6NW
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Nationwide Building Society
+    type: Charge Proprietor
+  full_text: 'Proprietor: >NATIONWIDE BUILDING SOCIETY> of Property Finance, Kings
+    Park Road, Moulton Park, Northampton NN3 6NW.'
+  entry_date: '2006-10-13'
+  template_text: 'Proprietor: >NATIONWIDE BUILDING SOCIETY> of Property Finance, Kings
+    Park Road, Moulton Park, Northampton NN3 6NW.'
+  draft_entry_code: CW560
+title_number: AGL29061
+dlr: Wales Office
+migration_errors:
+- extractor: UPRN
+  message: No UPRN rows found for title
+- extractor: Property Extractor
+  entry_id: '2006-08-09 10:20:27.798525'
+  message: Address not deconstructed in Intelligent Register for title
+- extractor: Geometry Extractor
+  message: No extent or index
+districts:
+- HOUNSLOW

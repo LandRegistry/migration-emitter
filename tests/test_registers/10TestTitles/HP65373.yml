@@ -1,0 +1,511 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: MultiPolygon
+      coordinates:
+      - - - - 455884.75
+            - 107153.9
+          - - 455891.75
+            - 107148.75
+          - - 455893.91
+            - 107147.14
+          - - 455899.81
+            - 107142.74
+          - - 455908.13
+            - 107136.55
+          - - 455904.66
+            - 107132.0
+          - - 455898.07
+            - 107136.93
+          - - 455890.49
+            - 107142.55
+          - - 455882.0
+            - 107148.83
+          - - 455884.75
+            - 107153.9
+      - - - - 455894.15
+            - 107101.85
+          - - 455889.95
+            - 107104.9
+          - - 455889.05
+            - 107105.52
+          - - 455890.44
+            - 107107.59
+          - - 455890.47
+            - 107107.65
+          - - 455891.4
+            - 107106.9
+          - - 455895.6
+            - 107103.85
+          - - 455901.14
+            - 107099.75
+          - - 455899.78
+            - 107097.92
+          - - 455899.67
+            - 107097.77
+          - - 455894.15
+            - 107101.85
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2012-07-18T00:00:00.000+01:00'
+last_app_timestamp: '2012-07-18T10:31:10.000+01:00'
+class: Absolute
+tenure: Leasehold
+title_number: HP65373
+entries:
+- entry_id: '2012-07-11 11:36:30.572370'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  infills:
+  - address:
+      postcode: PO15 6JB
+      trail_info: and garage 4
+      postal_county: HAMPSHIRE
+      town: Fareham
+      address_string: 2 Heather Gardens, Fareham and garage 4 (PO15 6JB)
+      house_no: '2'
+      street_name: Heather Gardens
+    type: Address
+  full_text: "<CENTRE>HAMPSHIRE : FAREHAM</CENTRE>\r\rThe Leasehold land shown edged\
+    \ with red on the plan of the above Title filed at the Registry and being 2 Heather\
+    \ Gardens, Fareham and garage 4 (PO15 6JB)."
+  entry_date: '1969-02-12'
+  template_text: The Leasehold land shown edged with red on the plan of the above Title filed at the Registry and being *AD*
+- entry_id: '2005-09-08 21:43:05.404805'
+  sub_register: A
+  deeds:
+  - date: '1968-08-02'
+    description: Conveyance
+  status: Current
+  role_code: DMMR
+  language: ENG
+  infills:
+  - text: hatched blue
+    type: PLAN REF
+  full_text: "There are excluded from the registration of the land hatched blue on\
+    \ the filed plan the mines and minerals and other rights referred to in the following\
+    \ terms by the Conveyance dated 2 August 1968 referred to in the Charges Register:-\r\
+    \r\"THERE shall be excluded from the Conveyance (a) any mines or minerals under\
+    \ the property or any right support from any mines or minerals whatsoever and\
+    \ (b) any easement or right of light air or support or other easement or right\
+    \ which would restict or interfere with the free use by the Vendor or any person\
+    \ deriving title under them for building or any other purpose of any adjoining\
+    \ or neighbouring land of the Vendor (whether intended to be retained or to be\
+    \ sold by them)\""
+  template_text: "There are excluded from the registration of the land *PR* on the\
+    \ filed plan the mines and minerals and other rights referred to in the following\
+    \ terms by the *DT* dated *DD* referred to in the Charges Register:-\r\r\"THERE\
+    \ shall be excluded from the Conveyance (a) any mines or minerals under the property\
+    \ or any right support from any mines or minerals whatsoever and (b) any easement\
+    \ or right of light air or support or other easement or right which would restict\
+    \ or interfere with the free use by the Vendor or any person deriving title under\
+    \ them for building or any other purpose of any adjoining or neighbouring land\
+    \ of the Vendor (whether intended to be retained or to be sold by them)\""
+- entry_id: '2005-09-08 21:43:05.419445'
+  sub_register: A
+  deeds:
+  - date: '1968-08-02'
+    description: Conveyance
+  status: Current
+  role_code: DPRO
+  language: ENG
+  full_text: "The Conveyance dated 2 August 1968 referred to above contains the following\
+    \ provision:-\r\r\"IT IS HEREBY AGREED AND DECLARED that the carrying on by the\
+    \ Vendor of their undertaking on their adjoining or neighbouring land in exercise\
+    \ of their powers and subject to their statutory and common law obligations shall\
+    \ not be deemed to be a breach of the covenant for quiet enjoyment implied herein\
+    \ by reason of the Vendor being expressed to convey the property as beneficial\
+    \ owners nor to be in derogration of their grant\""
+  template_text: "The *DT* dated *DD* referred to above contains the following provision:-\r\
+    \r\"IT IS HEREBY AGREED AND DECLARED that the carrying on by the Vendor of their\
+    \ undertaking on their adjoining or neighbouring land in exercise of their powers\
+    \ and subject to their statutory and common law obligations shall not be deemed\
+    \ to be a breach of the covenant for quiet enjoyment implied herein by reason\
+    \ of the Vendor being expressed to convey the property as beneficial owners nor\
+    \ to be in derogration of their grant\""
+- entry_id: '2007-11-06 15:30:22.696110'
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'Short particulars of the lease(s) (or under-lease(s)) under which the
+        land is held:'
+      header: ''
+    - text: '1969-01-14'
+      header: Date
+    - text: 999 years from 24 June 1968
+      header: Term
+    - text: £12.0s.0d and insurance rent
+      header: Rent
+    - parties:
+      - names:
+        - non_private_individual_name: Deeplings Properties Limited
+      - names:
+        - non_private_individual_name: Greensea Properties Limited
+      - names:
+        - surname: Parker
+          forename: Anthony William Herbert
+      header: Parties
+    schedule_type: H
+    parent_register: A
+    header: ''
+  deeds:
+  - rent_detail: £12.0s.0d and insurance rent
+    date: '1969-01-14'
+    parties:
+    - names:
+      - non_private_individual_name: Deeplings Properties Limited
+    - names:
+      - non_private_individual_name: Greensea Properties Limited
+    - names:
+      - surname: Parker
+        forename: Anthony William Herbert
+    lease_term: 999 years from 24 June 1968
+    description: Lease
+  status: Current
+  role_code: RSLP
+  language: ENG
+  full_text: "Short particulars of the lease(s) (or under-lease(s)) under which the\
+    \ land is held:\rDate        : 14 January 1969                               \
+    \             \rTerm        : 999 years from 24 June 1968                    \
+    \            \rRent        : £12.0s.0d and insurance rent                    \
+    \           \rParties     : (1) Deeplings Properties Limited                 \
+    \          \r              (2) Greensea Properties Limited                   \
+    \         \r              (3) Anthony William Herbert Parker"
+  entry_date: '1969-02-12'
+- entry_id: '2007-11-05 12:28:00.674050'
+  sub_register: A
+  status: Current
+  draft_entry_version: 2
+  role_code: RLET
+  language: ENG
+  full_text: The landlord's title is registered.
+  entry_date: '2004-10-28'
+  template_text: The landlord's title is registered.
+  draft_entry_code: AG525
+- entry_id: '2006-03-14 05:20:30.399005'
+  sub_register: A
+  status: Current
+  draft_entry_version: 1
+  role_code: RAEA
+  language: ENG
+  full_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  template_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  draft_entry_code: AG303
+- entry_id: '2012-07-11 11:35:22.820640'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postcode: PO15 6JB
+        postal_county: Hants
+        town: Fareham
+        address_string: 2 Heather Gardens, Fareham, Hants PO15 6JB
+        secondary_house_no: '0'
+        house_no: '2'
+        address_type: U
+        street_name: Heather Gardens
+      name:
+        surname: Davies
+        forename: Stephanie Anne
+        name_category: A
+    - addresses:
+      - postcode: PO15 6JB
+        postal_county: Hants
+        town: Fareham
+        address_string: 2 Heather Gardens, Fareham, Hants PO15 6JB
+        secondary_house_no: '0'
+        house_no: '2'
+        address_type: U
+        street_name: Heather Gardens
+      name:
+        surname: Davies
+        forename: Robert Nicholas
+        name_category: A
+    type: Proprietor
+  full_text: 'PROPRIETOR: %STEPHANIE ANNE DAVIES% and %ROBERT NICHOLAS DAVIES% of
+    2 Heather Gardens, Fareham, *Hants* PO15 6JB.'
+  entry_date: '2012-07-11'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2005-09-08 21:43:05.466425'
+  sub_register: B
+  status: Current
+  draft_entry_version: 1
+  role_code: RPPD
+  language: ENG
+  infills:
+  - text: 22 September 2004
+    date: '2004-09-22'
+    type: DATE
+  - text: £146,000
+    type: PRICE
+  full_text: The price stated to have been paid on 22 September 2004 was £146,000.
+  entry_date: '2004-10-28'
+  template_text: The price stated to have been paid on *DA* was *AM*.
+  draft_entry_code: BK688
+- entry_id: '2012-07-11 11:35:24.431200'
+  sub_register: B
+  status: Current
+  draft_entry_version: 1
+  role_code: OJPR
+  language: ENG
+  full_text: 'RESTRICTION: No disposition by a sole proprietor of the registered estate
+    (except a trust corporation) under which capital money arises is to be registered
+    unless authorised by an order of the court.'
+  entry_date: '2012-07-11'
+  template_text: 'RESTRICTION: No disposition by a sole proprietor of the registered
+    estate (except a trust corporation) under which capital money arises is to be
+    registered unless authorised by an order of the court.'
+  draft_entry_code: BX900
+- entry_id: '2012-07-11 11:35:50.445090'
+  sub_register: B
+  status: Current
+  draft_entry_version: 2
+  role_code: CBCR
+  language: ENG
+  infills:
+  - text: 25/06/2012
+    date: '2012-06-25'
+    type: DATE
+  - text: Yorkshire Building Society
+  full_text: 'RESTRICTION: No disposition of the registered estate by the proprietor
+    of the registered estate or by the proprietor of any registered charge, not being
+    a charge registered before the entry of this restriction, is to be registered
+    without a written consent signed by the proprietor for the time being of the Charge
+    dated 25 June 2012 in favour of Yorkshire Building Society referred to in the
+    Charges Register.'
+  entry_date: '2012-07-11'
+  template_text: 'RESTRICTION: No disposition of the registered estate by the proprietor
+    of the registered estate or by the proprietor of any registered charge, not being
+    a charge registered before the entry of this restriction, is to be registered
+    without a written consent signed by the proprietor for the time being of the Charge
+    dated *CD* in favour of *CP* referred to in the Charges Register.'
+  draft_entry_code: BX602
+- entry_id: '2005-09-08 21:43:05.237845'
+  sub_register: C
+  deeds:
+  - date: '1937-12-04'
+    description: Conveyance
+  status: Current
+  role_code: DCOV
+  language: ENG
+  infills:
+  - text: of the freehold estate of the land *PR* on the filed plan and other land
+    type: EXTENT
+  - text: tinted yellow
+    type: PLAN REF
+  full_text: A Conveyance of the freehold estate of the land tinted yellow on the filed plan and other land dated 4 December 1937 made between (1) Archibald Herbert Coleborn (Vendor) and (2) Tom Haslam (Purchaser) contains covenants details of which are set out in the schedule of restrictive covenants hereto.
+  template_text: A *DT**DE* dated *DD* made between (1) Archibald Herbert Coleborn (Vendor) and (2) Tom Haslam (Purchaser) contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2005-09-08 21:43:05.266995'
+  sub_register: C
+  deeds:
+  - date: '1968-08-02'
+    description: Conveyance
+  status: Current
+  role_code: DCOV
+  language: ENG
+  infills:
+  - text: of the freehold estate of the land *PR* on the filed plan and other land
+    type: EXTENT
+  - text: hatched blue
+    type: PLAN REF
+  full_text: A Conveyance of the freehold estate of the land hatched blue on the filed plan and other land dated 2 August 1968 made between (1) British Railway Board (Vendors) and (2) M. E. Wordley (Developments) Limited (Purchaser) contains covenants details of which are set out in the schedule of restrictive covenants hereto.
+  template_text: A *DT**DE* dated *DD* made between (1) British Railway Board (Vendors) and (2) M. E. Wordley (Developments) Limited (Purchaser) contains covenants details of which are set out in the schedule of restrictive covenants hereto
+- entry_id: '2012-07-23 10:50:06.628170'
+  sub_register: C
+  deeds:
+  - date: '1968-08-02'
+    description: Conveyance
+  status: Current
+  role_code: DCEA
+  language: ENG
+  full_text: "The land hatched blue on the filed plan is subject to the following\
+    \ rights reserved by the Conveyance dated 2 August 1968 referred to above:-\r\r\
+    \"THE following rights are excepted and reserved to the Vendor:-\r\r(i)  the right\
+    \ to dig into the property so far as necessary in order to inspect maintain remove\
+    \ or alter the foundations of Bridge number 24F beneath the property and any other\
+    \ works connected with the said Bridge\r\r(ii)  the right at any time to erect\
+    \ or suffer to be erected any buildings or other erections and to alter any building\
+    \ or other erection now standing or hereafter to be erected on any part of their\
+    \ adjoining or neighbouring land in such a manner as to obstruct or interfere\
+    \ with the passage of light or air to any building which is or may be erected\
+    \ upon the property and any access of light and air over the adjoining land of\
+    \ the Vendor shall be deemed to be enjoyed by the licence or consent of the Vendor\
+    \ and not as of right\r\r(iii)  the right of support from the property for the\
+    \ adjoining property of the Vendor\r\r(iv)  the right to have maintain repair\
+    \ cleanse use reconstruct alter and remove any drains pipes wires cables and works\
+    \ on over or under the property now used for the benefit of the adjoining property\
+    \ of the Vendor in particular the six inch drain indicated on the said plan\r\r\
+    (v)  full right and liberty for the Vendor and their successors in title with\
+    \ or without workmen at all reasonable times to enter upon the property for the\
+    \ purposes of exercising the right reserved by paragraph (iv) of this sub-clause\r\
+    \r(vi)  full right and liberty for the Vendor and their successors in title with\
+    \ or without workmen at all reasonable times to enter upon the property for the\
+    \ purpose of maintaining repairing renewing reinstating altering or amending any\
+    \ fences walls railway banks abutment or retaining walls bridge number 24F and\
+    \ other works of the Vendor on their adjoining or neighbouring land the Vendor\
+    \ making good any damage occasioned to the property by the exercise of the right\
+    \ of entry reserved by paragraphs (v) and (vi) of this sub-clause\""
+  template_text: "The land hatched blue on the filed plan is subject to the following\
+    \ rights reserved by the Conveyance dated 2 August 1968 referred to above:-\r\r\
+    \"THE following rights are excepted and reserved to the Vendor:-\r\r(i)  the right\
+    \ to dig into the property so far as necessary in order to inspect maintain remove\
+    \ or alter the foundations of Bridge number 24F beneath the property and any other\
+    \ works connected with the said Bridge\r\r(ii)  the right at any time to erect\
+    \ or suffer to be erected any buildings or other erections and to alter any building\
+    \ or other erection now standing or hereafter to be erected on any part of their\
+    \ adjoining or neighbouring land in such a manner as to obstruct or interfere\
+    \ with the passage of light or air to any building which is or may be erected\
+    \ upon the property and any access of light and air over the adjoining land of\
+    \ the Vendor shall be deemed to be enjoyed by the licence or consent of the Vendor\
+    \ and not as of right\r\r(iii)  the right of support from the property for the\
+    \ adjoining property of the Vendor\r\r(iv)  the right to have maintain repair\
+    \ cleanse use reconstruct alter and remove any drains pipes wires cables and works\
+    \ on over or under the property now used for the benefit of the adjoining property\
+    \ of the Vendor in particular the six inch drain indicated on the said plan\r\r\
+    (v)  full right and liberty for the Vendor and their successors in title with\
+    \ or without workmen at all reasonable times to enter upon the property for the\
+    \ purposes of exercising the right reserved by paragraph (iv) of this sub-clause\r\
+    \r(vi)  full right and liberty for the Vendor and their successors in title with\
+    \ or without workmen at all reasonable times to enter upon the property for the\
+    \ purpose of maintaining repairing renewing reinstating altering or amending any\
+    \ fences walls railway banks abutment or retaining walls bridge number 24F and\
+    \ other works of the Vendor on their adjoining or neighbouring land the Vendor\
+    \ making good any damage occasioned to the property by the exercise of the right\
+    \ of entry reserved by paragraphs (v) and (vi) of this sub-clause\""
+- entry_id: '2012-07-11 11:35:50.332520'
+  sub_register: C
+  status: Current
+  draft_entry_version: 1
+  role_code: CCHA
+  language: ENG
+  infills:
+  - text: 25/06/2012
+    date: '2012-06-25'
+    type: DATE
+  full_text: REGISTERED CHARGE dated 25 June 2012.
+  entry_date: '2012-07-11'
+  template_text: REGISTERED CHARGE dated *CD*.
+  draft_entry_code: CD100
+- entry_id: '2012-07-11 11:35:50.407880'
+  sub_register: C
+  status: Current
+  draft_entry_version: 2
+  role_code: CCHR
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Yorkshire House, Yorkshire Drive, Bradford  BD5 8LJ
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Yorkshire Building Society
+    type: Charge Proprietor
+  full_text: 'Proprietor: >YORKSHIRE BUILDING SOCIETY> of Yorkshire House, Yorkshire
+    Drive, Bradford  BD5 8LJ.'
+  entry_date: '2012-07-11'
+  template_text: 'Proprietor: >YORKSHIRE BUILDING SOCIETY> of Yorkshire House, Yorkshire
+    Drive, Bradford  BD5 8LJ.'
+  draft_entry_code: CYORK
+- entry_id: '2005-09-08 21:43:05.322215'
+  sub_register: S
+  deeds:
+  - date: '1937-12-04'
+    description: Conveyance
+  status: Current
+  role_code: SSCH
+  language: ENG
+  full_text: "The following are details of the covenants contained in the Conveyance\
+    \ dated 4 December 1937 referred to in the Charges Register:-\r\rCOVENANT by Purchaser\
+    \ with intent and so as to bind (so far as practicable) land thereby conveyed\
+    \ into whosesoever hands the same might come and to benefit Vendors adjoining\
+    \ or neighbouring land (but not so as to render himself personally liable for\
+    \ any breach of covenant committed after he should have parted with all interest\
+    \ in land in respect of which such breach should occur) that Purchaser and his\
+    \ successors in title would at all times thereafter observe and perform stipulations\
+    \ and restrictions set out in First Schedule thereto\r\r<CENTRE>THE FIRST SCHEDULE\
+    \ before referred to</CENTRE>\r\r(1)  That no buildings other than dwellinghouses\
+    \ with outbuildings appurtenant thereto should be erected on land\r\r(2)  That\
+    \ land or any dwellinghouse erected thereon should be used for no purpose other\
+    \ than that of private or professional residences  And (without prejudice to foregoing)\
+    \ that none of following businesses should be carried on thereon (namely) the\
+    \ sale of groceries and provisions hardware confectionery drapery footwear and\
+    \ patent medicines\r\r(3)  Purchaser was not entitled to any right of easement\
+    \ of light to which but for that stipulation he would or might become entitled\
+    \ and if vested in him would restrict or in any way interfere with free user by\
+    \ Vendor of any of his adjoining or neighbouring property for building purposes."
+  template_text: "The following are details of the covenants contained in the *DT*\
+    \ dated *DD* referred to in the Charges Register:-\r\rCOVENANT by Purchaser with\
+    \ intent and so as to bind (so far as practicable) land thereby conveyed into\
+    \ whosesoever hands the same might come and to benefit Vendors adjoining or neighbouring\
+    \ land (but not so as to render himself personally liable for any breach of covenant\
+    \ committed after he should have parted with all interest in land in respect of\
+    \ which such breach should occur) that Purchaser and his successors in title would\
+    \ at all times thereafter observe and perform stipulations and restrictions set\
+    \ out in First Schedule thereto\r\r<CENTRE>THE FIRST SCHEDULE before referred\
+    \ to</CENTRE>\r\r(1)  That no buildings other than dwellinghouses with outbuildings\
+    \ appurtenant thereto should be erected on land\r\r(2)  That land or any dwellinghouse\
+    \ erected thereon should be used for no purpose other than that of private or\
+    \ professional residences  And (without prejudice to foregoing) that none of following\
+    \ businesses should be carried on thereon (namely) the sale of groceries and provisions\
+    \ hardware confectionery drapery footwear and patent medicines\r\r(3)  Purchaser\
+    \ was not entitled to any right of easement of light to which but for that stipulation\
+    \ he would or might become entitled and if vested in him would restrict or in\
+    \ any way interfere with free user by Vendor of any of his adjoining or neighbouring\
+    \ property for building purposes"
+- entry_id: '2005-09-08 21:43:05.337985'
+  sub_register: S
+  deeds:
+  - date: '1968-08-02'
+    description: Conveyance
+  status: Current
+  role_code: SSCH
+  language: ENG
+  full_text: "The following are details of the covenants contained in the Conveyance\
+    \ dated 2 August 1968 referred to in the Charges Register:-\r\r\"FOR the benefit\
+    \ and protection of such part of the adjoining or neighbouring property of the\
+    \ Vendor as is capable of being benefited or protected and with intent to bind\
+    \ so far as legally may be themselves and their successors in title owners for\
+    \ the time being of the property or any part thereof in whosesoever hands the\
+    \ same may come the Purchaser hereby covenants with the Vendor that the Purchasers\
+    \ and its successors in title will at all times hereafter observe and perform\
+    \ the stipulations and restrictions set out in the Schedule hereto\r\r<CENTRE>THE\
+    \ SCHEDULE</CENTRE>\r\rNot at any time -\r\r(a)  without previously submitting\
+    \ details plans and sections thereof to the Board and obtaining their approval\
+    \ thereto and\r\r(b)  without complying with such reasonable conditions as to\
+    \ foundations or otherwise as the Vendor shall deem it necessary to impose to\
+    \ erect or add to any building or structures or to execute any works on any part\
+    \ of the property within a distance of ten feet of the Vendor's land works and\
+    \ bridge foundations\""
+  template_text: "The following are details of the covenants contained in the *DT*\
+    \ dated *DD* referred to in the Charges Register:-\r\r\"FOR the benefit and protection\
+    \ of such part of the adjoining or neighbouring property of the Vendor as is capable\
+    \ of being benefited or protected and with intent to bind so far as legally may\
+    \ be themselves and their successors in title owners for the time being of the\
+    \ property or any part thereof in whosesoever hands the same may come the Purchaser\
+    \ hereby covenants with the Vendor that the Purchasers and its successors in title\
+    \ will at all times hereafter observe and perform the stipulations and restrictions\
+    \ set out in the Schedule hereto\r\r<CENTRE>THE SCHEDULE</CENTRE>\r\rNot at any\
+    \ time -\r\r(a)  without previously submitting details plans and sections thereof\
+    \ to the Board and obtaining their approval thereto and\r\r(b)  without complying\
+    \ with such reasonable conditions as to foundations or otherwise as the Vendor\
+    \ shall deem it necessary to impose to erect or add to any building or structures\
+    \ or to execute any works on any part of the property within a distance of ten\
+    \ feet of the Vendor's land works and bridge foundations\""
+uprns:
+- 9020326
+- 1004253963
+dlr: Weymouth Office
+districts:
+- 'HAMPSHIRE : FAREHAM'
