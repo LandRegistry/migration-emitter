@@ -191,7 +191,13 @@ class ScheduleExtractor
 
   def self.find_fields( entry, header )
     if entry['schedule'].present?
-      return (entry['schedule']['fields'].find{|fields| fields['header'] == header})['text']
+      field = entry['schedule']['fields'].find{|fields| fields['header'] == header}
+
+      if field['text'].present?
+        return field['text'].strip
+      else
+        raise 'mandatory schedule field not present'
+      end
     end
   end
 
@@ -206,13 +212,6 @@ class ScheduleExtractor
   def self.setup_schedule_entry( entry )
     schedule_entry = CommonRoutines.set_up_entry( entry )
     schedule_entry['header']          = entry['schedule']['header'].present? ? entry['schedule']['header'] : ''
-    # schedule_entry['deed']            = CommonRoutines.get_deeds( entry )  #TODO - get deeds for schedules
-    # schedule_entry['notes']           = CommonRoutines.get_notes( entry )
-    # schedule_entry['full_text']       = entry['full_text'].present? ? entry['full_text'] : ''
-    # schedule_entry['entry_date']      = entry['entry_date'].present? ? entry['entry_date'] : ''
-    # schedule_entry['role_code']       = entry['role_code'].present? ? entry['role_code'] : ''
-    # schedule_entry['status']          = entry['status'].present? ? entry['status'] : ''
-    # schedule_entry['lang_code']       = entry['language'].present? ? entry['language'] : ''
     schedule_entry['parent_register'] = entry['schedule']['parent_register'].present? ? entry['schedule']['parent_register'] : ''
 
     schedule_entry

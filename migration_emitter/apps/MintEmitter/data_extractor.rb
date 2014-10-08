@@ -10,11 +10,7 @@ class DataExtractor
       model['entries'].each do |entry|
         if %w(CBAN CRED OBAN OBIB ORED OSMH).include? entry['role_code']
           bankruptcy = CommonRoutines.set_up_entry( entry )
-          # bankruptcy['template']    = entry['template_text'].present? ? entry['template_text'] : ''
-          # bankruptcy['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
-          # bankruptcy['fields']      = ''
-          # bankruptcy['deeds']       = CommonRoutines.get_deeds( entry )
-          # bankruptcy['notes']       = CommonRoutines.get_notes( entry )
+          bankruptcy['fields']      = ''   #TODO - populate fields
 
           bankruptcy_array.push(bankruptcy)
         end
@@ -32,11 +28,7 @@ class DataExtractor
       model['entries'].each do |entry|
         if entry['role_code'] == 'RPPD'
           price_paid = CommonRoutines.set_up_entry( entry )
-          # price_paid['template']    = entry['template_text'].present? ? entry['template_text'] : ''
-          # price_paid['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
-          # price_paid['fields']      = ''
-          # price_paid['deeds']       = CommonRoutines.get_deeds( entry )
-          # price_paid['notes']       = CommonRoutines.get_notes( entry )
+          price_paid['fields']      = ''  #TODO - populate fields
         end
       end
     end
@@ -51,11 +43,7 @@ class DataExtractor
       model['entries'].each { |entry|
         if %w(RCAU RPRO).include? entry['role_code']
           proprietorship = CommonRoutines.set_up_entry( entry )
-          # proprietorship['template']    = entry['template_text'].present? ? entry['template_text'] : ''
-          # proprietorship['full_text']   = entry['full_text'].present? ? entry['full_text'] : ''
-          # proprietorship['fields']      = get_proprietor_fields( entry )
-          # proprietorship['deeds']       = CommonRoutines.get_deeds( entry )
-          # proprietorship['notes']       = CommonRoutines.get_notes( entry )
+          proprietorship['fields']      = get_proprietor_fields( entry )
         end #of prop entry
       } #end of entry loop
     end  #of entry
@@ -75,12 +63,12 @@ class DataExtractor
             json_proprietor = {}
             json_proprietor_name = {}
 
-            json_proprietor_name['title']                       = proprietor['title'].present? ? proprietor['title'] : ''
-            json_proprietor_name['decoration']                  = proprietor['decoration'].present? ? proprietor['decoration'] : ''
+            json_proprietor_name['title']                       = proprietor['name']['title'].present? ? proprietor['title'] : ''
+            json_proprietor_name['decoration']                  = proprietor['name']['decoration'].present? ? proprietor['decoration'] : ''
             json_proprietor_name['first_name']                  = proprietor['name']['forename'].present? ? proprietor['name']['forename'] : ''
             json_proprietor_name['last_name']                   = proprietor['name']['surname'].present? ? proprietor['name']['surname'] : ''
             json_proprietor_name['non_private_individual_name'] = proprietor['name']['non_private_individual_name'].present? ? proprietor['name']['non_private_individual_name'] : ''
-
+            pp json_proprietor_name
             if json_proprietor_name['non_private_individual_name'] == ''
               if json_proprietor_name['first_name'] .present? #check if only a surname is present
                 json_proprietor_name['full_name'] = json_proprietor_name['first_name'] + ' ' + json_proprietor_name['last_name']
@@ -102,8 +90,8 @@ class DataExtractor
             json_proprietor_name['name_category']               = proprietor['name']['name_category'].present? ? proprietor['name']['name_category'] : ''
             json_proprietor_name['charity_name']                = proprietor['name']['charity_name'].present? ? proprietor['name']['charity_name'] : ''
             json_proprietor_name['local_authority_area']        = proprietor['name']['local_authority_area'].present? ? proprietor['name']['local_authority_area'] : ''
-            json_proprietor_name['first_name']                  = proprietor['name']['title'].present? ? proprietor['name']['title'] : ''
-            json_proprietor_name['first_name']                  = proprietor['name']['company_location'].present? ? proprietor['name']['company_location'] : ''
+            json_proprietor_name['title']                       = proprietor['name']['title'].present? ? proprietor['name']['title'] : ''
+            json_proprietor_name['company_location']            = proprietor['name']['company_location'].present? ? proprietor['name']['company_location'] : ''
             json_proprietor_name['alias_names']                 = CommonRoutines.get_alias_names(proprietor['name'])
 
             json_proprietor['addresses']                        = get_addresses(proprietor)
@@ -152,8 +140,8 @@ class DataExtractor
         json_address['house_description']         = address['house_description'].present? ? address['house_description'] : ''
 
         address_array.push(json_address) if json_address.present?
-      end
-    end
+      end   #of each address
+    end   #of address present
 
     address_array
   end  # of get address

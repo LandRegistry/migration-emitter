@@ -54,11 +54,11 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 			raise 'No title number in JSON'
 		end
 
-    json = JSONBuilder.convert_hash(body)
-
-    if json['error'].present?
-      raise 'Error building JSON'
-    end
+    # begin
+      json = JSONBuilder.convert_hash(body)
+     # rescue => e
+     #   raise e.message
+     # end
 
 		return json
 	end
@@ -93,19 +93,22 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 
 end
 
-# #------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
-# mec = MintEmitterConsumer.new
-# model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/CYM104.yml'))
-# pp JSON.parse( mec.process_message(model) )
-
+##------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
+mec = MintEmitterConsumer.new
+model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/BK500000.yml'))
+#model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/h.yml'))
+#pp model
+pp JSON.parse( mec.process_message(model) )
 
 
 # #xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
-# require_relative '../../../../MigrateRegister/apps/Migrator/register_transformer.rb'
-# rt = RegisterTransformer.new
-# title = 'BK505807'
-# m = rt.transform_register(title)
+# require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
+# mrc = MigrateRegisterConsumer.new
+# title_array = ['BK500000']
 # mec = MintEmitterConsumer.new
-# File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
-# model = YAML.load_file(title + '.yml')
-# pp  JSON.parse( mec.process_message(model) )
+# title_array.each do |title|
+#   m = mrc.migrate_register('{"title_number":"' + title + '"}')
+#   File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
+#   model = YAML.load_file(title + '.yml')
+#     JSON.parse( mec.process_message(model) )
+# end
