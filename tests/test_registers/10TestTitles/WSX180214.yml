@@ -1,0 +1,370 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 521547.2
+          - 105687.2
+        - - 521569.3
+          - 105672.7
+        - - 521581.65
+          - 105666.85
+        - - 521584.15
+          - 105665.75
+        - - 521586.45
+          - 105664.8
+        - - 521587.85
+          - 105664.2
+        - - 521589.05
+          - 105663.65
+        - - 521585.13
+          - 105653.43
+        - - 521577.04
+          - 105656.99
+        - - 521565.35
+          - 105662.15
+        - - 521548.48
+          - 105678.68
+        - - 521547.5
+          - 105679.65
+        - - 521547.3
+          - 105679.85
+        - - 521547.05
+          - 105680.0
+        - - 521546.75
+          - 105680.15
+        - - 521546.0
+          - 105680.45
+        - - 521545.7
+          - 105680.55
+        - - 521544.38
+          - 105681.02
+        - - 521547.2
+          - 105687.2
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2007-09-25T00:00:00.000+01:00'
+last_app_timestamp: '2007-09-25T15:47:58.000+01:00'
+class: Absolute
+tenure: Freehold
+title_number: WSX180214
+entries:
+- entry_id: '2005-01-06 14:05:19.930945'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  entry_date: '1993-07-15'
+  full_text: "<CENTRE>WEST SUSSEX : ADUR</CENTRE>\r\rThe Freehold land shown edged\
+    \ with red on the plan of the above Title filed at the Registry and being 1 The\
+    \ Close, Shoreham By Sea (BN43 5AH)."
+- entry_id: '2005-01-06 14:05:21.340495'
+  sub_register: A
+  deeds:
+  - date: '1947-01-17'
+    parties:
+    - names:
+      - non_private_individual_name: E H Curd & Co Ltd.
+    - names:
+      - surname: Stewart
+        forename: Peter
+    description: Conveyance
+  status: Current
+  role_code: DPRO
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - type: EXTENT
+  - text: "PROVIDED ALWAYS  and it was thereby agreed and declared that the Purchaser\
+      \ and his successors in title should not be entitled to any easement or access\
+      \ of light or air to the said property thereby conveyed or any buildings erected\
+      \ or to be erected thereon which would or might in any way prejudicially affect\
+      \ the free and unrestricted use by the Company or their successors in title\
+      \ of any adjoining or neighbouring property of the Company for building or any\
+      \ other purposes.\r\rPROVIDED FURTHER  and it was thereby agreed and declared\
+      \ that the imposition by the Company of the said covenants and stipulations\
+      \ therein contained should not be deemed to create a building scheme and that\
+      \ the Company should be at liberty to release or vary the said covenants and\
+      \ stipulations therein contained or thereafter to be imposed on parts of the\
+      \ said Shoreham Court Estate"
+    type: VERBATIM
+  entry_date: '1993-07-15'
+  full_text: "The Conveyance dated 17 January 1947 referred to in the Charges Register\
+    \ contains the following provision:-\r\rPROVIDED ALWAYS  and it was thereby agreed\
+    \ and declared that the Purchaser and his successors in title should not be entitled\
+    \ to any easement or access of light or air to the said property thereby conveyed\
+    \ or any buildings erected or to be erected thereon which would or might in any\
+    \ way prejudicially affect the free and unrestricted use by the Company or their\
+    \ successors in title of any adjoining or neighbouring property of the Company\
+    \ for building or any other purposes.\r\rPROVIDED FURTHER  and it was thereby\
+    \ agreed and declared that the imposition by the Company of the said covenants\
+    \ and stipulations therein contained should not be deemed to create a building\
+    \ scheme and that the Company should be at liberty to release or vary the said\
+    \ covenants and stipulations therein contained or thereafter to be imposed on\
+    \ parts of the said Shoreham Court Estate."
+  template_text: The *DT**DE* dated *DD* referred to in the Charges Register contains the following provision:-*VT*
+  draft_entry_code: AE016
+- entry_id: '2005-01-06 14:05:21.364975'
+  sub_register: A
+  deeds:
+  - date: '1948-04-05'
+    parties:
+    - names:
+      - surname: Stewart
+        forename: Peter
+    - names:
+      - surname: Evans
+        forename: Edgar Coombes
+    description: Conveyance
+  status: Current
+  role_code: DPRO
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  - text: '"PROVIDED ALWAYS and it is hereby agreed and declared that the Purchaser
+      and his successors in title shall not be entitled by virtue of this Conveyance
+      to any easement or access of light or air to the said property hereby conveyed
+      or to any buildings erected or to be erected thereon which will or may in any
+      way prejudicially affect the free and unrestricted use by the Vendor and his
+      successors in title of adjoining or neighbouring property of the Vendor for
+      building or any other purpose."'
+    type: VERBATIM
+  entry_date: '1993-07-15'
+  full_text: "A Conveyance of the land in this title dated 5 April 1948 made between\
+    \ (1) Peter Stewart (Vendor) and (2) Edgar Coombes Evans (Purchaser) contains\
+    \ the following provision:-\r\r\"PROVIDED ALWAYS and it is hereby agreed and declared\
+    \ that the Purchaser and his successors in title shall not be entitled by virtue\
+    \ of this Conveyance to any easement or access of light or air to the said property\
+    \ hereby conveyed or to any buildings erected or to be erected thereon which will\
+    \ or may in any way prejudicially affect the free and unrestricted use by the\
+    \ Vendor and his successors in title of adjoining or neighbouring property of\
+    \ the Vendor for building or any other purpose.\""
+  template_text: A *DT**DE* dated *DD* made between *DP* contains the following provision:-*VT*
+  draft_entry_code: AE015
+- entry_id: '2007-09-25 14:49:53.782860'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postcode: BN43 5AH
+        postal_county: West Sussex
+        town: Shoreham-By-Sea
+        address_string: 1 The Close, Shoreham-By-Sea, West Sussex BN43 5AH
+        secondary_house_no: '0'
+        house_no: '1'
+        address_type: U
+        street_name: The Close
+      name:
+        surname: Hubbard
+        forename: Shaun Patrick
+        name_category: A
+    - addresses:
+      - postcode: BN43 5AH
+        postal_county: West Sussex
+        town: Shoreham-By-Sea
+        address_string: 1 The Close, Shoreham-By-Sea, West Sussex BN43 5AH
+        secondary_house_no: '0'
+        house_no: '1'
+        address_type: U
+        street_name: The Close
+      name:
+        surname: Wheatland
+        forename: Gary Robert
+        name_category: A
+    type: Proprietor
+  entry_date: '2007-09-25'
+  full_text: 'PROPRIETOR: %SHAUN PATRICK HUBBARD% and %GARY ROBERT WHEATLAND% of 1
+    The Close, Shoreham-By-Sea, *West Sussex* BN43 5AH.'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2007-09-25 14:49:56.050490'
+  sub_register: B
+  status: Current
+  role_code: RPPD
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 06/09/2007
+    date: '2007-09-06'
+    type: DATE
+  - text: £389,000
+    type: PRICE
+  entry_date: '2007-09-25'
+  full_text: The price stated to have been paid on 6 September 2007 was £389,000.
+  template_text: The price stated to have been paid on *DA* was *AM*.
+  draft_entry_code: BK688
+- entry_id: '2007-09-25 14:49:56.638820'
+  sub_register: B
+  status: Current
+  role_code: OPEC
+  draft_entry_version: 1
+  language: ENG
+  entry_date: '2007-09-25'
+  full_text: The Transfer to the proprietor contains a covenant to observe and perform the covenants referred to in the Charges Register and of indemnity in respect thereof.
+  template_text: The Transfer to the proprietor contains a covenant to observe and perform the covenants referred to in the Charges Register and of indemnity in respect thereof.
+  draft_entry_code: BP253
+- entry_id: '2005-01-06 14:05:21.230695'
+  sub_register: C
+  deeds:
+  - date: '1947-01-17'
+    parties:
+    - names:
+      - non_private_individual_name: E H Curd & Co Ltd.
+    - names:
+      - surname: Stewart
+        forename: Peter
+    description: Conveyance
+  status: Current
+  role_code: DCOV
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  - text: "THE  Purchaser for the benefit of the Company or it's successors in title\
+      \ the owners or occupiers for the time being of the Shoreham Court Estate or\
+      \ the part thereof remaining unsold and the owners or occupiers for the time\
+      \ being of any portion of the said estate thereafter conveyed with the benefit\
+      \ of this covenant and to the intent and so as to bind (so far as practicable)\
+      \ the said property thereby conveyed into whosesoever hands the same might come\
+      \ but not so as to render the Purchaser personally liable in damages for any\
+      \ breach of covenant committed after he should have parted with all interest\
+      \ in that part of the premises in respect of which such breach should occur\
+      \ thereby covenants with the Company that he the Purchaser and his successors\
+      \ in title owners or owner occupiers or occupier of the said property thereby\
+      \ conveyed or any part thereof would at all times therefter observe and perform\
+      \ the covenants and stipulations in relation to the said property thereby conveyed\
+      \ which were set forth in the Schedule thereto.\r\r<CENTRE>THE SCHEDULE  above\
+      \ referred to</CENTRE>\r\r1.  Not at any time thereafter to use or suffer to\
+      \ be used the property thereby conveyed or any part thereof for any trade business\
+      \ or manufacture but to use and occupy the same as and for private residential\
+      \ purposes only.\r\r2.  Not at any time thereafter to use or suffer to be used\
+      \ the property hereby conveyed or any part thereof to the nuisance annoyance\
+      \ injury or damage of any of the adjoining or neighbouring land or buildings\
+      \ now or formerly belonging to the Company or the owners or occupiers thereof.\r\
+      \r3.  Not at any time to erect any further buildings on the land thereby conveyed\
+      \ or any part thereof without first submitting to the Company the plans and\
+      \ specifications thereof and obtaining the consent of the Company thereto and\
+      \ paying the Company their Surveyor's fee of Two pounds and two shillings.\r\
+      \r4.  Not to erect any such building as aforesaid without giving to the Company\
+      \ an option to carry out the work at a price to be agreed between the Purchaser's\
+      \ Architect or Surveyor and the Company and in the event of any dispute arising\
+      \ between such architect or surveyor and the Company as to the price referred\
+      \ to the matter should be referred to arbitration under the Arbitration Acts\
+      \ 1889 and 1934 and the parties should be bound by the award of the Arbitrator\
+      \ under such reference.\r\r5.  Not in any event to erect more than one private\
+      \ dwellinghouse or one half of a semi-detached dwellinghouse on any one of the\
+      \ Plots numbered 19, 17, 16, 15, 14 or 25 on the said plan.\r\r<NOTE></NOTE>"
+    type: VERBATIM
+  entry_date: '1993-07-15'
+  full_text: "A Conveyance of the land in this title and other land dated 17 January\
+    \ 1947 made between (1) E H Curd & Co Ltd. (Company) and (2) Peter Stewart (Purchaser)\
+    \ contains the following covenants:-\r\rTHE  Purchaser for the benefit of the\
+    \ Company or it's successors in title the owners or occupiers for the time being\
+    \ of the Shoreham Court Estate or the part thereof remaining unsold and the owners\
+    \ or occupiers for the time being of any portion of the said estate thereafter\
+    \ conveyed with the benefit of this covenant and to the intent and so as to bind\
+    \ (so far as practicable) the said property thereby conveyed into whosesoever\
+    \ hands the same might come but not so as to render the Purchaser personally liable\
+    \ in damages for any breach of covenant committed after he should have parted\
+    \ with all interest in that part of the premises in respect of which such breach\
+    \ should occur thereby covenants with the Company that he the Purchaser and his\
+    \ successors in title owners or owner occupiers or occupier of the said property\
+    \ thereby conveyed or any part thereof would at all times therefter observe and\
+    \ perform the covenants and stipulations in relation to the said property thereby\
+    \ conveyed which were set forth in the Schedule thereto.\r\r<CENTRE>THE SCHEDULE\
+    \  above referred to</CENTRE>\r\r1.  Not at any time thereafter to use or suffer\
+    \ to be used the property thereby conveyed or any part thereof for any trade business\
+    \ or manufacture but to use and occupy the same as and for private residential\
+    \ purposes only.\r\r2.  Not at any time thereafter to use or suffer to be used\
+    \ the property hereby conveyed or any part thereof to the nuisance annoyance injury\
+    \ or damage of any of the adjoining or neighbouring land or buildings now or formerly\
+    \ belonging to the Company or the owners or occupiers thereof.\r\r3.  Not at any\
+    \ time to erect any further buildings on the land thereby conveyed or any part\
+    \ thereof without first submitting to the Company the plans and specifications\
+    \ thereof and obtaining the consent of the Company thereto and paying the Company\
+    \ their Surveyor's fee of Two pounds and two shillings.\r\r4.  Not to erect any\
+    \ such building as aforesaid without giving to the Company an option to carry\
+    \ out the work at a price to be agreed between the Purchaser's Architect or Surveyor\
+    \ and the Company and in the event of any dispute arising between such architect\
+    \ or surveyor and the Company as to the price referred to the matter should be\
+    \ referred to arbitration under the Arbitration Acts 1889 and 1934 and the parties\
+    \ should be bound by the award of the Arbitrator under such reference.\r\r5. \
+    \ Not in any event to erect more than one private dwellinghouse or one half of\
+    \ a semi-detached dwellinghouse on any one of the Plots numbered 19, 17, 16, 15,\
+    \ 14 or 25 on the said plan.\r\rNOTE: The land in this title comprises the whole\
+    \ of plot 14 and part of plot 15."
+  notes:
+  - text: The land in this title comprises the whole of plot 14 and part of plot 15
+    font: ' '
+  template_text: A *DT**DE* dated *DD* made between *DP* contains the following covenants:-*VT*
+  draft_entry_code: CR723
+- entry_id: '2007-09-25 14:50:22.688590'
+  sub_register: C
+  status: Current
+  role_code: CCHA
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 06/09/2007
+    date: '2007-09-06'
+    type: DATE
+  entry_date: '2007-09-25'
+  full_text: REGISTERED CHARGE dated 6 September 2007.
+  template_text: REGISTERED CHARGE dated *CD*.
+  draft_entry_code: CD100
+- entry_id: '2007-09-25 14:50:23.305990'
+  sub_register: C
+  status: Current
+  role_code: CCHR
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Nationwide House, Pipers Way, Swindon L SN38 1NW
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Nationwide Building Society
+    type: Charge Proprietor
+  entry_date: '2007-09-25'
+  full_text: 'Proprietor: >NATIONWIDE BUILDING SOCIETY> of Nationwide House, Pipers
+    Way, Swindon L SN38 1NW.'
+  template_text: 'Proprietor: >NATIONWIDE BUILDING SOCIETY> of Nationwide House, Pipers
+    Way, Swindon L SN38 1NW.'
+  draft_entry_code: CY844
+- entry_id: '2007-09-25 14:50:23.697910'
+  sub_register: C
+  status: Current
+  role_code: COFA
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 06/09/2007
+    date: '2007-09-06'
+    type: DATE
+  - {}
+  entry_date: '2007-09-25'
+  full_text: The proprietor of the Charge dated 6 September 2007 referred to above is under an obligation to make further advances. These advances will have priority to the extent afforded by section 49(3) Land Registration Act 2002.
+  template_text: The proprietor of the Charge dated *CD* *O<>O* referred to above is under an obligation to make further advances. These advances will have priority to the extent afforded by section 49(3) Land Registration Act 2002.
+  draft_entry_code: CK300
+uprns:
+- 16241892
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2005-01-06 14:05:19.930945'
+  message: Address not deconstructed in Intelligent Register for title
+dlr: Durham Office
+districts:
+- 'WEST SUSSEX : ADUR'

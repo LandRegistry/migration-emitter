@@ -1,0 +1,352 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 383552.2
+          - 218500.0
+        - - 383557.9
+          - 218508.75
+        - - 383566.15
+          - 218514.15
+        - - 383588.1
+          - 218530.85
+        - - 383594.09
+          - 218530.49
+        - - 383607.48
+          - 218523.07
+        - - 383611.25
+          - 218520.2
+        - - 383621.1
+          - 218511.95
+        - - 383631.7
+          - 218502.05
+        - - 383633.85
+          - 218500.0
+        - - 383638.65
+          - 218495.35
+        - - 383642.23
+          - 218491.38
+        - - 383651.3
+          - 218479.4
+        - - 383659.5
+          - 218466.9
+        - - 383667.3
+          - 218453.95
+        - - 383669.9
+          - 218449.4
+        - - 383674.6
+          - 218440.6
+        - - 383681.25
+          - 218427.3
+        - - 383683.4
+          - 218422.7
+        - - 383687.3
+          - 218413.55
+        - - 383692.9
+          - 218399.5
+        - - 383697.75
+          - 218385.45
+        - - 383699.53
+          - 218380.32
+        - - 383701.14
+          - 218374.89
+        - - 383702.1
+          - 218371.25
+        - - 383703.25
+          - 218366.75
+        - - 383690.45
+          - 218370.15
+        - - 383689.12
+          - 218370.65
+        - - 383687.6
+          - 218371.37
+        - - 383686.3
+          - 218372.59
+        - - 383685.0
+          - 218373.97
+        - - 383682.55
+          - 218375.34
+        - - 383678.42
+          - 218377.08
+        - - 383678.0
+          - 218377.0
+        - - 383675.35
+          - 218377.2
+        - - 383663.75
+          - 218379.4
+        - - 383659.5
+          - 218380.3
+        - - 383652.35
+          - 218383.2
+        - - 383648.4
+          - 218384.85
+        - - 383638.05
+          - 218389.65
+        - - 383637.83
+          - 218389.77
+        - - 383638.85
+          - 218392.1
+        - - 383587.95
+          - 218439.15
+        - - 383587.05
+          - 218439.95
+        - - 383584.15
+          - 218442.65
+        - - 383577.3
+          - 218449.4
+        - - 383568.66
+          - 218458.46
+        - - 383567.65
+          - 218457.5
+        - - 383558.05
+          - 218467.45
+        - - 383557.75
+          - 218467.78
+        - - 383558.96
+          - 218468.91
+        - - 383558.85
+          - 218469.1
+        - - 383558.15
+          - 218469.95
+        - - 383554.9
+          - 218473.95
+        - - 383553.45
+          - 218476.0
+        - - 383551.3
+          - 218479.5
+        - - 383550.1
+          - 218481.9
+        - - 383549.25
+          - 218484.0
+        - - 383548.7
+          - 218486.45
+        - - 383548.4
+          - 218488.25
+        - - 383548.3
+          - 218490.0
+        - - 383548.4
+          - 218491.85
+        - - 383548.9
+          - 218495.63
+        - - 383552.2
+          - 218500.0
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2012-02-01T00:00:00.000+00:00'
+last_app_timestamp: '2012-02-01T09:31:24.000+00:00'
+class: Good
+tenure: Leasehold
+title_number: GR25669
+entries:
+- entry_id: '2012-02-01 09:36:55.767660'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  full_text: "<CENTRE>GLOUCESTERSHIRE : GLOUCESTER</CENTRE>\r\rThe Leasehold land\
+    \ shown edged with red on the plan of the above Title filed at the Registry. Details\
+    \ of the land and of the leases under which the land is held are contained in\
+    \ the Property Register Schedule hereto.\r\rNOTE 1: As to the part numbered 1\
+    \ on the filed plan, only the first, second, third and fourth floors are included\
+    \ in the registration.\r\rNOTE 2: The mines and minerals and rights of support\
+    \ therefrom excepted by the leases are excluded from this registration."
+  notes:
+  - text: As to the part numbered 1 on the filed plan, only the first, second, third and fourth floors are included in the registration.
+    font: ' '
+  - text: The mines and minerals and rights of support therefrom excepted by the leases are excluded from this registration
+    font: ' '
+  template_text: The Leasehold land shown edged with red on the plan of the above Title filed at the Registry. Details of the land and of the leases under which the land is held are contained in the Property Register Schedule hereto.
+- entry_id: '2007-05-19 05:06:55.221775'
+  sub_register: A
+  deeds:
+  - date: '1970-04-02'
+    description: Deed
+  - rent_detail: £55,404 variable as therein mentioned
+    date: '1968-11-05'
+    parties:
+    - names:
+      - non_private_individual_name: Samuel Properties (Developments) Limited
+    - names:
+      - surname: Buildings
+        forename: The Minister of Public
+      - surname: Works
+    lease_term: 99 (less 3 days) from 29 September 1968
+    description: Lease
+  status: Current
+  role_code: DYNJ
+  language: ENG
+  full_text: By an Endorsed Deed dated 2 April 1970 a new plan was substituted for the plan originally annexed to the Lease dated 5 November 1968 and the terms of the lease were varied.
+  template_text: By an Endorsed *DT* dated *DD* a new plan was substituted for the plan originally annexed to the *DT* dated *DD* and the terms of the lease were varied
+- entry_id: '2012-02-01 09:36:56.486330'
+  sub_register: A
+  deeds:
+  - rent_detail: £55,404 variable as therein mentioned
+    date: '1968-11-05'
+    parties:
+    - names:
+      - non_private_individual_name: Samuel Properties (Developments) Limited
+    - names:
+      - surname: Buildings
+        forename: The Minister of Public
+      - surname: Works
+    lease_term: 99 years (less 3 days) from 29 September 1968
+    description: Lease
+  status: Current
+  role_code: RALI
+  language: ENG
+  full_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the leases referred to in the Property Register Schedule hereto.
+  template_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the leases referred to in the Property Register Schedule hereto
+- entry_id: '2012-02-01 09:36:56.677410'
+  sub_register: A
+  deeds:
+  - rent_detail: £55,404 variable as therein mentioned
+    date: '1968-11-05'
+    parties:
+    - names:
+      - non_private_individual_name: Samuel Properties (Developments) Limited
+    - names:
+      - surname: Buildings
+        forename: The Minister of Public
+      - surname: Works
+    lease_term: 99 years (less 3 days) from 29 September 1968
+    description: Lease
+  status: Current
+  role_code: DYNJ
+  language: ENG
+  full_text: The Lease dated 5 November 1968 is varied by the Lease dated 5 February 1982.
+  template_text: The Lease dated 5 November 1968 is varied by the Lease dated 5 February 1982
+- entry_id: '2007-05-19 05:06:55.296785'
+  sub_register: A
+  status: Current
+  role_code: RAEA
+  draft_entry_version: 1
+  language: ENG
+  full_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  template_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  draft_entry_code: AG303
+- entry_id: '2012-02-01 09:36:56.853910'
+  sub_register: M
+  schedule:
+    fields:
+    - text: Twyver House, Bruton Way
+      header: Property description
+    - text: '1968-11-05'
+      header: Date of lease
+    - parties:
+      - names:
+        - non_private_individual_name: Samuel Properties (Developments) Limited
+      - names:
+        - surname: Buildings
+          forename: The Minister of Public
+        - surname: Works
+      header: Parties
+    - text: 99 years (less 3 days) from 29 September 1968
+      header: Term
+    - text: £55,404 variable as therein mentioned
+      header: Rent
+    schedule_type: M
+    parent_register: A
+    header: SCHEDULE OF SHORT PARTICULARS OF THE LAND AND OF THE LEASES UNDER WHICH THE LAND IS HELD
+  deeds:
+  - rent_detail: £55,404 variable as therein mentioned
+    date: '1968-11-05'
+    parties:
+    - names:
+      - non_private_individual_name: Samuel Properties (Developments) Limited
+    - names:
+      - surname: Buildings
+        forename: The Minister of Public
+      - surname: Works
+    lease_term: 99 years (less 3 days) from 29 September 1968
+    description: Lease
+  status: Current
+  role_code: RMRL
+  language: ENG
+  full_text: "Property description: Twyver House, Bruton Way                     \
+    \      \rDate of lease       : 5 November 1968                               \
+    \     \rParties             : (1) Samuel Properties (Developments) Limited   \
+    \    \r                      (2) The Minister of Public Buildings and  Works \
+    \   \rTerm                : 99 years (less 3 days) from 29 September 1968    \
+    \  \rRent                : £55,404 variable as therein mentioned             \
+    \ \rLessor's title      : GR25420                                            \r\
+    Plan reference      : Tinted pink"
+- entry_id: '2007-05-19 05:06:55.237705'
+  sub_register: M
+  schedule:
+    fields:
+    - text: Land adjoining Twyver House, Bruton Way
+      header: Property description
+    - text: '1982-02-05'
+      header: Date of lease
+    - parties:
+      - names:
+        - non_private_individual_name: Samuel Properties (Developments) Limited
+      - names:
+        - surname: Environment
+          forename: The Secretary of State for the
+      header: Parties
+    - text: 5 February 1982 to 26 September 2067
+      header: Term
+    - text: As therein mentioned
+      header: Rent
+    schedule_type: M
+    parent_register: A
+    header: SCHEDULE OF SHORT PARTICULARS OF THE LAND AND OF THE LEASES UNDER WHICH THE LAND IS HELD
+  deeds:
+  - rent_detail: As therein mentioned
+    date: '1982-02-05'
+    parties:
+    - names:
+      - non_private_individual_name: Samuel Properties (Developments) Limited
+    - names:
+      - surname: Environment
+        forename: The Secretary of State for the
+    lease_term: 5 February 1982 to 26 September 2067
+    description: Lease
+  status: Current
+  role_code: RMRL
+  language: ENG
+  full_text: "Property description: Land adjoining Twyver House, Bruton Way      \
+    \      \rDate of lease       : 5 February 1982                               \
+    \     \rParties             : (1) Samuel Properties (Developments) Limited   \
+    \    \r                      (2) The Secretary of State for the Environment  \
+    \   \rTerm                : 5 February 1982 to 26 September 2067             \
+    \  \rRent                : As therein mentioned                              \
+    \ \rLessor's title      : GR25420                                            \r\
+    Plan reference      : Tinted blue"
+- entry_id: '2011-09-05 15:27:38.159520'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postcode: CR0 2AQ
+        sub_building_description: Land Registry Head Office
+        town: Croydon
+        address_string: Land Registry Head Office, Trafalgar House 1 Bedford Park, Croydon CR0 2AQ
+        secondary_house_no: '0'
+        house_no: '1'
+        address_type: U
+        street_name: Bedford Park
+        house_description: Trafalgar House
+      name:
+        name_category: E
+        non_private_individual_name: Secretary Of State For Communities And Local Government
+    type: Proprietor
+  full_text: 'PROPRIETOR: >SECRETARY OF STATE FOR COMMUNITIES AND LOCAL GOVERNMENT>
+    care of Property Asset Management, Land Registry Head Office, Trafalgar House
+    1 Bedford Park, Croydon CR0 2AQ.'
+  template_text: 'PROPRIETOR: *RP*'
+uprns:
+- 501083345
+dlr: Gloucester Office
+districts:
+- 'GLOUCESTERSHIRE : GLOUCESTER'

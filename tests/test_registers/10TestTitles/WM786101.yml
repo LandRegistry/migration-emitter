@@ -1,0 +1,419 @@
+---
+geometry:
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 429019.1
+          - 277730.0
+        - - 429017.02
+          - 277730.29
+        - - 429000.0
+          - 277743.53
+        - - 428998.25
+          - 277744.89
+        - - 429000.0
+          - 277751.95
+        - - 429002.01
+          - 277760.81
+        - - 429002.19
+          - 277760.74
+        - - 429002.63
+          - 277762.55
+        - - 429002.32
+          - 277762.57
+        - - 429016.85
+          - 277824.35
+        - - 429019.45
+          - 277835.2
+        - - 429036.65
+          - 277849.0
+        - - 429048.25
+          - 277858.7
+        - - 429056.85
+          - 277860.15
+        - - 429064.5
+          - 277861.5
+        - - 429064.95
+          - 277861.65
+        - - 429065.6
+          - 277861.75
+        - - 429065.85
+          - 277861.75
+        - - 429070.32
+          - 277862.58
+        - - 429083.46
+          - 277865.02
+        - - 429090.44
+          - 277866.31
+        - - 429097.48
+          - 277867.29
+        - - 429172.75
+          - 277880.7
+        - - 429173.63
+          - 277875.54
+        - - 429173.9
+          - 277873.95
+        - - 429174.7
+          - 277869.3
+        - - 429174.87
+          - 277868.34
+        - - 429178.0
+          - 277850.15
+        - - 429183.9
+          - 277816.75
+        - - 429187.55
+          - 277817.4
+        - - 429193.75
+          - 277818.55
+        - - 429203.79
+          - 277820.36
+        - - 429205.64
+          - 277820.69
+        - - 429275.7
+          - 277833.35
+        - - 429276.45
+          - 277833.5
+        - - 429278.1
+          - 277820.1
+        - - 429279.45
+          - 277809.7
+        - - 429281.14
+          - 277796.63
+        - - 429286.25
+          - 277756.95
+        - - 429214.35
+          - 277749.95
+        - - 429212.45
+          - 277749.75
+        - - 429209.0
+          - 277749.35
+        - - 429200.0
+          - 277748.39
+        - - 429198.7
+          - 277748.25
+        - - 429193.0
+          - 277747.7
+        - - 429184.5
+          - 277746.9
+        - - 429177.05
+          - 277746.25
+        - - 429167.95
+          - 277745.15
+        - - 429154.7
+          - 277743.7
+        - - 429139.05
+          - 277742.15
+        - - 429125.6
+          - 277740.8
+        - - 429119.7
+          - 277740.35
+        - - 429110.5
+          - 277739.45
+        - - 429105.4
+          - 277738.9
+        - - 429100.65
+          - 277738.45
+        - - 429095.0
+          - 277737.85
+        - - 429091.3
+          - 277737.5
+        - - 429089.21
+          - 277737.14
+        - - 429083.98
+          - 277736.58
+        - - 429075.78
+          - 277735.69
+        - - 429066.75
+          - 277734.7
+        - - 429056.09
+          - 277733.51
+        - - 429045.71
+          - 277732.4
+        - - 429028.25
+          - 277730.57
+        - - 429024.53
+          - 277730.11
+        - - 429023.15
+          - 277730.06
+        - - 429019.1
+          - 277730.0
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 429016.85
+          - 277824.35
+        - - 429019.45
+          - 277835.2
+        - - 429036.65
+          - 277849.0
+        - - 429048.25
+          - 277858.7
+        - - 429056.85
+          - 277860.15
+        - - 429064.5
+          - 277861.5
+        - - 429064.95
+          - 277861.65
+        - - 429065.6
+          - 277861.75
+        - - 429065.85
+          - 277861.75
+        - - 429066.24
+          - 277861.82
+        - - 429089.63
+          - 277866.16
+        - - 429090.44
+          - 277866.31
+        - - 429097.48
+          - 277867.29
+        - - 429172.75
+          - 277880.7
+        - - 429173.63
+          - 277875.54
+        - - 429173.9
+          - 277873.95
+        - - 429174.7
+          - 277869.3
+        - - 429174.87
+          - 277868.34
+        - - 429178.0
+          - 277850.15
+        - - 429183.9
+          - 277816.75
+        - - 429187.55
+          - 277817.4
+        - - 429193.75
+          - 277818.55
+        - - 429203.79
+          - 277820.36
+        - - 429205.64
+          - 277820.69
+        - - 429275.7
+          - 277833.35
+        - - 429276.45
+          - 277833.5
+        - - 429278.1
+          - 277820.1
+        - - 429279.45
+          - 277809.7
+        - - 429286.25
+          - 277756.95
+        - - 429214.35
+          - 277749.95
+        - - 429212.45
+          - 277749.75
+        - - 429209.0
+          - 277749.35
+        - - 429200.0
+          - 277748.39
+        - - 429198.7
+          - 277748.25
+        - - 429193.0
+          - 277747.7
+        - - 429184.5
+          - 277746.9
+        - - 429177.05
+          - 277746.25
+        - - 429167.95
+          - 277745.15
+        - - 429154.7
+          - 277743.7
+        - - 429139.05
+          - 277742.15
+        - - 429125.6
+          - 277740.8
+        - - 429119.7
+          - 277740.35
+        - - 429110.5
+          - 277739.45
+        - - 429105.4
+          - 277738.9
+        - - 429100.65
+          - 277738.45
+        - - 429095.0
+          - 277737.85
+        - - 429091.3
+          - 277737.5
+        - - 429089.21
+          - 277737.14
+        - - 429083.98
+          - 277736.58
+        - - 429075.78
+          - 277735.69
+        - - 429066.75
+          - 277734.7
+        - - 429056.09
+          - 277733.51
+        - - 429045.71
+          - 277732.4
+        - - 429028.25
+          - 277730.57
+        - - 429024.53
+          - 277730.11
+        - - 429023.15
+          - 277730.06
+        - - 429019.1
+          - 277730.0
+        - - 429017.02
+          - 277730.29
+        - - 429000.0
+          - 277743.53
+        - - 428998.25
+          - 277744.89
+        - - 429000.0
+          - 277751.95
+        - - 429002.01
+          - 277760.81
+        - - 429002.19
+          - 277760.74
+        - - 429002.63
+          - 277762.55
+        - - 429002.32
+          - 277762.57
+        - - 429016.85
+          - 277824.35
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2011-09-05T00:00:00.000+01:00'
+last_app_timestamp: '2011-09-05T14:40:08.000+01:00'
+class: Good
+tenure: Leasehold
+title_number: WM786101
+entries:
+- entry_id: '2013-02-27 17:12:04.323525'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  entry_date: '2002-12-02'
+  full_text: "<CENTRE>WEST MIDLANDS : COVENTRY</CENTRE>\r\rThe Leasehold land shown\
+    \ edged with red on the plan of the above Title filed at the Registry and being\
+    \ Leigh Court, Torrington Avenue, Coventry, (CV4 9XZ)."
+- entry_id: '2013-02-27 17:12:04.618795'
+  sub_register: A
+  status: Current
+  role_code: RMMS
+  language: ENG
+  entry_date: '2002-12-02'
+  full_text: The mines and minerals below 500 feet excepted by the Lease are excluded from this registration.
+  template_text: The mines and minerals below 500 feet excepted by the Lease are excluded from this registration
+- entry_id: '2013-02-27 17:12:04.674125'
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'Short particulars of the lease(s) (or under-lease(s)) under which the
+        land is held:'
+      header: ''
+    - text: '1952-08-19'
+      header: Date
+    - text: 99 years from 25 December 1945
+      header: Term
+    - text: As therein mentioned
+      header: Rent
+    - parties:
+      - names:
+        - non_private_individual_name: The Mayor Aldermen and Citizens of the City of Coventry
+      - names:
+        - surname: Works
+          forename: The Minister of
+      header: Parties
+    schedule_type: H
+    parent_register: A
+    header: ''
+  deeds:
+  - rent_detail: As therein mentioned
+    date: '1952-08-19'
+    parties:
+    - names:
+      - non_private_individual_name: The Mayor Aldermen and Citizens of the City of Coventry
+    - names:
+      - surname: Works
+        forename: The Minister of
+    lease_term: 99 years from 25 December 1945
+    description: Lease
+  status: Current
+  role_code: RSLP
+  language: ENG
+  entry_date: '2002-12-02'
+  full_text: "Short particulars of the lease(s) (or under-lease(s)) under which the\
+    \ land is held:\rDate        : 19 August 1952                                \
+    \             \rTerm        : 99 years from 25 December 1945                 \
+    \            \rRent        : As therein mentioned                            \
+    \           \rParties     : (1) The Mayor Aldermen and Citizens of the City of\
+    \ Coventry\r              (2) The Minister of Works                          \
+    \        \rNOTE 1: The lease comprises also other land\r\r\rNOTE 2: The lessee\
+    \ is under an obligation to offer a surrender as mentioned in the lease"
+  notes:
+  - text: "The lease comprises also other land\r"
+    font: ' '
+  - text: The lessee is under an obligation to offer a surrender as mentioned in the lease
+    font: ' '
+- entry_id: '2013-02-27 17:12:04.840205'
+  sub_register: A
+  deeds:
+  - rent_detail: As therein mentioned
+    date: '1952-08-19'
+    parties:
+    - names:
+      - non_private_individual_name: The Mayor Aldermen and Citizens of the City of Coventry
+    - names:
+      - surname: Works
+        forename: The Minister of
+    lease_term: 99 years from 25 December 1945
+    description: Lease
+  status: Current
+  role_code: RALI
+  draft_entry_version: 1
+  language: ENG
+  entry_date: '2002-12-02'
+  full_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the Lease.
+  template_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the Lease.
+  draft_entry_code: AG100
+- entry_id: '2013-02-27 17:12:04.865695'
+  sub_register: A
+  status: Current
+  role_code: RAEA
+  draft_entry_version: 1
+  language: ENG
+  full_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  template_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  draft_entry_code: AG303
+- entry_id: '2013-02-27 17:12:04.463095'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Property Asset Management, Land Registry Head Office, Trafalgar House 1 Bedford Park, Croydon CR0 2AQ
+        secondary_house_no: '0'
+        house_no: '0'
+      name:
+        name_category: E
+        non_private_individual_name: SECRETARY OF STATE FOR COMMUNITIES AND LOCAL GOVERNMENT
+    type: Proprietor
+  entry_date: '2002-12-02'
+  full_text: 'PROPRIETOR: >SECRETARY OF STATE FOR COMMUNITIES AND LOCAL GOVERNMENT>
+    care of Property Asset Management, Land Registry Head Office, Trafalgar House
+    1 Bedford Park, Croydon CR0 2AQ.'
+  template_text: 'PROPRIETOR: *RP*'
+migration_errors:
+- extractor: Register Metadata
+  message: No District info found
+- extractor: Property Extractor
+  entry_id: '2013-02-27 17:12:04.323525'
+  message: Address not deconstructed in Intelligent Register for title
+dlr: Coventry Office

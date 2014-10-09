@@ -1,0 +1,10 @@
+---
+title_number: DN387991
+entries: []
+migration_errors:
+- extractor: Register Check
+  message: Title does not exist on database
+- extractor: Register Metadata
+  message: No T_REG_CLASS_HIST row found
+- extractor: Geometry Extractor
+  message: No extent or index

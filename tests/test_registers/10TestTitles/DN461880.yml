@@ -1,0 +1,1012 @@
+---
+geometry:
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 249170.0
+          - 59042.85
+        - - 249125.1
+          - 59051.3
+        - - 249072.3
+          - 59061.0
+        - - 249016.2
+          - 59071.45
+        - - 249000.0
+          - 59074.35
+        - - 248929.9
+          - 59087.8
+        - - 248928.8
+          - 59095.7
+        - - 248968.51
+          - 59166.78
+        - - 248982.45
+          - 59206.08
+        - - 248997.64
+          - 59213.65
+        - - 248998.2
+          - 59213.9
+        - - 248998.75
+          - 59214.18
+        - - 248999.28
+          - 59214.48
+        - - 249012.35
+          - 59220.93
+        - - 249020.45
+          - 59221.03
+        - - 249027.0
+          - 59219.49
+        - - 249040.85
+          - 59215.64
+        - - 249048.93
+          - 59211.8
+        - - 249060.08
+          - 59206.41
+        - - 249070.09
+          - 59200.64
+        - - 249077.78
+          - 59196.02
+        - - 249089.38
+          - 59186.18
+        - - 249103.18
+          - 59178.32
+        - - 249123.95
+          - 59168.32
+        - - 249152.2
+          - 59160.31
+        - - 249182.44
+          - 59154.08
+        - - 249201.55
+          - 59149.91
+        - - 249201.61
+          - 59148.81
+        - - 249200.5
+          - 59137.3
+        - - 249198.15
+          - 59113.65
+        - - 249198.05
+          - 59112.65
+        - - 249189.69
+          - 59056.65
+        - - 249188.29
+          - 59047.21
+        - - 249175.45
+          - 59048.45
+        - - 249174.75
+          - 59048.55
+        - - 249174.31
+          - 59048.02
+        - - 249170.0
+          - 59042.85
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 248929.9
+          - 59087.8
+        - - 248928.58
+          - 59094.19
+        - - 248928.38
+          - 59095.42
+        - - 248930.54
+          - 59098.97
+        - - 248933.57
+          - 59103.35
+        - - 248947.27
+          - 59128.24
+        - - 248947.28
+          - 59128.23
+        - - 248968.51
+          - 59166.78
+        - - 248982.45
+          - 59206.08
+        - - 248997.72
+          - 59213.53
+        - - 248999.96
+          - 59214.87
+        - - 249000.0
+          - 59214.89
+        - - 249012.38
+          - 59220.88
+        - - 249020.45
+          - 59221.03
+        - - 249027.0
+          - 59219.49
+        - - 249028.8
+          - 59218.45
+        - - 249030.15
+          - 59218.34
+        - - 249031.5
+          - 59218.18
+        - - 249032.83
+          - 59217.96
+        - - 249034.16
+          - 59217.69
+        - - 249035.48
+          - 59217.37
+        - - 249036.78
+          - 59217.0
+        - - 249039.16
+          - 59216.17
+        - - 249040.45
+          - 59215.64
+        - - 249048.88
+          - 59211.71
+        - - 249060.08
+          - 59206.41
+        - - 249070.09
+          - 59200.64
+        - - 249077.78
+          - 59196.02
+        - - 249089.38
+          - 59186.18
+        - - 249103.18
+          - 59178.32
+        - - 249109.53
+          - 59175.26
+        - - 249120.26
+          - 59170.13
+        - - 249139.6
+          - 59163.56
+        - - 249173.51
+          - 59155.84
+        - - 249174.63
+          - 59155.4
+        - - 249175.23
+          - 59155.2
+        - - 249187.18
+          - 59151.16
+        - - 249198.75
+          - 59148.98
+        - - 249199.77
+          - 59144.98
+        - - 249199.91
+          - 59143.27
+        - - 249199.98
+          - 59142.37
+        - - 249199.87
+          - 59136.14
+        - - 249199.37
+          - 59131.3
+        - - 249197.93
+          - 59119.21
+        - - 249195.9
+          - 59102.07
+        - - 249195.19
+          - 59096.11
+        - - 249194.23
+          - 59087.91
+        - - 249194.13
+          - 59087.08
+        - - 249192.74
+          - 59075.28
+        - - 249191.6
+          - 59065.58
+        - - 249190.54
+          - 59056.58
+        - - 249189.46
+          - 59047.42
+        - - 249189.42
+          - 59047.1
+        - - 249188.28
+          - 59047.21
+        - - 249175.9
+          - 59048.41
+        - - 249175.45
+          - 59048.45
+        - - 249174.75
+          - 59048.55
+        - - 249174.31
+          - 59048.02
+        - - 249170.0
+          - 59042.85
+        - - 249125.1
+          - 59051.3
+        - - 249072.3
+          - 59061.0
+        - - 249016.2
+          - 59071.45
+        - - 249000.0
+          - 59074.35
+        - - 248985.89
+          - 59077.06
+        - - 248929.9
+          - 59087.8
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2011-09-05T00:00:00.000+01:00'
+last_app_timestamp: '2011-09-05T14:40:17.000+01:00'
+class: Absolute
+tenure: Freehold
+title_number: DN461880
+entries:
+- entry_id: '2013-03-08 11:13:24.329350'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  full_text: "<CENTRE>CITY OF PLYMOUTH</CENTRE>\r<CENTRE>CITY OF PLYMOUTH</CENTRE>\r\
+    \rThe Freehold land shown edged with red on the plan of the above Title filed\
+    \ at the Registry and being Seaton Court, 2 William Prance Road, Plymouth (PL6\
+    \ 5WS)."
+- entry_id: '2008-09-02 12:15:43.613650'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  full_text: "<CENTRE>CITY OF PLYMOUTH</CENTRE>\r<CENTRE>CITY OF PLYMOUTH</CENTRE>\r\
+    \rThe Freehold land shown edged with red on the plan of the above Title filed\
+    \ at the Registry and being Seaton Court, 2 William Prance Road, Plymouth (PL6\
+    \ 5WS)."
+- entry_id: '2008-09-01 00:59:05.279655'
+  sub_register: A
+  deeds:
+  - date: '1980-02-06'
+    description: Deed of Exchange
+  status: Current
+  role_code: DPRO
+  language: ENG
+  entry_date: '1999-01-19'
+  full_text: "A Deed of Exchange dated 6 February 1980 made between (1) The Secretary\
+    \ of State for Defence and (2) The Council of The City of Plymouth contains the\
+    \ following provision:-\r\r\"THIS deed shall not include or confer in favour of\
+    \ the Council any easement liberty or privilege over or in respect of Seaton Barracks\
+    \ except such easements as are hereby expressly granted.\r\rNOTWITHSTANDING anything\
+    \ in this deed hereinbefore contained the Secretary of State or other the owner\
+    \ or owners for the time being of Seaton Barracks and the red land or any part\
+    \ thereof shall be at liberty to erect such buildings or erections on the Seaton\
+    \ Barracks in such manner as he or they may think fit notwithstanding that the\
+    \ access and use of light and air now or at any time hereafter enjoyed by the\
+    \ Council or its successors in title from and over Seaton Barracks and the red\
+    \ land may be thereby obstructed diminished or destroyed and any such access and\
+    \ use of light and air as aforesaid shall notwithstanding this Deed be deemed\
+    \ henceforth to be enjoyed by the Council and its successors in title with the\
+    \ consent of the owner or owners of Seaton Barracks and the red land subject to\
+    \ the provisions of this clause and not otherwise.\"\r\rNOTE: The land in this\
+    \ title comprises part of Seaton Barracks and the red land."
+  notes:
+  - text: The land in this title comprises part of Seaton Barracks and the red land
+    font: ' '
+  template_text: "A *DT* dated *DD* made between (1) The Secretary of State for Defence\
+    \ and (2) The Council of The City of Plymouth contains the following provision:-\r\
+    \r\"THIS deed shall not include or confer in favour of the Council any easement\
+    \ liberty or privilege over or in respect of Seaton Barracks except such easements\
+    \ as are hereby expressly granted.\r\rNOTWITHSTANDING anything in this deed hereinbefore\
+    \ contained the Secretary of State or other the owner or owners for the time being\
+    \ of Seaton Barracks and the red land or any part thereof shall be at liberty\
+    \ to erect such buildings or erections on the Seaton Barracks in such manner as\
+    \ he or they may think fit notwithstanding that the access and use of light and\
+    \ air now or at any time hereafter enjoyed by the Council or its successors in\
+    \ title from and over Seaton Barracks and the red land may be thereby obstructed\
+    \ diminished or destroyed and any such access and use of light and air as aforesaid\
+    \ shall notwithstanding this Deed be deemed henceforth to be enjoyed by the Council\
+    \ and its successors in title with the consent of the owner or owners of Seaton\
+    \ Barracks and the red land subject to the provisions of this clause and not otherwise.\"\
+    \r\r<NOTE></NOTE>"
+- entry_id: '2008-09-01 00:59:05.329265'
+  sub_register: A
+  deeds:
+  - date: '1998-12-18'
+    description: Transfer
+  status: Current
+  role_code: DPRO
+  language: ENG
+  entry_date: '1999-01-19'
+  full_text: "The Transfer dated 18 December 1998 referred to in the Charges Register\
+    \ contains the following provision:-\r\r\"7. AGREEMENTS AND DECLARATIONS\r\rIT\
+    \ IS AGREED AND DECLARED as follows:-\r\r7.1 Notwithstanding anything in this\
+    \ Transfer contained the Transferor or other the owner or owners for the time\
+    \ being of the Retained Land or any part theroef shall be at liberty to erect\
+    \ such buildings or erections on any part of the Retained Land and to alter or\
+    \ add to or use the same or any existing buildings or erections on the Retained\
+    \ Land in such manner as it or they think fit notwithstanding that the access\
+    \ and use of light and air now or at any time hereafter enjoyed by the Transferee\
+    \ or its successors in title from and over the Retained Land may be thereby obstructed\
+    \ diminished or destroyed and any such access and use of light and air as aforesaid\
+    \ shall notwithstanding this Transfer be deemed henceforth to be enjoyed by the\
+    \ Transferee and its successors in title with the consent of the owner or owners\
+    \ of the Retained Land subject to the provisions of this Clause 8.2 and not otherwise\
+    \ and no such right of light and air shall be reserved for the Retained Land so\
+    \ that this clause shall apply as well in reverse (mutatis mutandis)"
+  template_text: "The *DT* dated *DD* referred to in the Charges Register contains\
+    \ the following provision:-\r\r\"7. AGREEMENTS AND DECLARATIONS\r\rIT IS AGREED\
+    \ AND DECLARED as follows:-\r\r7.1 Notwithstanding anything in this Transfer contained\
+    \ the Transferor or other the owner or owners for the time being of the Retained\
+    \ Land or any part theroef shall be at liberty to erect such buildings or erections\
+    \ on any part of the Retained Land and to alter or add to or use the same or any\
+    \ existing buildings or erections on the Retained Land in such manner as it or\
+    \ they think fit notwithstanding that the access and use of light and air now\
+    \ or at any time hereafter enjoyed by the Transferee or its successors in title\
+    \ from and over the Retained Land may be thereby obstructed diminished or destroyed\
+    \ and any such access and use of light and air as aforesaid shall notwithstanding\
+    \ this Transfer be deemed henceforth to be enjoyed by the Transferee and its successors\
+    \ in title with the consent of the owner or owners of the Retained Land subject\
+    \ to the provisions of this Clause 8.2 and not otherwise and no such right of\
+    \ light and air shall be reserved for the Retained Land so that this clause shall\
+    \ apply as well in reverse (mutatis mutandis)"
+- entry_id: '2008-09-01 00:59:05.598305'
+  sub_register: A
+  deeds:
+  - date: '2002-03-28'
+    description: Transfer
+  status: Current
+  role_code: DAEA
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - type: EXTENT
+  - type: EXTENT
+  entry_date: '2002-05-02'
+  full_text: The land has the benefit of the rights granted by but is subject to the rights reserved by the Transfer dated 28 March 2002 referred to in the Charges Register.
+  template_text: The land *E<>E* has the benefit of the rights granted by but is subject to the rights reserved by the *DT**DE* dated *DD* referred to in the Charges Register.
+  draft_entry_code: AE010
+- entry_id: '2008-09-01 00:59:05.681075'
+  sub_register: A
+  deeds:
+  - date: '2002-03-28'
+    description: Transfer
+  status: Current
+  role_code: DPRO
+  language: ENG
+  entry_date: '2002-05-02'
+  full_text: The Transfer dated 28 March 2002 referred to above contains provisions as to light or air, boundary structures and a provision excluding the operation of Rule 251 of the Land Registration Rules 1925 as therein mentioned.
+  template_text: The *DT* dated *DD* referred to above contains provisions as to light or air, boundary structures and a provision excluding the operation of Rule 251 of the Land Registration Rules 1925 as therein mentioned
+- entry_id: '2011-09-05 15:16:24.557260'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postcode: CR0 2AQ
+        sub_building_description: Land Registry Head Office
+        town: Croydon
+        address_string: Land Registry Head Office, Trafalgar House 1 Bedford Park, Croydon CR0 2AQ
+        secondary_house_no: '0'
+        house_no: '1'
+        address_type: U
+        street_name: Bedford Park
+        house_description: Trafalgar House
+      name:
+        name_category: E
+        non_private_individual_name: Secretary Of State For Communities And Local Government
+    type: Proprietor
+  entry_date: '2002-05-02'
+  full_text: 'PROPRIETOR: >SECRETARY OF STATE FOR COMMUNITIES AND LOCAL GOVERNMENT>
+    care of Property Asset Management, Land Registry Head Office, Trafalgar House
+    1 Bedford Park, Croydon CR0 2AQ.'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2008-09-01 00:59:05.740805'
+  sub_register: B
+  status: Current
+  role_code: RPPD
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 28 March 2002
+    date: '2002-03-28'
+    type: DATE
+  - text: £936,775
+    type: PRICE
+  entry_date: '2002-05-02'
+  full_text: The price stated to have been paid on 28 March 2002 was £936,775.
+  template_text: The price stated to have been paid on *DA* was *AM*.
+  draft_entry_code: BK688
+- entry_id: '2008-09-01 00:59:05.816075'
+  sub_register: B
+  deeds:
+  - date: '2002-03-28'
+    description: Transfer
+  - date: '2002-03-28'
+    description: Transfer
+  status: Current
+  role_code: ORES
+  language: ENG
+  entry_date: '2002-05-02'
+  full_text: 'RESTRICTION: Except under an Order of the Registrar no transfer lease
+    charge (save as provided below) or other disposition of any kind of the land in
+    this title shall be registered without a certificate signed by or on behalf of
+    the South West of England Regional Development Agency, (or its statutory successors),
+    confirming that it has received the deed of covenant required by paragraph 2 of
+    the Fifth Schedule to the Transfer dated 28 March 2002 referred to in the Charges
+    Register but no such certificate shall be required for the registration of a charge
+    if when applying for registration of such charge the chargee also applies for
+    a restriction to the effect that except under an Order of the Registrar no dealing
+    (including the exercise of the power of sale) by the proprietor of the charge,
+    a receiver appointed by the proprietor of the charge or otherwise shall be registered
+    without a certificate signed by or on behalf of the South West of England Regional
+    Development Agency, (or its statutory successors), confirming that it has received
+    the deed of covenant required by paragraph 2 of the Fifth Schedule to the Transfer
+    dated 28 March 2002 referred to in the Charges Register.'
+  template_text: 'RESTRICTION: Except under an Order of the Registrar no transfer
+    lease charge (save as provided below) or other disposition of any kind of the
+    land in this title shall be registered without a certificate signed by or on behalf
+    of the South West of England Regional Development Agency, (or its statutory successors),
+    confirming that it has received the deed of covenant required by paragraph 2 of
+    the Fifth Schedule to the *DT* dated *DD* referred to in the Charges Register
+    but no such certificate shall be required for the registration of a charge if
+    when applying for registration of such charge the chargee also applies for a restriction
+    to the effect that except under an Order of the Registrar no dealing (including
+    the exercise of the power of sale) by the proprietor of the charge, a receiver
+    appointed by the proprietor of the charge or otherwise shall be registered without
+    a certificate signed by or on behalf of the South West of England Regional Development
+    Agency, (or its statutory successors), confirming that it has received the deed
+    of covenant required by paragraph 2 of the Fifth Schedule to the *DT* dated *DD*
+    referred to in the Charges Register'
+- entry_id: '2008-09-01 00:59:05.862765'
+  sub_register: B
+  deeds:
+  - date: '2002-03-28'
+    description: Deed
+  status: Current
+  role_code: OPEC
+  language: ENG
+  entry_date: '2002-05-02'
+  full_text: "A Deed dated 28 March 2002 made between (1) Secretary of State for Transport\
+    \ Local Government and the Regions and (2) Secretary of State for Defence contains\
+    \ personal covenants.\r\r¬NOTE: Copy filed."
+  notes:
+  - text: Copy filed
+    font: I
+  template_text: "A *DT* dated *DD* made between (1) Secretary of State for Transport\
+    \ Local Government and the Regions and (2) Secretary of State for Defence contains\
+    \ personal covenants.\r\r<NOTE></NOTE>"
+- entry_id: '2008-09-01 00:59:03.363775'
+  sub_register: C
+  deeds:
+  - date: '1998-12-18'
+    description: Transfer
+  status: Current
+  role_code: DCEA
+  language: ENG
+  infills:
+  - text: of the land in this title and other land
+    type: EXTENT
+  entry_date: '1999-01-19'
+  full_text: "The land is subject to the following rights reserved by the Transfer\
+    \ of the land in this title and other land dated 18 December 1998 made between\
+    \ (1) Secretary of State for Defence (Transferor) and (2) The Urban Regeneration\
+    \ Agency (Transferee):-\r\r\"2. DEFINITIONS AND INTERPRETATION\r\r2.4 \"the Retained\
+    \ Land\" means the adjoining or neighbouring land of the Vendor being in part\
+    \ shown edged green on Plan 1\r\r2.5.1 \"conduits\" means gutters gullies pipes\
+    \ sewers drains watercourses channels ducts flues wires cables mains and other\
+    \ conducting media\r\r2.5.2 \"services\" means drainage water gas electricity\
+    \ telephone and any other services\r\r2.5.3 \"the Perpetuity Period\" means the\
+    \ period of eighty years from the date of this deed and shall be the perpetuity\
+    \ period applicable hereto\r\r.........................................................................\r\
+    \r2.10.1 \"the Estate Services\" means the conduits to be constructed on the Property\
+    \ within the Perpetuity Period\r\r.........................................................................\r\
+    \r<CENTRE>THE SECOND SCHEDULE</CENTRE>\r\r<CENTRE>(Exceptions and Reservations)</CENTRE>\r\
+    \r2. The full and free right to enter (after reasonable notice except in case\
+    \ of emergency) upon the Property (but excluding any part upon which buildings\
+    \ have been constructed) and of connecting to provided the same are not overloaded\
+    \ by such connection laying constructing repairing cleansing or maintaining inspecting\
+    \ altering replacing relaying using or renewing any conduits (including the Estate\
+    \ Services ............ but excluding other drainage conduits) now or in the Perpetuity\
+    \ Period laid in on under or over the Property serving the Retained Land or which\
+    \ are capable of serving the Retained Land or for procuring that any such conduits\
+    \ are taken over for maintenance by any relevant authority or body subject to\
+    \ the persons exercising such right obtaining the Transferee's or other occupiers\
+    \ or owners for the time being of the Property's approval of the route and method\
+    \ of construction connection and alteration of the conduits and causing as little\
+    \ damage as reasonably possible to the Property in exercising such rights and\
+    \ not commencing work without giving reasonable notice in writing (except in case\
+    \ of emergency) and completing such work as soon as reasonably practicable and\
+    \ making good all damage to the Property to the reasonable satisfaction of the\
+    \ Transferee or other the estate owner for the time being of the Property\r\r\
+    3. The right for the Transferor and his successors in title owner and occupiers\
+    \ of the Retained Land and all persons authorised by him or them to enter with\
+    \ all necessary materials upon the Property but excluding any part upon which\
+    \ buildings have been constructed at reasonable times on giving reasonable upon\
+    \ written notice to the Transferee for the purpose of executing repairs and other\
+    \ works to or upon the Retained Land which cannot reasonably be executed without\
+    \ such entry causing as little damage as reasonably possible to the Property and\
+    \ any damage occasioned thereby to the Property being made good by the persons\
+    \ exercising such right as soon as is reasonably practicable and to the reasonable\
+    \ satisfaction of the Transferee or other the estate owner for the time being\
+    \ of the Property.\r\rNOTE: The land in part edged green referred to lies to the\
+    \ west and south west of Plymouth International Business Park."
+  notes:
+  - text: The land in part edged green referred to lies to the west and south west of Plymouth International Business Park
+    font: ' '
+  template_text: "The land is subject to the following rights reserved by the *DT**DE*\
+    \ dated *DD* made between (1) Secretary of State for Defence (Transferor) and\
+    \ (2) The Urban Regeneration Agency (Transferee):-\r\r\"2. DEFINITIONS AND INTERPRETATION\r\
+    \r2.4 \"the Retained Land\" means the adjoining or neighbouring land of the Vendor\
+    \ being in part shown edged green on Plan 1\r\r2.5.1 \"conduits\" means gutters\
+    \ gullies pipes sewers drains watercourses channels ducts flues wires cables mains\
+    \ and other conducting media\r\r2.5.2 \"services\" means drainage water gas electricity\
+    \ telephone and any other services\r\r2.5.3 \"the Perpetuity Period\" means the\
+    \ period of eighty years from the date of this deed and shall be the perpetuity\
+    \ period applicable hereto\r\r<UNREADABLE></UNREADABLE>\r\r2.10.1 \"the Estate\
+    \ Services\" means the conduits to be constructed on the Property within the Perpetuity\
+    \ Period\r\r<UNREADABLE></UNREADABLE>\r\r<CENTRE>THE SECOND SCHEDULE</CENTRE>\r\
+    \r<CENTRE>(Exceptions and Reservations)</CENTRE>\r\r2. The full and free right\
+    \ to enter (after reasonable notice except in case of emergency) upon the Property\
+    \ (but excluding any part upon which buildings have been constructed) and of connecting\
+    \ to provided the same are not overloaded by such connection laying constructing\
+    \ repairing cleansing or maintaining inspecting altering replacing relaying using\
+    \ or renewing any conduits (including the Estate Services ............ but excluding\
+    \ other drainage conduits) now or in the Perpetuity Period laid in on under or\
+    \ over the Property serving the Retained Land or which are capable of serving\
+    \ the Retained Land or for procuring that any such conduits are taken over for\
+    \ maintenance by any relevant authority or body subject to the persons exercising\
+    \ such right obtaining the Transferee's or other occupiers or owners for the time\
+    \ being of the Property's approval of the route and method of construction connection\
+    \ and alteration of the conduits and causing as little damage as reasonably possible\
+    \ to the Property in exercising such rights and not commencing work without giving\
+    \ reasonable notice in writing (except in case of emergency) and completing such\
+    \ work as soon as reasonably practicable and making good all damage to the Property\
+    \ to the reasonable satisfaction of the Transferee or other the estate owner for\
+    \ the time being of the Property\r\r3. The right for the Transferor and his successors\
+    \ in title owner and occupiers of the Retained Land and all persons authorised\
+    \ by him or them to enter with all necessary materials upon the Property but excluding\
+    \ any part upon which buildings have been constructed at reasonable times on giving\
+    \ reasonable upon written notice to the Transferee for the purpose of executing\
+    \ repairs and other works to or upon the Retained Land which cannot reasonably\
+    \ be executed without such entry causing as little damage as reasonably possible\
+    \ to the Property and any damage occasioned thereby to the Property being made\
+    \ good by the persons exercising such right as soon as is reasonably practicable\
+    \ and to the reasonable satisfaction of the Transferee or other the estate owner\
+    \ for the time being of the Property.\r\r<NOTE></NOTE>"
+- entry_id: '2008-09-01 00:59:05.004445'
+  sub_register: C
+  deeds:
+  - date: '2000-03-08'
+    description: Deed of Harmonisation
+  status: Current
+  role_code: DAGN
+  language: ENG
+  infills:
+  - text: B1
+    type: TITLE NO
+  - text: B2
+    type: TITLE NO
+  - text: B8
+    type: TITLE NO
+  entry_date: '2000-05-05'
+  full_text: "A Deed of Harmonisation dated 8 March 2000 made between (1) The Secretary\
+    \ of State for Defence (MOD) (2) The Council of The City of Plymouth (Plymouth\
+    \ City) and (3) South West of England Regional Development Agency (SWERDA) contains\
+    \ the following provisions which relate to the payment of additional monies as\
+    \ therein mentioned:-\r\r\"2. DEFINITIONS\r\r2.1. In this Deed unless the context\
+    \ otherwise requires:\r\r2.1.1. \"Act of Circumvention\" means any transaction\
+    \ or series of transactions entered into by the SWERDA or its successors in title\
+    \ with any person or persons the principal purpose or purposes of which is or\
+    \ are to depress or reduce the size of the clawback payment or to avoid or evade\
+    \ or delay the recoverability or potential receipt in whole or in part by either\
+    \ MOD and/or Plymouth City of the payment.\r\r2.1.2. \"Additional Planning Permission\"\
+    \ means a Planning Permission which permits development otherwise than in accordance\
+    \ with the Permitted use.\r\r.........................................................................\r\
+    \r2.1.4. \"Clawback Period\" means the period ending with the Termination Date.\r\
+    \r.........................................................................\r\r\
+    2.1.6. \"Development\" has the meaning given in TCPA 1990.\r\r2.1.7. \"Existing\
+    \ Land\" means the land edged green on the attached plan.\r\r2.1.8. \"Implementation\"\
+    \ shall be taken to have occurred when Development of land is initiated in accordance\
+    \ with Section 56 TCPA.\r\r2.1.9. \"In the Prescribed Manner\" where provision\
+    \ is made for any matter amount or value to be ascertained or any dispute to be\
+    \ determined \"in the Prescribed Manner\" the same shall be determined by agreement\
+    \ between the parties in dispute or in default of such agreement within twenty\
+    \ working days after such amount or value or dispute is required to be ascertained\
+    \ or determined under this Agreement by an independent surveyor to be appointed\
+    \ (in default of agreement) on the application of either party to such dispute\
+    \ by the President or one of the Vice Presidents for the time of the Royal Institution\
+    \ of Chartered Surveyors acting (subject to the provision hereinafter contained)\
+    \ as an agent and not as an arbitrator PROVIDED ALWAYS THAT at any time during\
+    \ or within ten working days after the said period of twenty working days the\
+    \ parties to such dispute agree that in relation to such ascertainment or determination\
+    \ such independent surveyor shall act as an arbitrator and not as an expert then\
+    \ and in such case such independent surveyor to act in accordance with the Arbitration\
+    \ Act 1996 where an independent surveyor acts as an expert then (without prejudice\
+    \ to his right to reach his decision solely on the basis of his own expertise)\
+    \ he shall afford to the parties a reasonable opportunity to make representations\
+    \ and the independent surveyor (whether acting as an arbitrator or expert) shall\
+    \ make a determination as to who shall be responsible for his costs and in what\
+    \ proportions which shall be binding on the parties.\r\r2.1.10. \"Notional Proceeds\
+    \ of Sale\" means the Open Market Value of the Property which shall be deemed\
+    \ to arise if there is a Sale at Undervalue before the Termination Date with the\
+    \ benefit of an Additional Planning Permission.\r\r2.1.11. \"Open Market Value\"\
+    \ has the meaning ascribed to that expressions by the edition of the Royal Institution\
+    \ of Chartered Surveyors Appraisal and Valuation (Practice Statement 4.2) current\
+    \ at the date hereof.\r\r2.1.12. \"Permitted Use\" means in relation to the Property\
+    \ ............... ................. any uses under Use Classes B1, B2 and B8 of\
+    \ the Town and Country Planning (Use Classes) order 1987 as enacted at the date\
+    \ hereof ...............................\r\r2.1.13. \"Planning Acts\" has the\
+    \ meaning given in TCPA 1990.\r\r2.1.14. \"Planning Permission\" has the meaning\
+    \ given in TCPA 1990.\r\r2.1.15. \"Proceeds of Sale\" means the actual Sale price\
+    \ (including any premium but excluding any VAT thereon) at which any part of the\
+    \ Property is sold and in the alternative Notional Process of Sale.\r\r2.1.16.\
+    \ \"Property\" means the relevant part or parts of the City land and/or the Existing\
+    \ Land affected by the Trigger Event and any reference to Property includes a\
+    \ reference to any part of it\r\r2.1.17. \"Relevant Land\" means the relevant\
+    \ part or parts of the Property affected by the Trigger Event and any reference\
+    \ to Relevant Land includes a reference to any part of it.\r\r2.1.18. \"Sale\"\
+    \ includes a conveyance transfer or grant of lease for a term in excess of 25\
+    \ years and \"Sale and \"Sold\" shall be construed accordingly\r\r2.1.19. \"Sale\
+    \ at Undervalue\" means any Sale otherwise than by a bona fide bargain on thoroughly\
+    \ arms' length terms and in particular:\r\r(a) where a Sale is for a consideration\
+    \ which is otherwise than wholly for money or money's worth or a consideration\
+    \ that cannot be valued; or\r\r(b) where a Sale is in favour of a \"Connected\
+    \ Person\" which for the purpose of this Transfer is any purchaser or lessee which\
+    \ is\r\r(aa) an assocation company of the Transferee or its successors in title\
+    \ (as defined by Section 416 of the Income and Corporation Taxes Act 1988); or\r\
+    \r(bb) a participator or an associate of a participator is the Transferee or its\
+    \ successors in title (as defined in Section 417 of the Income and Corporation\
+    \ Taxes Act 1988); or\r\r(cc) a subsidiary or associate of the parent company\
+    \ of the Transferee or its successors in title in which the Transferee or its\
+    \ successors in title shall have a shareholding of not less than 50%.\r\r2.1.20.\
+    \ \"The Termination Date\" means 29 March 2013 in relation to the Existing Land\
+    \ and 31 March 2010 in relation to the City Land.\r\r2.1.21. \"The Transfer\"\
+    \ means a Transfer dated 18 December 1998 between the Secretary of State for Defence\
+    \ (1) and the Urban Regeneration Agency (known as English Partnerships) (2).\r\
+    \r2.1.22. \"Trigger Event\" means\r\r(a) the sale of the Property or any part\
+    \ thereof with the benefit of an Additional Planning Permission but not any sale\
+    \ with the benefit of any Additional Planning Permission which has previously\
+    \ attracted the payment of Clawback (\"Trigger Event Type A\")\r\r(b) the implementation\
+    \ of any Planning Permission but not the implementation of an Additional Planning\
+    \ Permission which has previously attracted the payment of Clawback (\"Trigger\
+    \ Event Type B\")\r\r.........................................................................\r\
+    \r\r3. OPERATIVE PROVISIONS\r\r3.1. Each of the MOD, the City of Plymouth and\
+    \ SWERDA hereby agree with the others that the clawback provisions contained in:\r\
+    \r.........................................................................\r\r\
+    3.1.2. The Seventh Schedule to the Transfer\r\rshall cease to have effect and\
+    \ hereby extinguished to the intent that they shall be replaced in their entirety\
+    \ by the Clawback provisions set out below.\r\r3.2. New Clawback Provisions\r\r\
+    3.2.1. SWERDA covenants with the MOD and (as a separate covenant) Plymouth City\
+    \ that if and so often as any Trigger Event occurs before the expiry of the Clawback\
+    \ Period in relation to the City Land or any part thereof then SWERDA will on\
+    \ each such occasion pay a sum equal to the percentages set out below of the difference\
+    \ between the Open Market Value of the Relevant Land without the benefit of the\
+    \ Additional Planning Permission granted before the Trigger Event in question\
+    \ (but with the benefit of any Additional Planning Permission in respect of which\
+    \ clawback has already been paid or become payable) and either\r\r(a) in the case\
+    \ of a Trigger Event Type A the Proceeds of Sale; or\r\r(b) in the case of a Trigger\
+    \ Event Type B the Open Market Value of the Relevant land with the Additional\
+    \ Planning Permission\r\rDate of                      MOD                  Plymouth\
+    \ City\rTrigger Event                Clawback             Clawback\r\rUntil 31/03/2000\
+    \             50%                  35%\r\rFrom 01/04/2000\rTo 31/03/2004     \
+    \           25%                  60%\r\rFrom 01/04/2004\rTo 31/03/2010       \
+    \         25%                  40%\r\r3.2.2. SWERDA covenants with the MOD that\
+    \ if and so often as any Trigger Event occurs in relation to the Existing Land\
+    \ or any part thereof before the expiry of the Clawback Period the Transferee\
+    \ will on each such occasion pay to the Transferor a sum equal to £100% (ONE HUNDRED\
+    \ POUNDS PER CENTUM) of the difference between the Open Market Value of the Relevant\
+    \ land without the benefit of the Additional Planning Permission granted before\
+    \ the Trigger Event in question (but with the benefit of any Additional Planning\
+    \ Permission in respect of which clawback has already been paid or become payable)\
+    \ and either\r\r(a) in the case of a Trigger Event Type A the Proceeds of Sale;\
+    \ or\r\r(b) in the case of a Trigger Event Type B the Open Market Value of the\
+    \ Relevant Land with the Additional Planning Permission; or\r\r.........................................................................\r\
+    \r4. GENERAL\r\r4.1 SWERDA covenants with MOD and (as a separate covenant) with\
+    \ Plymouth City not to enter any Act of Circumvention and not to assist cause\
+    \ or permit any other party to enter any Act of Circumvention.\r\r4.2. A Sale\
+    \ shall be deemed to have taken place within the Clawback Period if the sale is\
+    \ completed after the Clawback Period pursuant to a legally binding contract entered\
+    \ into during the Clawback period.\r\r4.3 SWERDA covenants with MOD and Plymouth\
+    \ City to notify each of them forthwith (and in any event within 7 days) upon\
+    \ the happening of any Trigger Event or if the Trigger Event occurs without the\
+    \ SWERDA taking any part (direct or indirect) in the occurrence of the Trigger\
+    \ Event then SWERDA covenants to notify MOD and Plymouth City forthwith (and in\
+    \ any event within 7 days) upon such Trigger Event coming to the notice of SWERDA.\r\
+    \r4.4 The notifications under this paragraph 4 shall be sent by recorded deliverty\
+    \ post to Ministry of Defence (DEO) MOD Mount Wise, Devonport, Plymouth PL1 4JH,\
+    \ and/or to City of Plymouth, Civic Centre, Plymouth (as appropriate).\r\r4.5\
+    \ Any dispute as to the Open Market Value of the Relevant Land for the purposes\
+    \ of this Deed shall be settled in the Prescribed Manner.\r\r4.6 If any sum which\
+    \ has become due under this Schedule is not paid within 2 months of the date upon\
+    \ which it became payable then interest will be payable on that sum at the rate\
+    \ of TWO POUNDS PER CENTUM (£2%) above National Westminster Bank PLC base rate\
+    \ from the date of the Trigger Event in question until it is paid.\r\r4.7. For\
+    \ the avoidance of doubt if there is a determination pursuant to paragraph 4.5\
+    \ above such sum as shall be fixed as a result of the outcome of the determination\
+    \ as being the sum due under this Schedule shall nevertheless be payable (or be\
+    \ deemed to have become payable) at the date of the Trigger Event (and interest\
+    \ shall be payable under paragraph 4.6 above from that date).\r\r4.8. SWERDA further\
+    \ covenants with the MOD and (as a separate covenant) with Plymouth City that\
+    \ on any Sale of the Property prior to the expiry of the Clawback Period it will\
+    \ procure that the disponee of the same shall enter into a Deed with the MOD and/or\
+    \ SWERDA (as appropriate) in a form to substantially like effect as this Deed.\r\
+    \r4.9. SWERDA shall permit the duly authorised representatives of the MOD and\
+    \ Plymouth City to inspect where it is reasonable to do so all relevant records\
+    \ and accounts relating to sales and the implementation of Planning Permissions\
+    \ and to take copies thereof on an open book basis and shall answer such reasonable\
+    \ questions and provide such information and copies of such documents as may be\
+    \ reasonably raised or requested by the MOD or Plymouth City.\r\r.........................................................................\r\
+    \r4.11. MOD and Plymouth City covenant with SWERDA and other the owners and lessees\
+    \ for the time being of the Property that they will not withhold or delay their\
+    \ consent to the registration of a disposition of the Property (which consent\
+    \ shall be given forthwith) if the disponee of the same shall have entered into\
+    \ a Deed with SWERDA in the form referred to in paragraph 4.8 above and SWERDA\
+    \ shall have received the same from the disponee duly stamped with the appropriate\
+    \ stamp duty (if any) and all payments due (if any) under paragraph 3.2 above\
+    \ have been made.\r\r4.12 For the avoidance of doubt:\r\r(a) the provisions of\
+    \ this Deed shall only apply to produce sums payable of SWERDA to the MOD and/or\
+    \ Plymouth City and in no circumstances shall any sum become payable (or repayable)\
+    \ by the MOD or Plymouth City to SWERDA;\r\r(b) the provisions of this Deed shall\
+    \ apply as often as any Trigger Event occurs prior to the end of the Clawback\
+    \ Period and shall not for example cease to apply on the occurrence of the first\
+    \ or any subsequent Trigger Event;\r\r(c) any Trigger Event occurring as a consequence\
+    \ of the installation and/or vesting and/or adoption of any services to the Property\
+    \ or any part thereof (including but not limited to electricity substations, estate\
+    \ service roads and/or service media conduits) shall not under any circumstances\
+    \ give rise to a Clawback Payment;\r\r(d) in the event of a disposal of land comprising\
+    \ partly City Land and party Existing Land then the parties shall direct any independent\
+    \ surveyor (appointed to value the land in the Prescribed Manner) to apportion\
+    \ the ascertained or determined value as between City Land and Existing Land and\
+    \ the decision of such surveyor shall be binding on the parties same in case of\
+    \ manifest error;\r\r(e) SWERDA shall cease to be liable under the covenants contained\
+    \ in this Deed forthwith upon the transfer of its freehold interest in the Property\
+    \ or any part or parts thereof save (and limited to) the obligation set out in\
+    \ paragraph 2 where such transfer is itself a Trigger Event.\"\r\rNOTE: The land\
+    \ in this title formed part of the \"Existing Land\" referred to."
+  notes:
+  - text: The land in this title formed part of the "Existing Land" referred to
+    font: ' '
+  template_text: "A *DT* dated *DD* made between (1) The Secretary of State for Defence\
+    \ (MOD) (2) The Council of The City of Plymouth (Plymouth City) and (3) South\
+    \ West of England Regional Development Agency (SWERDA) contains the following\
+    \ provisions which relate to the payment of additional monies as therein mentioned:-\r\
+    \r\"2. DEFINITIONS\r\r2.1. In this Deed unless the context otherwise requires:\r\
+    \r2.1.1. \"Act of Circumvention\" means any transaction or series of transactions\
+    \ entered into by the SWERDA or its successors in title with any person or persons\
+    \ the principal purpose or purposes of which is or are to depress or reduce the\
+    \ size of the clawback payment or to avoid or evade or delay the recoverability\
+    \ or potential receipt in whole or in part by either MOD and/or Plymouth City\
+    \ of the payment.\r\r2.1.2. \"Additional Planning Permission\" means a Planning\
+    \ Permission which permits development otherwise than in accordance with the Permitted\
+    \ use.\r\r<UNREADABLE></UNREADABLE>\r\r2.1.4. \"Clawback Period\" means the period\
+    \ ending with the Termination Date.\r\r<UNREADABLE></UNREADABLE>\r\r2.1.6. \"\
+    Development\" has the meaning given in TCPA 1990.\r\r2.1.7. \"Existing Land\"\
+    \ means the land edged green on the attached plan.\r\r2.1.8. \"Implementation\"\
+    \ shall be taken to have occurred when Development of land is initiated in accordance\
+    \ with Section 56 TCPA.\r\r2.1.9. \"In the Prescribed Manner\" where provision\
+    \ is made for any matter amount or value to be ascertained or any dispute to be\
+    \ determined \"in the Prescribed Manner\" the same shall be determined by agreement\
+    \ between the parties in dispute or in default of such agreement within twenty\
+    \ working days after such amount or value or dispute is required to be ascertained\
+    \ or determined under this Agreement by an independent surveyor to be appointed\
+    \ (in default of agreement) on the application of either party to such dispute\
+    \ by the President or one of the Vice Presidents for the time of the Royal Institution\
+    \ of Chartered Surveyors acting (subject to the provision hereinafter contained)\
+    \ as an agent and not as an arbitrator PROVIDED ALWAYS THAT at any time during\
+    \ or within ten working days after the said period of twenty working days the\
+    \ parties to such dispute agree that in relation to such ascertainment or determination\
+    \ such independent surveyor shall act as an arbitrator and not as an expert then\
+    \ and in such case such independent surveyor to act in accordance with the Arbitration\
+    \ Act 1996 where an independent surveyor acts as an expert then (without prejudice\
+    \ to his right to reach his decision solely on the basis of his own expertise)\
+    \ he shall afford to the parties a reasonable opportunity to make representations\
+    \ and the independent surveyor (whether acting as an arbitrator or expert) shall\
+    \ make a determination as to who shall be responsible for his costs and in what\
+    \ proportions which shall be binding on the parties.\r\r2.1.10. \"Notional Proceeds\
+    \ of Sale\" means the Open Market Value of the Property which shall be deemed\
+    \ to arise if there is a Sale at Undervalue before the Termination Date with the\
+    \ benefit of an Additional Planning Permission.\r\r2.1.11. \"Open Market Value\"\
+    \ has the meaning ascribed to that expressions by the edition of the Royal Institution\
+    \ of Chartered Surveyors Appraisal and Valuation (Practice Statement 4.2) current\
+    \ at the date hereof.\r\r2.1.12. \"Permitted Use\" means in relation to the Property\
+    \ ............... ................. any uses under Use Classes *TN*, *TN* and\
+    \ *TN* of the Town and Country Planning (Use Classes) order 1987 as enacted at\
+    \ the date hereof ...............................\r\r2.1.13. \"Planning Acts\"\
+    \ has the meaning given in TCPA 1990.\r\r2.1.14. \"Planning Permission\" has the\
+    \ meaning given in TCPA 1990.\r\r2.1.15. \"Proceeds of Sale\" means the actual\
+    \ Sale price (including any premium but excluding any VAT thereon) at which any\
+    \ part of the Property is sold and in the alternative Notional Process of Sale.\r\
+    \r2.1.16. \"Property\" means the relevant part or parts of the City land and/or\
+    \ the Existing Land affected by the Trigger Event and any reference to Property\
+    \ includes a reference to any part of it\r\r2.1.17. \"Relevant Land\" means the\
+    \ relevant part or parts of the Property affected by the Trigger Event and any\
+    \ reference to Relevant Land includes a reference to any part of it.\r\r2.1.18.\
+    \ \"Sale\" includes a conveyance transfer or grant of lease for a term in excess\
+    \ of 25 years and \"Sale and \"Sold\" shall be construed accordingly\r\r2.1.19.\
+    \ \"Sale at Undervalue\" means any Sale otherwise than by a bona fide bargain\
+    \ on thoroughly arms' length terms and in particular:\r\r(a) where a Sale is for\
+    \ a consideration which is otherwise than wholly for money or money's worth or\
+    \ a consideration that cannot be valued; or\r\r(b) where a Sale is in favour of\
+    \ a \"Connected Person\" which for the purpose of this Transfer is any purchaser\
+    \ or lessee which is\r\r(aa) an assocation company of the Transferee or its successors\
+    \ in title (as defined by Section 416 of the Income and Corporation Taxes Act\
+    \ 1988); or\r\r(bb) a participator or an associate of a participator is the Transferee\
+    \ or its successors in title (as defined in Section 417 of the Income and Corporation\
+    \ Taxes Act 1988); or\r\r(cc) a subsidiary or associate of the parent company\
+    \ of the Transferee or its successors in title in which the Transferee or its\
+    \ successors in title shall have a shareholding of not less than 50%.\r\r2.1.20.\
+    \ \"The Termination Date\" means 29 March 2013 in relation to the Existing Land\
+    \ and 31 March 2010 in relation to the City Land.\r\r2.1.21. \"The Transfer\"\
+    \ means a Transfer dated 18 December 1998 between the Secretary of State for Defence\
+    \ (1) and the Urban Regeneration Agency (known as English Partnerships) (2).\r\
+    \r2.1.22. \"Trigger Event\" means\r\r(a) the sale of the Property or any part\
+    \ thereof with the benefit of an Additional Planning Permission but not any sale\
+    \ with the benefit of any Additional Planning Permission which has previously\
+    \ attracted the payment of Clawback (\"Trigger Event Type A\")\r\r(b) the implementation\
+    \ of any Planning Permission but not the implementation of an Additional Planning\
+    \ Permission which has previously attracted the payment of Clawback (\"Trigger\
+    \ Event Type B\")\r\r<UNREADABLE></UNREADABLE>\r\r\r3. OPERATIVE PROVISIONS\r\r\
+    3.1. Each of the MOD, the City of Plymouth and SWERDA hereby agree with the others\
+    \ that the clawback provisions contained in:\r\r<UNREADABLE></UNREADABLE>\r\r\
+    3.1.2. The Seventh Schedule to the Transfer\r\rshall cease to have effect and\
+    \ hereby extinguished to the intent that they shall be replaced in their entirety\
+    \ by the Clawback provisions set out below.\r\r3.2. New Clawback Provisions\r\r\
+    3.2.1. SWERDA covenants with the MOD and (as a separate covenant) Plymouth City\
+    \ that if and so often as any Trigger Event occurs before the expiry of the Clawback\
+    \ Period in relation to the City Land or any part thereof then SWERDA will on\
+    \ each such occasion pay a sum equal to the percentages set out below of the difference\
+    \ between the Open Market Value of the Relevant Land without the benefit of the\
+    \ Additional Planning Permission granted before the Trigger Event in question\
+    \ (but with the benefit of any Additional Planning Permission in respect of which\
+    \ clawback has already been paid or become payable) and either\r\r(a) in the case\
+    \ of a Trigger Event Type A the Proceeds of Sale; or\r\r(b) in the case of a Trigger\
+    \ Event Type B the Open Market Value of the Relevant land with the Additional\
+    \ Planning Permission\r\rDate of                      MOD                  Plymouth\
+    \ City\rTrigger Event                Clawback             Clawback\r\rUntil 31/03/2000\
+    \             50%                  35%\r\rFrom 01/04/2000\rTo 31/03/2004     \
+    \           25%                  60%\r\rFrom 01/04/2004\rTo 31/03/2010       \
+    \         25%                  40%\r\r3.2.2. SWERDA covenants with the MOD that\
+    \ if and so often as any Trigger Event occurs in relation to the Existing Land\
+    \ or any part thereof before the expiry of the Clawback Period the Transferee\
+    \ will on each such occasion pay to the Transferor a sum equal to £100% (ONE HUNDRED\
+    \ POUNDS PER CENTUM) of the difference between the Open Market Value of the Relevant\
+    \ land without the benefit of the Additional Planning Permission granted before\
+    \ the Trigger Event in question (but with the benefit of any Additional Planning\
+    \ Permission in respect of which clawback has already been paid or become payable)\
+    \ and either\r\r(a) in the case of a Trigger Event Type A the Proceeds of Sale;\
+    \ or\r\r(b) in the case of a Trigger Event Type B the Open Market Value of the\
+    \ Relevant Land with the Additional Planning Permission; or\r\r<UNREADABLE></UNREADABLE>\r\
+    \r4. GENERAL\r\r4.1 SWERDA covenants with MOD and (as a separate covenant) with\
+    \ Plymouth City not to enter any Act of Circumvention and not to assist cause\
+    \ or permit any other party to enter any Act of Circumvention.\r\r4.2. A Sale\
+    \ shall be deemed to have taken place within the Clawback Period if the sale is\
+    \ completed after the Clawback Period pursuant to a legally binding contract entered\
+    \ into during the Clawback period.\r\r4.3 SWERDA covenants with MOD and Plymouth\
+    \ City to notify each of them forthwith (and in any event within 7 days) upon\
+    \ the happening of any Trigger Event or if the Trigger Event occurs without the\
+    \ SWERDA taking any part (direct or indirect) in the occurrence of the Trigger\
+    \ Event then SWERDA covenants to notify MOD and Plymouth City forthwith (and in\
+    \ any event within 7 days) upon such Trigger Event coming to the notice of SWERDA.\r\
+    \r4.4 The notifications under this paragraph 4 shall be sent by recorded deliverty\
+    \ post to Ministry of Defence (DEO) MOD Mount Wise, Devonport, Plymouth PL1 4JH,\
+    \ and/or to City of Plymouth, Civic Centre, Plymouth (as appropriate).\r\r4.5\
+    \ Any dispute as to the Open Market Value of the Relevant Land for the purposes\
+    \ of this Deed shall be settled in the Prescribed Manner.\r\r4.6 If any sum which\
+    \ has become due under this Schedule is not paid within 2 months of the date upon\
+    \ which it became payable then interest will be payable on that sum at the rate\
+    \ of TWO POUNDS PER CENTUM (£2%) above National Westminster Bank PLC base rate\
+    \ from the date of the Trigger Event in question until it is paid.\r\r4.7. For\
+    \ the avoidance of doubt if there is a determination pursuant to paragraph 4.5\
+    \ above such sum as shall be fixed as a result of the outcome of the determination\
+    \ as being the sum due under this Schedule shall nevertheless be payable (or be\
+    \ deemed to have become payable) at the date of the Trigger Event (and interest\
+    \ shall be payable under paragraph 4.6 above from that date).\r\r4.8. SWERDA further\
+    \ covenants with the MOD and (as a separate covenant) with Plymouth City that\
+    \ on any Sale of the Property prior to the expiry of the Clawback Period it will\
+    \ procure that the disponee of the same shall enter into a Deed with the MOD and/or\
+    \ SWERDA (as appropriate) in a form to substantially like effect as this Deed.\r\
+    \r4.9. SWERDA shall permit the duly authorised representatives of the MOD and\
+    \ Plymouth City to inspect where it is reasonable to do so all relevant records\
+    \ and accounts relating to sales and the implementation of Planning Permissions\
+    \ and to take copies thereof on an open book basis and shall answer such reasonable\
+    \ questions and provide such information and copies of such documents as may be\
+    \ reasonably raised or requested by the MOD or Plymouth City.\r\r<UNREADABLE></UNREADABLE>\r\
+    \r4.11. MOD and Plymouth City covenant with SWERDA and other the owners and lessees\
+    \ for the time being of the Property that they will not withhold or delay their\
+    \ consent to the registration of a disposition of the Property (which consent\
+    \ shall be given forthwith) if the disponee of the same shall have entered into\
+    \ a Deed with SWERDA in the form referred to in paragraph 4.8 above and SWERDA\
+    \ shall have received the same from the disponee duly stamped with the appropriate\
+    \ stamp duty (if any) and all payments due (if any) under paragraph 3.2 above\
+    \ have been made.\r\r4.12 For the avoidance of doubt:\r\r(a) the provisions of\
+    \ this Deed shall only apply to produce sums payable of SWERDA to the MOD and/or\
+    \ Plymouth City and in no circumstances shall any sum become payable (or repayable)\
+    \ by the MOD or Plymouth City to SWERDA;\r\r(b) the provisions of this Deed shall\
+    \ apply as often as any Trigger Event occurs prior to the end of the Clawback\
+    \ Period and shall not for example cease to apply on the occurrence of the first\
+    \ or any subsequent Trigger Event;\r\r(c) any Trigger Event occurring as a consequence\
+    \ of the installation and/or vesting and/or adoption of any services to the Property\
+    \ or any part thereof (including but not limited to electricity substations, estate\
+    \ service roads and/or service media conduits) shall not under any circumstances\
+    \ give rise to a Clawback Payment;\r\r(d) in the event of a disposal of land comprising\
+    \ partly City Land and party Existing Land then the parties shall direct any independent\
+    \ surveyor (appointed to value the land in the Prescribed Manner) to apportion\
+    \ the ascertained or determined value as between City Land and Existing Land and\
+    \ the decision of such surveyor shall be binding on the parties same in case of\
+    \ manifest error;\r\r(e) SWERDA shall cease to be liable under the covenants contained\
+    \ in this Deed forthwith upon the transfer of its freehold interest in the Property\
+    \ or any part or parts thereof save (and limited to) the obligation set out in\
+    \ paragraph 2 where such transfer is itself a Trigger Event.\"\r\r<NOTE></NOTE>"
+- entry_id: '2008-09-01 00:59:05.062325'
+  sub_register: C
+  deeds:
+  - date: '2002-03-28'
+    description: Transfer
+  status: Current
+  role_code: DCOV
+  language: ENG
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '2002-05-02'
+  full_text: "A Transfer of the land in this title dated 28 March 2002 made between\
+    \ (1) The South West of England Regional Development Agency and (2) The Secretary\
+    \ of State for Transport Local Government and the Regions contains restrictive\
+    \ covenants.\r\r¬NOTE: Original filed."
+  notes:
+  - text: Original filed
+    font: I
+  template_text: "A *DT**DE* dated *DD* made between (1) The South West of England\
+    \ Regional Development Agency and (2) The Secretary of State for Transport Local\
+    \ Government and the Regions contains restrictive covenants.\r\r<NOTE></NOTE>"
+- entry_id: '2008-09-01 00:59:05.106055'
+  sub_register: C
+  deeds:
+  - date: '2002-03-28'
+    description: Transfer
+  status: Current
+  role_code: DMPS
+  language: ENG
+  entry_date: '2002-05-02'
+  full_text: The Transfer dated 28 March 2002 referred to above contains a reservation of a rentcharge as therein mentioned.
+  template_text: The *DT* dated *DD* referred to above contains a reservation of a rentcharge as therein mentioned
+- entry_id: '2012-11-06 15:35:08.626610'
+  sub_register: C
+  status: Current
+  role_code: CCHA
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 05/11/2012
+    date: '2012-11-05'
+    type: DATE
+  entry_date: '2012-11-06'
+  full_text: REGISTERED CHARGE dated 5 November 2012.
+  template_text: REGISTERED CHARGE dated *CD*.
+  draft_entry_code: CD100
+- entry_id: '2012-11-06 15:35:08.714530'
+  sub_register: C
+  status: Current
+  role_code: CCHR
+  draft_entry_version: 2
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - address_string: Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        non_private_individual_name: Abbey National PLC
+    type: Charge Proprietor
+  entry_date: '2012-11-06'
+  full_text: 'Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services,
+    101 Midsummer Boulevard, Milton Keynes MK9 1AA.'
+  template_text: 'Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds
+    Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.'
+  draft_entry_code: CABBY
+uprns:
+- 501741439
+- 1002872098
+- 1003217912
+- 1004395247
+- 1008294990
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2013-03-08 11:13:24.329350'
+  message: Address not deconstructed in Intelligent Register for title
+- extractor: Property Extractor
+  entry_id: '2008-09-02 12:15:43.613650'
+  message: Address not deconstructed in Intelligent Register for title
+dlr: Plymouth Office
+districts:
+- CITY OF PLYMOUTH
+- CITY OF PLYMOUTH

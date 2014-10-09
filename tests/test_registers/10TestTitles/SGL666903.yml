@@ -1,0 +1,374 @@
+---
+geometry:
+  extent:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 532410.9
+          - 166129.45
+        - - 532410.55
+          - 166130.2
+        - - 532402.3
+          - 166147.55
+        - - 532397.9
+          - 166157.15
+        - - 532395.65
+          - 166161.85
+        - - 532395.5
+          - 166162.15
+        - - 532391.15
+          - 166171.35
+        - - 532410.7
+          - 166180.45
+        - - 532410.85
+          - 166180.2
+        - - 532412.85
+          - 166175.85
+        - - 532414.55
+          - 166172.25
+        - - 532414.95
+          - 166171.4
+        - - 532416.15
+          - 166168.75
+        - - 532419.15
+          - 166162.35
+        - - 532420.07
+          - 166160.34
+        - - 532420.67
+          - 166160.62
+        - - 532423.67
+          - 166162.06
+        - - 532426.7
+          - 166155.75
+        - - 532423.61
+          - 166154.27
+        - - 532423.0
+          - 166153.98
+        - - 532424.55
+          - 166150.6
+        - - 532426.59
+          - 166146.17
+        - - 532426.78
+          - 166146.04
+        - - 532427.13
+          - 166145.85
+        - - 532427.73
+          - 166145.55
+        - - 532428.24
+          - 166145.27
+        - - 532428.84
+          - 166144.88
+        - - 532429.33
+          - 166144.5
+        - - 532429.7
+          - 166144.14
+        - - 532429.92
+          - 166143.84
+        - - 532430.65
+          - 166142.2
+        - - 532431.5
+          - 166140.3
+        - - 532430.75
+          - 166138.75
+        - - 532430.15
+          - 166138.45
+        - - 532423.85
+          - 166135.55
+        - - 532416.25
+          - 166131.95
+        - - 532413.1
+          - 166130.4
+        - - 532410.9
+          - 166129.45
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+  index:
+    type: Feature
+    geometry:
+      type: Polygon
+      coordinates:
+      - - - 532423.67
+          - 166162.06
+        - - 532423.71
+          - 166161.98
+        - - 532426.7
+          - 166155.75
+        - - 532423.0
+          - 166153.98
+        - - 532424.55
+          - 166150.6
+        - - 532425.32
+          - 166148.49
+        - - 532426.45
+          - 166146.1
+        - - 532426.66
+          - 166145.98
+        - - 532427.03
+          - 166145.81
+        - - 532427.68
+          - 166145.53
+        - - 532428.24
+          - 166145.27
+        - - 532428.84
+          - 166144.88
+        - - 532429.33
+          - 166144.5
+        - - 532429.7
+          - 166144.14
+        - - 532429.92
+          - 166143.84
+        - - 532430.53
+          - 166142.21
+        - - 532431.22
+          - 166140.37
+        - - 532431.22
+          - 166140.31
+        - - 532431.21
+          - 166140.26
+        - - 532431.2
+          - 166140.2
+        - - 532431.19
+          - 166140.15
+        - - 532431.18
+          - 166140.09
+        - - 532430.7
+          - 166138.77
+        - - 532430.44
+          - 166138.43
+        - - 532430.17
+          - 166138.31
+        - - 532423.56
+          - 166135.27
+        - - 532421.45
+          - 166134.3
+        - - 532414.77
+          - 166131.23
+        - - 532413.1
+          - 166130.4
+        - - 532411.29
+          - 166129.63
+        - - 532408.92
+          - 166134.67
+        - - 532391.57
+          - 166171.55
+        - - 532400.31
+          - 166175.62
+        - - 532409.61
+          - 166179.94
+        - - 532410.7
+          - 166180.45
+        - - 532410.85
+          - 166180.2
+        - - 532412.85
+          - 166175.85
+        - - 532414.55
+          - 166172.25
+        - - 532414.95
+          - 166171.4
+        - - 532416.15
+          - 166168.75
+        - - 532419.15
+          - 166162.35
+        - - 532420.07
+          - 166160.34
+        - - 532423.67
+          - 166162.06
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2011-09-05T00:00:00.000+01:00'
+last_app_timestamp: '2011-09-05T14:40:21.000+01:00'
+class: Absolute
+tenure: Freehold
+title_number: SGL666903
+entries:
+- entry_id: '2006-08-09 12:17:24.264285'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  full_text: "<CENTRE>CROYDON</CENTRE>\r\rThe Freehold land shown edged with red on\
+    \ the plan of the above Title filed at the Registry and being land on the west\
+    \ side of Exchange Court, 3 Bedford Park, Croydon (CR0 2AQ)."
+- entry_id: '2006-08-09 12:17:24.420495'
+  sub_register: A
+  deeds:
+  - date: '2005-06-30'
+    parties:
+    - names:
+      - non_private_individual_name: ING PIF (Title Company) UK Limited
+    - names:
+      - surname: State
+        forename: The First Secretary of
+    description: Transfer
+  status: Current
+  role_code: DAEA
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - type: EXTENT
+  - type: EXTENT
+  entry_date: '2005-09-12'
+  full_text: The land has the benefit of the rights granted by but is subject to the rights reserved by the Transfer dated 30 June 2005 referred to in the Charges Register.
+  template_text: The land *E<>E* has the benefit of the rights granted by but is subject to the rights reserved by the *DT**DE* dated *DD* referred to in the Charges Register.
+  draft_entry_code: AE010
+- entry_id: '2006-08-09 12:17:24.441905'
+  sub_register: A
+  deeds:
+  - date: '2005-06-30'
+    parties:
+    - names:
+      - non_private_individual_name: ING PIF (Title Company) UK Limited
+    - names:
+      - surname: State
+        forename: The First Secretary of
+    description: Transfer
+  status: Current
+  role_code: DPRO
+  language: ENG
+  entry_date: '2005-09-12'
+  full_text: The Transfer dated 30 June 2005 referred to above contains a provision as to light or air and provisions excluding the operation of section 62 of the Law of Property Act 1925 and the rule in Wheeldon v Burrows as therein mentioned.
+  template_text: The *DT* dated *DD* referred to above contains a provision as to light or air and provisions excluding the operation of section 62 of the Law of Property Act 1925 and the rule in Wheeldon v Burrows as therein mentioned
+- entry_id: '2009-02-17 14:52:49.859370'
+  sub_register: A
+  deeds:
+  - date: '2009-01-19'
+    description: Deed
+  status: Current
+  role_code: DDYM
+  language: ENG
+  entry_date: '2009-02-12'
+  full_text: "By a Deed of Agreement dated 19 January 2009 made between (1) Mars Pension\
+    \ Trustees Limited and (2) Secretary of State for the Communities and Local Government\
+    \ the terms of the Transfer dated 30 June 2005 referred to above were rectified\
+    \ as therein mentioned.\r\r¬NOTE: Copy Deed filed."
+  template_text: "By a Deed of Agreement dated 19 January 2009 made between (1) Mars\
+    \ Pension Trustees Limited and (2) Secretary of State for the Communities and\
+    \ Local Government the terms of the Transfer dated 30 June 2005 referred to above\
+    \ were rectified as therein mentioned.\r\r¬NOTE: Copy Deed filed."
+- entry_id: '2011-09-05 15:24:30.862340'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postcode: CR0 2AQ
+        sub_building_description: Land Registry Head Office
+        town: Croydon
+        address_string: Land Registry Head Office, Trafalgar House 1 Bedford Park, Croydon CR0 2AQ
+        secondary_house_no: '0'
+        house_no: '1'
+        address_type: U
+        street_name: Bedford Park
+        house_description: Trafalgar House
+      name:
+        name_category: E
+        non_private_individual_name: Secretary Of State For Communities And Local Government
+    type: Proprietor
+  entry_date: '2005-09-12'
+  full_text: 'PROPRIETOR: >SECRETARY OF STATE FOR COMMUNITIES AND LOCAL GOVERNMENT>
+    care of Property Asset Management, Land Registry Head Office, Trafalgar House
+    1 Bedford Park, Croydon CR0 2AQ.'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2006-08-09 12:17:24.475255'
+  sub_register: B
+  status: Current
+  role_code: RPPD
+  draft_entry_version: 1
+  language: ENG
+  infills:
+  - text: 30 June 2005
+    date: '2005-06-30'
+    type: DATE
+  - text: £2,478,760 plus VAT
+    type: PRICE
+  entry_date: '2005-09-12'
+  full_text: The price stated to have been paid on 30 June 2005 was £2,478,760 plus VAT.
+  template_text: The price stated to have been paid on *DA* was *AM*.
+  draft_entry_code: BK688
+- entry_id: '2006-08-09 12:17:24.492705'
+  sub_register: B
+  deeds:
+  - date: '2005-06-30'
+    parties:
+    - names:
+      - non_private_individual_name: ING PIF (Title Company) UK Limited
+    - names:
+      - surname: State
+        forename: The First Secretary of
+    description: Transfer
+  status: Current
+  role_code: ORES
+  language: ENG
+  entry_date: '2005-09-12'
+  full_text: 'RESTRICTION: No transfer of the registered estate by the proprietor
+    of the registered estate is to be registered without a certificate signed by a
+    conveyancer that the provisions of clause 13.5.5 of the Transfer dated 30 June
+    2005 referred to in the Charges Register have been complied with.'
+  template_text: 'RESTRICTION: No transfer of the registered estate by the proprietor
+    of the registered estate is to be registered without a certificate signed by a
+    conveyancer that the provisions of clause 13.5.5 of the *DT* dated *DD* referred
+    to in the Charges Register have been complied with'
+- entry_id: '2006-08-09 12:17:24.318305'
+  sub_register: C
+  deeds:
+  - date: '2005-06-30'
+    parties:
+    - names:
+      - non_private_individual_name: ING PIF (Title Company) UK Limited
+    - names:
+      - surname: State
+        forename: The First Secretary of
+    description: Transfer
+  status: Current
+  role_code: DCOV
+  draft_entry_version: 2
+  language: ENG
+  infills:
+  - text: of the land in this title
+    type: EXTENT
+  entry_date: '2005-09-12'
+  full_text: "A Transfer of the land in this title dated 30 June 2005 made between\
+    \ (1) ING PIF (Title Company) UK Limited and (2) The First Secretary of State\
+    \ contains restrictive covenants.\r\r¬NOTE: Copy filed."
+  notes:
+  - text: Copy filed
+    font: I
+  template_text: "A *DT**DE* dated *DD* made between *DP* contains restrictive covenants.\r\
+    \r*N<¬NOTE: Copy filed>N*."
+  draft_entry_code: CR724
+- entry_id: '2010-03-03 11:09:20.459000'
+  sub_register: C
+  deeds:
+  - date: '2006-05-15'
+    description: Lease
+  status: Current
+  role_code: DLER
+  language: ENG
+  entry_date: '2006-07-11'
+  full_text: "The parts of the land affected thereby are subject to the rights granted\
+    \ by a Lease dated 17 May 2006 made between (1) ING PIF (Title Company) UK Limited\
+    \ (2) The First Secretary of State and (3) EDF Energy Networks (SPN) PLC.\r\r¬\
+    NOTE: Copy filed under SGL675483."
+  template_text: "The parts of the land affected thereby are subject to the rights\
+    \ granted by a Lease dated 17 May 2006 made between (1) ING PIF (Title Company)\
+    \ UK Limited (2) The First Secretary of State and (3) EDF Energy Networks (SPN)\
+    \ PLC.\r\r¬NOTE: Copy filed under SGL675483"
+uprns:
+- 29233137
+- 1005883957
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2006-08-09 12:17:24.264285'
+  message: Address not deconstructed in Intelligent Register for title
+dlr: Croydon Office
+districts:
+- CROYDON

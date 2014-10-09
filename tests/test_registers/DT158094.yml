@@ -1,0 +1,274 @@
+---
+geometry:
+  index:
+    type: Feature
+    geometry:
+      type: MultiPolygon
+      coordinates:
+      - - - - 366989.1
+            - 81081.5
+          - - 366989.5
+            - 81085.5
+          - - 366999.88
+            - 81084.34
+          - - 366999.6
+            - 81080.5
+          - - 367000.0
+            - 81080.35
+          - - 367003.95
+            - 81079.9
+          - - 367003.85
+            - 81078.45
+          - - 367010.2
+            - 81077.85
+          - - 367009.45
+            - 81069.85
+          - - 367009.35
+            - 81068.5
+          - - 367006.6
+            - 81068.55
+          - - 367000.0
+            - 81069.35
+          - - 366995.8
+            - 81069.95
+          - - 366995.6
+            - 81068.35
+          - - 366991.25
+            - 81068.8
+          - - 366991.4
+            - 81070.35
+          - - 366988.1
+            - 81070.65
+          - - 366988.8
+            - 81077.95
+          - - 366987.6
+            - 81078.1
+          - - 366987.95
+            - 81081.65
+          - - 366989.1
+            - 81081.5
+      - - - - 367003.11
+            - 81091.87
+          - - 367002.65
+            - 81086.8
+          - - 367000.0
+            - 81087.1
+          - - 366994.5
+            - 81087.75
+          - - 366994.75
+            - 81089.75
+          - - 366995.0
+            - 81092.63
+          - - 367003.11
+            - 81091.87
+    properties: {}
+    crs:
+      type: name
+      properties:
+        name: urn:ogc:def:crs:EPSG:27700
+edition_date: '2005-12-21T00:00:00.000+00:00'
+last_app_timestamp: '2005-12-21T00:00:01.000+00:00'
+class: Absolute
+tenure: Leasehold
+entries:
+- entry_id: '2005-12-21 10:10:49.824225'
+  sub_register: A
+  status: Current
+  role_code: RDES
+  language: ENG
+  full_text: "<CENTRE>DORSET : WEYMOUTH AND PORTLAND</CENTRE>\r\rThe Leasehold land\
+    \ shown edged with red on the plan of the above Title filed at the Registry and\
+    \ being Flat 5, Abbots Court, Ullswater Crescent, Weymouth and Parking Space.\r\
+    \rNOTE: As to the part tinted blue on the filed plan only the first floor is included\
+    \ in the title."
+  entry_date: '1988-05-18'
+- entry_id: '2005-12-21 10:10:49.980845'
+  sub_register: A
+  schedule:
+    fields:
+    - text: 'Short particulars of the lease(s) (or under-lease(s)) under which the
+        land is held:'
+      header: ''
+    - text: '1988-03-31'
+      header: Date
+    - text: 125 years from 1 December 1983
+      header: Term
+    - text: £35 and additional rent
+      header: Rent
+    - parties:
+      - names:
+        - non_private_individual_name: Pebblecroft Limited
+      - names:
+        - surname: Norris
+          forename: Ronald George
+        - surname: Norris
+          forename: Margery Gwyneth
+      header: Parties
+    schedule_type: H
+    parent_register: A
+    header: ''
+  deeds:
+  - rent_detail: £35 and additional rent
+    date: '1988-03-31'
+    parties:
+    - names:
+      - non_private_individual_name: Pebblecroft Limited
+    - names:
+      - surname: Norris
+        forename: Ronald George
+      - surname: Norris
+        forename: Margery Gwyneth
+    lease_term: 125 years from 1 December 1983
+    description: Lease
+  status: Current
+  role_code: RSLP
+  language: ENG
+  full_text: "Short particulars of the lease(s) (or under-lease(s)) under which the\
+    \ land is held:\rDate        : 31 March 1988                                 \
+    \             \rTerm        : 125 years from 1 December 1983                 \
+    \            \rRent        : £35 and additional rent                         \
+    \           \rParties     : (1) Pebblecroft Limited                          \
+    \          \r              (2) Ronald George Norris and Margery Gwyneth Norris"
+- entry_id: '2005-12-21 10:10:50.014905'
+  sub_register: A
+  deeds:
+  - rent_detail: £35 and additional rent
+    date: '1988-03-31'
+    parties:
+    - names:
+      - non_private_individual_name: Pebblecroft Limited
+    - names:
+      - surname: Norris
+        forename: Ronald George
+      - surname: Norris
+        forename: Margery Gwyneth
+    lease_term: 125 years from 1 December 1983
+    description: Lease
+  status: Current
+  role_code: RALI
+  language: ENG
+  full_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the lease.
+  template_text: There are excepted from the effect of registration all estates, rights, interests, powers and remedies arising upon, or by reason of, any dealing made in breach of the prohibition or restriction against dealings therewith inter vivos contained in the lease
+- entry_id: '2005-12-21 10:10:50.071665'
+  sub_register: A
+  status: Current
+  role_code: RLET
+  language: ENG
+  infills:
+  - text: DT77716
+    type: TITLE NO
+  full_text: Lessor's title registered under DT77716.
+  template_text: Lessor's title registered under *TN*
+- entry_id: '2005-12-21 10:10:50.197935'
+  sub_register: A
+  status: Current
+  draft_entry_version: 1
+  role_code: RAEA
+  language: ENG
+  full_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  template_text: Unless otherwise mentioned the title includes any legal easements granted by the registered lease(s) but is subject to any rights that it reserves, so far as those easements and rights exist and benefit or affect the registered land.
+  draft_entry_code: AG303
+- entry_id: '2005-12-21 10:10:49.870995'
+  sub_register: B
+  status: Current
+  role_code: RPRO
+  language: ENG
+  infills:
+  - proprietors:
+    - addresses:
+      - postal_county: Dorset
+        address_string: Flat 5 Abbots Court, Ullswater Crescent, Radipole, Weymouth, Dorset
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: BOSS
+        forename: EVANGELINE MAY
+        name_category: A
+    - addresses:
+      - postal_county: London
+        address_string: 2nd Floor Flat, 41 Belsize Park Gardens, London, NW3 4JJ
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: BOSS
+        forename: DEBORAH MAY
+        name_category: A
+    - addresses:
+      - postal_county: Warwickshire
+        address_string: 78 Granby Road, Nuneaton, Warwickshire, CV10 8EL
+        secondary_house_no: '0'
+        house_no: '0'
+        address_type: U
+      name:
+        surname: BOSS
+        forename: CAROLYN ELAINE
+        name_category: A
+    type: Proprietor
+  full_text: 'PROPRIETOR: %EVANGELINE MAY BOSS% of Flat 5 Abbots Court, Ullswater
+    Crescent, Radipole, Weymouth, *Dorset* and %DEBORAH MAY BOSS% of 2nd Floor Flat,
+    41 Belsize Park Gardens, *London*, NW3 4JJ and %CAROLYN ELAINE BOSS% of 78 Granby
+    Road, Nuneaton, *Warwickshire*, CV10 8EL.'
+  entry_date: '1996-05-22'
+  template_text: 'PROPRIETOR: *RP*'
+- entry_id: '2005-12-21 10:10:50.136305'
+  sub_register: B
+  status: Current
+  draft_entry_version: 1
+  role_code: OJPR
+  language: ENG
+  full_text: 'RESTRICTION: No disposition by a sole proprietor of the land (not being
+    a trust corporation) under which capital money arises is to be registered except
+    under an order of the registrar or of the Court.'
+  entry_date: '1996-05-22'
+  template_text: 'RESTRICTION: No disposition by a sole proprietor of the land (not
+    being a trust corporation) under which capital money arises is to be registered
+    except under an order of the registrar or of the Court.'
+  draft_entry_code: BJPRX
+- entry_id: '2005-12-21 10:10:49.910645'
+  sub_register: C
+  deeds:
+  - date: '1928-02-08'
+    description: Conveyance
+  status: Current
+  role_code: DCOV
+  language: ENG
+  infills:
+  - text: of the freehold estate in the land in this title and other land
+    type: EXTENT
+  full_text: "A Conveyance of the freehold estate in the land in this title and other\
+    \ land dated 8 February 1928 made between (1) Mary Burberry (Vendor) and (2) Wilfred\
+    \ Knell (Purchaser) contains the following covenants:-\r\r\"THE Purchaser for\
+    \ himself and the persons deriving title under him owner or owners for the time\
+    \ being of the property hereby conveyed hereby covenants with the Vendor and the\
+    \ persons deriving title under her as follows:-\r\r(i)  to observe the stipulation\
+    \ and regulation contained in the Schedule hereto but such covenant shall only\
+    \ bind the Purchaser while he is the owner of the said property and shall run\
+    \ with the land but not so as to render the Purchaser personally liable in damages\
+    \ for any breach thereof which may happen after he has parted with his ownership\
+    \ in the said property\r\r<CENTRE>THE SCHEDULE</CENTRE>\r\rNo bricks or clay or\
+    \ cement shall be burned or made or any nuisance be created or allowed on any\
+    \ part of the said property\""
+  template_text: "A *DT**DE* dated *DD* made between (1) Mary Burberry (Vendor) and\
+    \ (2) Wilfred Knell (Purchaser) contains the following covenants:-\r\r\"THE Purchaser\
+    \ for himself and the persons deriving title under him owner or owners for the\
+    \ time being of the property hereby conveyed hereby covenants with the Vendor\
+    \ and the persons deriving title under her as follows:-\r\r(i)  to observe the\
+    \ stipulation and regulation contained in the Schedule hereto but such covenant\
+    \ shall only bind the Purchaser while he is the owner of the said property and\
+    \ shall run with the land but not so as to render the Purchaser personally liable\
+    \ in damages for any breach thereof which may happen after he has parted with\
+    \ his ownership in the said property\r\r<CENTRE>THE SCHEDULE</CENTRE>\r\rNo bricks\
+    \ or clay or cement shall be burned or made or any nuisance be created or allowed\
+    \ on any part of the said property\""
+title_number: DT158094
+uprns:
+- 23026683
+dlr: Weymouth Office
+migration_errors:
+- extractor: Property Extractor
+  entry_id: '2005-12-21 10:10:49.824225'
+  message: Address not deconstructed in Intelligent Register for title
+districts:
+- 'DORSET : WEYMOUTH AND PORTLAND'
