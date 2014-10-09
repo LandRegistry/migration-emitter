@@ -190,7 +190,7 @@ However, we have several existing fields in the JSON that I will leave in in thi
             "restrictions" : [array of entries],
             "bankruptcy" : [array of entries],
             "charges" : [array of entries],
-            "h_schedule" : an array,
+            "h_schedule" : an entry,
             "other" : [array of entries]
     }
 
