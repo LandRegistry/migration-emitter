@@ -93,22 +93,26 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 
 end
 
-##------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
-mec = MintEmitterConsumer.new
-model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/BK500000.yml'))
-#model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/h.yml'))
+# # ##------------ TO RUN UNIT IN ISOLATION UNCOMMENT BELOW ----------------------------
+#mec = MintEmitterConsumer.new
+#model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/CYM200_ORES.yml'))
+#model = YAML.load(File.read('/usr/src/land_reg/migration-emitter/tests/test_registers/CYM592.yml'))
 #pp model
-pp JSON.parse( mec.process_message(model) )
+#pp JSON.parse( mec.process_message(model) )
 
+#write json file
+#File.open('CYM592.json', 'w') {|f| f.puts mec.process_message(model)}
 
-# #xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
-# require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
-# mrc = MigrateRegisterConsumer.new
-# title_array = ['BK500000']
-# mec = MintEmitterConsumer.new
-# title_array.each do |title|
-#   m = mrc.migrate_register('{"title_number":"' + title + '"}')
-#   File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
-#   model = YAML.load_file(title + '.yml')
-#     JSON.parse( mec.process_message(model) )
-# end
+#xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
+require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
+mrc = MigrateRegisterConsumer.new
+#title_array = ['GR504898', 'CYM200', 'LA353080', 'DT502816', 'WK500527', 'ST500377', 'K789138']
+title_array = ['DT506189']
+mec = MintEmitterConsumer.new
+title_array.each do |title|
+  m = mrc.migrate_register('{"title_number":"' + title + '"}')
+  File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
+  model = YAML.load_file(title + '.yml')
+   #pp JSON.parse( mec.process_message(model) )
+  File.open(title + '.json', 'w') {|f| f.puts mec.process_message(model)}
+end

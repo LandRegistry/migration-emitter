@@ -26,6 +26,7 @@ SHUTDOWN_WAIT=60
 JBOSS_CONFIG="standalone-ha.xml -b `hostname  -I | cut -f1 -d' '`"
 JBOSS_SCRIPT=$JBOSS_HOME/bin/standalone.sh
 JBOSS_USER=torquebox
+JAVA_OPTS="$JAVA_OPTS -Xms1024m -Xmx1024m -XX:MaxPermSize=256m -Djava.net.preferIPv4Stack=true -Djava.awt.headless=true"
 
 prog='torquebox'
 
@@ -62,9 +63,9 @@ start() {
 
   if [ ! -z "$JBOSS_USER" ]; then
     if [ -r /etc/rc.d/init.d/functions ]; then
-      daemon --user $JBOSS_USER LAUNCH_JBOSS_IN_BACKGROUND=1 JBOSS_PIDFILE=$JBOSS_PIDFILE $JBOSS_SCRIPT -c $JBOSS_CONFIG 2>&1 > $JBOSS_CONSOLE_LOG &
+      daemon --user $JBOSS_USER LAUNCH_JBOSS_IN_BACKGROUND=1 JBOSS_PIDFILE=$JBOSS_PIDFILE JAVA_OPTS=\"$JAVA_OPTS\" $JBOSS_SCRIPT -c $JBOSS_CONFIG 2>&1 > $JBOSS_CONSOLE_LOG &
     else
-      su - $JBOSS_USER -c "LAUNCH_JBOSS_IN_BACKGROUND=1 JBOSS_PIDFILE=$JBOSS_PIDFILE $JBOSS_SCRIPT -c $JBOSS_CONFIG" 2>&1 > $JBOSS_CONSOLE_LOG &
+      su - $JBOSS_USER -c "LAUNCH_JBOSS_IN_BACKGROUND=1 JBOSS_PIDFILE=$JBOSS_PIDFILE JAVA_OPTS=\"$JAVA_OPTS\" $JBOSS_SCRIPT -c $JBOSS_CONFIG" 2>&1 > $JBOSS_CONSOLE_LOG &
     fi
   fi
 

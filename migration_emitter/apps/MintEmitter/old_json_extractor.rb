@@ -20,10 +20,10 @@ class Old_JSON_Extractor
               end
 
               name['country_incorporation']       = props['name']['country_incorporation'].present? ? props['name']['country_incorporation'] : ''
-              name['company_registraion_number']  = props['name']['company_reg_num'].present? ? props['name']['company_reg_num'] : ''
+              name['company_registration_number'] = props['name']['company_reg_num'].present? ? props['name']['company_reg_num'] : ''
               name['name_information']            = props['name']['name_information'].present? ? props['name']['name_information'] : ''
               name['occupation']                  = props['name']['name_occupation'].present? ? props['name']['name_occupation'] : ''
-              name['name_supplimentary']          = props['name']['name_supplimentary'].present? ? props['name']['name_supplimentary'] : ''
+              name['name_supplementary']          = props['name']['name_supplimentary'].present? ? props['name']['name_supplimentary'] : ''
               name['trading_name']                = props['name']['trading_name'].present? ? props['name']['trading_name'] : ''
               name['trust_type']                  = props['name']['trust_format'].present? ? props['name']['trust_format'] : ''
               name['decoration']                  = props['name']['decoration'].present? ? props['name']['decoration'] : ''
@@ -63,8 +63,8 @@ class Old_JSON_Extractor
       address = entry['infills'][0]['address']
 
       output['full_address']              = address['address_string'] if address['address_string']
-      output['house_no']                  = address['house_no'] if address['house_no']
-      output['street_name']               = address['street_name'] if address['street_name']
+      output['house_number']              = address['house_no'] if address['house_no']
+      output['road']                      = address['street_name'] if address['street_name']
       output['town']                      = address['town'] if address['town']
       output['postal_county']             = address['postal_county'] if address['postal_county']
       output['region_name']               = address['region_name'] if address['region_name']
@@ -94,6 +94,7 @@ class Old_JSON_Extractor
   #return hash of payment details including array of titles
   def self.get_payment(model)
     price_info = {}
+
     if model['entries'].present?
       model['entries'].each { |entry|
         if %w(RPPD).include? entry['role_code']

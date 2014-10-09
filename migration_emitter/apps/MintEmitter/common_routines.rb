@@ -41,8 +41,9 @@ class CommonRoutines
 
   #return an array of parties
   def self.get_deed_parties( deed )
+    parties = []
+
     if deed['parties'].present?
-      parties = []
       deed['parties'].each do |party|
         party_array = []
         if party['names'].present?
@@ -54,6 +55,8 @@ class CommonRoutines
         parties.push(party_array) if party_array.present?
       end  #of each party
     end   #of party present
+
+    parties
   end
 
   #return array of notes on entry
@@ -76,7 +79,7 @@ class CommonRoutines
   def self.set_up_entry( entry )
     new_entry = {}
 
-    new_entry['deed']             = get_deeds( entry )
+    new_entry['deeds']            = get_deeds( entry )
     new_entry['notes']            = get_notes( entry )
     new_entry['full_text']        = entry['full_text'].present? ? entry['full_text'] : ''
     new_entry['entry_date']       = entry['entry_date'].present? ? entry['entry_date'] : ''
@@ -84,6 +87,7 @@ class CommonRoutines
     new_entry['status']           = entry['status'].present? ? entry['status'] : ''
     new_entry['lang_code']        = entry['language'].present? ? entry['language'] : ''
     new_entry['sub_register']     = entry['sub_register'].present? ? entry['sub_register'] : ''
+    new_entry['template']         = entry['template_text'].present? ? entry['template_text'] : ''
     new_entry['template_code']    = entry['draft_entry_code'].present? ? entry['draft_entry_code'] : ''
     new_entry['template_version'] = entry['draft_entry_version'].present? ? entry['draft_entry_version'] : ''
 
