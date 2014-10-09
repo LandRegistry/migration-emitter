@@ -36,8 +36,8 @@ class JSONBuilder
         end
 
         json.provisions             DataExtractor.get_provisions( model )
-        json.easements              Array.new
-        json.restrictive_covenants  Array.new
+        json.easements              DataExtractor.get_easements( model )
+        json.restrictive_covenants  DataExtractor.get_restrictive_covenants( model )
         json.restrictions           DataExtractor.get_restrictions( model )
         json.bankruptcy             DataExtractor.get_bankruptcy( model )
         json.charges                DataExtractor.get_charges( model )

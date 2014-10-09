@@ -25,7 +25,7 @@ class DataExtractor
 
     if model['entries'].present?
       model['entries'].each do |entry|
-        if %w(DARC DCOV RCOV).include? entry['role_code']
+        if %w(DAEA RKHL DANP RGEP RCEA DCEA RHQH).include? entry['role_code']
           easement            = CommonRoutines.set_up_entry( entry )
           easement['fields']  = populate_fields( entry )
 

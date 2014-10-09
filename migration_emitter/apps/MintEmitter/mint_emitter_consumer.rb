@@ -104,15 +104,15 @@ end
 #File.open('CYM592.json', 'w') {|f| f.puts mec.process_message(model)}
 
 #xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
-require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
-mrc = MigrateRegisterConsumer.new
-#title_array = ['GR504898', 'CYM200', 'LA353080', 'DT502816', 'WK500527', 'ST500377', 'K789138']
-title_array = ['DT506189']
-mec = MintEmitterConsumer.new
-title_array.each do |title|
-  m = mrc.migrate_register('{"title_number":"' + title + '"}')
-  File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
-  model = YAML.load_file(title + '.yml')
-   #pp JSON.parse( mec.process_message(model) )
-  File.open(title + '.json', 'w') {|f| f.puts mec.process_message(model)}
-end
+# require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
+# mrc = MigrateRegisterConsumer.new
+# title_array = ['GR504898', 'CYM200', 'LA353080', 'DT502816', 'WK500527', 'ST500377', 'K789138', 'DT506189', 'BD161881']
+# #title_array = ['BD161881']
+# mec = MintEmitterConsumer.new
+# title_array.each do |title|
+#   m = mrc.migrate_register('{"title_number":"' + title + '"}')
+#   File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
+#   model = YAML.load_file(title + '.yml')
+#    #pp JSON.parse( mec.process_message(model) )
+#   File.open(title + '.json', 'w') {|f| f.puts mec.process_message(model)}
+# end
