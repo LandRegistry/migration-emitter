@@ -13,11 +13,11 @@ class JSONBuilder
 
         #Old structure
         json.title_number           model['title_number'] if model['title_number']
-        json.proprietors            Old_JSON_Extractor.get_proprietors( model )
-        json.property               Old_JSON_Extractor.get_property( model )
-          json.tenure               model['class'] if model['class']
-          json.class_of_title       model['tenure'] if model['tenure']
-        json.payment                Old_JSON_Extractor.get_payment( model )
+        # json.proprietors            Old_JSON_Extractor.get_proprietors( model )
+        # json.property               Old_JSON_Extractor.get_property( model )
+        #   json.tenure               model['class'] if model['class']
+        #   json.class_of_title       model['tenure'] if model['tenure']
+        # json.payment                Old_JSON_Extractor.get_payment( model )
         json.extent                 model['geometry']['extent'] if model['geometry'] && model['geometry']['extent']
 
         #New structure
