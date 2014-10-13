@@ -1,124 +1,21 @@
 require_relative 'common_routines'
 
 class DataExtractor
+  def self.extract_entry( entry )
+    json_entry           = CommonRoutines.set_up_entry( entry )
+    json_entry['fields'] = populate_fields( entry )
+
+    json_entry
+  end
 
   #return hash of property description
   def self.get_property_description( entry )
-    property_hash           = CommonRoutines.set_up_entry( entry )
-    property_hash['fields'] = populate_fields( entry )
+    property           = CommonRoutines.set_up_entry( entry )
+    property['fields'] = populate_fields( entry )
 
-    property_hash
+    property
   end
 
-
-  #return an array containing easements entries
-  def self.get_easements( model )
-    easements_array = []
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if %w(DAEA RKHL DANP RGEP RCEA DCEA RHQH).include? entry['role_code']
-          easement            = CommonRoutines.set_up_entry( entry )
-          easement['fields']  = populate_fields( entry )
-
-          easements_array.push(easement)
-        end
-      end
-    end
-
-    easements_array
-  end
-
-
-  #return an array containing provision entries
-  def self.get_restrictive_covenants( model )
-    restrictive_covenants_array = []
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if %w(DARC DCOV RCOV).include? entry['role_code']
-          restrictive_covenant            = CommonRoutines.set_up_entry( entry )
-          restrictive_covenant['fields']  = populate_fields( entry )
-
-          restrictive_covenants_array.push(restrictive_covenant)
-        end
-      end
-    end
-
-    restrictive_covenants_array
-  end
-
-  #return an array containing provision entries
-  def self.get_provisions( model )
-    provisions_array = []
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if %w(DPRO).include? entry['role_code']
-          provision            = CommonRoutines.set_up_entry( entry )
-          provision['fields']  = populate_fields( entry )
-
-          provisions_array.push(provision)
-        end
-      end
-    end
-
-    provisions_array
-  end
-
-  #return an array containing charge entries
-  def self.get_charges( model )
-    charge_array = []
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if %w(CCHR CCHA).include? entry['role_code']
-          charge            = CommonRoutines.set_up_entry( entry )
-          charge['fields']  = populate_fields( entry )
-
-          charge_array.push(charge)
-        end
-      end
-    end
-
-    charge_array
-  end
-
-  #return an array containing restriction entries
-  def self.get_restrictions( model )
-    restriction_array = []
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if %w(ORES CBCR OJPR).include? entry['role_code']
-          restriction            = CommonRoutines.set_up_entry( entry )
-          restriction['fields']  = populate_fields( entry )
-
-          restriction_array.push(restriction)
-        end
-      end
-    end
-
-    restriction_array
-  end
-
-  #return an array containing bankruptcy entries
-  def self.get_bankruptcy( model )
-    bankruptcy_array = []
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if %w(OBAN ORED OCRD).include? entry['role_code']
-          bankruptcy            = CommonRoutines.set_up_entry( entry )
-          bankruptcy['fields']  = populate_fields( entry )
-
-          bankruptcy_array.push(bankruptcy)
-        end
-      end
-    end
-
-    bankruptcy_array
-  end
 
   def self.populate_fields( entry )
     fields = {}
@@ -132,10 +29,15 @@ class DataExtractor
 
         case type
           when 'charge proprietor'
-            if fields['proprietor'].nil?
+            if fields['proprietors'].nil?
               fields['proprietors'] = []
             end
             fields['proprietors'].push( get_proprietor_fields( entry ) )
+          when 'proprietor'
+            if fields['proprietors'].nil?
+              fields['proprietors'] = []
+            end
+            fields['proprietors'] = get_proprietor_fields( entry )
           when 'address'
             fields['addresses'] = populate_address( infill['address'] )
           else
@@ -152,17 +54,9 @@ class DataExtractor
   end
 
   #return a hash containing price paid information
-  def self.get_price_paid( model )
-    price_paid = {}
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if entry['role_code'] == 'RPPD'
-          price_paid            = CommonRoutines.set_up_entry( entry )
-          price_paid['fields']  = populate_fields( entry )
-        end
-      end
-    end
+  def self.get_price_paid( entry )
+    price_paid            = CommonRoutines.set_up_entry( entry )
+    price_paid['fields']  = populate_fields( entry )
 
     price_paid
   end
