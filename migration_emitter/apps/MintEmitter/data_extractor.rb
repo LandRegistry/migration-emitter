@@ -134,16 +134,22 @@ class DataExtractor
       entry['infills'].each do |infill|
         type = infill['type'].present? ? infill['type'].downcase : 'miscellaneous'
 
-        if fields[type].nil?
-          fields[type] = []
-        end
+        # if fields[type].nil?
+        #   fields[type] = []
+        # end
 
         case type
           when 'charge proprietor'
-            fields[type].push( get_proprietor_fields( entry ) )
+            if fields['proprietor'].nil?
+              fields['proprietors'] = []
+            end
+            fields['proprietors'].push( get_proprietor_fields( entry ) )
           when 'address'
-            fields[type].push( populate_address( infill['address'] ) )
+            fields['addresses'] = populate_address( infill['address'] )
           else
+            if fields[type].nil?
+              fields[type] = []
+            end
             text = infill['text'].present? ? infill['text'] : ''
             fields[type].push( text )
         end
@@ -186,7 +192,7 @@ class DataExtractor
 
   #return hash of proprietor fields (for new bit of JSON)
   def self.get_proprietor_fields( entry )
-    fields = {}
+    #fields = {}
     json_proprietors = []
 
     if entry['infills'].present?
@@ -235,8 +241,9 @@ class DataExtractor
       end
     end
 
-    fields['proprietors'] = json_proprietors
-    return fields
+    json_proprietors
+    #fields['proprietors'] = json_proprietors
+    #return fields
   end
 
   #return hash of address
