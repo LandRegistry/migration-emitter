@@ -69,7 +69,7 @@ class EntrySelector
             entries_list['d_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry ) )
 
           when 'SSCH'
-           # entries_list['e_schedule'].push( DataExtractor.get_bankruptcy( entry ) )     #TODO - extract E sched
+           # entries_list['e_schedule'].push( DataExtractor.get_bankruptcy( entry ) )     #TODO - extract E sched from model
 
           when 'RFEA'
             entries_list['f_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry ) )
