@@ -110,7 +110,7 @@ class EntrySelector
             entries_list['z_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
 
           else #put remainder in other section
-           entries_list['other'].push( DataExtractor.extract_entry( entry ) )      #TODO - extract other entries
+           entries_list['other'].push( DataExtractor.extract_entry( entry ) )
 
         end  #case role code
       end  #each entry
