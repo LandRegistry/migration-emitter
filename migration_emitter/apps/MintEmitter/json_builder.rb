@@ -1,6 +1,4 @@
 require 'jbuilder'
-# require_relative '../MintEmitter/data_extractor'
-# require_relative '../MintEmitter/schedule_extractor'
 require_relative '../../apps/MintEmitter/entry_selector'
 
 class JSONBuilder
