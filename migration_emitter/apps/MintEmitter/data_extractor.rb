@@ -3,17 +3,9 @@ require_relative 'common_routines'
 class DataExtractor
 
   #return hash of property description
-  def self.get_property_description( model )
-    property_hash = {}
-
-    if model['entries'].present?
-      model['entries'].each do |entry|
-        if %w(RDES RMRL PMPS).include? entry['role_code']
-          property_hash           = CommonRoutines.set_up_entry( entry )
-          property_hash['fields'] = populate_fields( entry )
-        end
-      end
-    end
+  def self.get_property_description( entry )
+    property_hash           = CommonRoutines.set_up_entry( entry )
+    property_hash['fields'] = populate_fields( entry )
 
     property_hash
   end
@@ -176,16 +168,9 @@ class DataExtractor
   end
 
   #return a hash containing proprietorship information
-  def self.get_proprietorship(model)
-    proprietorship = {}
-    if model['entries'].present?
-      model['entries'].each { |entry|
-        if %w(RCAU RPRO).include? entry['role_code']
-          proprietorship = CommonRoutines.set_up_entry( entry )
-          proprietorship['fields']      = get_proprietor_fields( entry )
-        end #of prop entry
-      } #end of entry loop
-    end  #of entry
+  def self.get_proprietorship( entry )
+    proprietorship            = CommonRoutines.set_up_entry( entry )
+    proprietorship['fields']  = get_proprietor_fields( entry )
 
     proprietorship
   end
