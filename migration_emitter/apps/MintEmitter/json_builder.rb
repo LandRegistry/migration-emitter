@@ -12,8 +12,8 @@ class JSONBuilder
 
       json.title_number           model['title_number'] if model['title_number']
       json.extent                 model['geometry']['extent'] if model['geometry'] && model['geometry']['extent']
-      json.tenure                 model['class'] if model['class']
-      json.class_of_title         model['tenure'] if model['tenure']
+      json.tenure                 model['tenure'] if model['tenure']
+      json.class_of_title         model['class'] if model['class']
       json.edition_date           model['edition_date'] if model['edition_date']
       json.last_application       model['last_app_timestamp'] if model['last_app_timestamp']
       json.office                 model['office'] if model['office']
