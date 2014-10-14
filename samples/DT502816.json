@@ -1,0 +1,631 @@
+{
+   "title_number":"DT502816",
+   "extent":{
+      "type":"Feature",
+      "geometry":{
+         "type":"Polygon",
+         "coordinates":[
+            [
+               [
+                  367049.05,
+                  79371.6
+               ],
+               [
+                  367048.57,
+                  79374.85
+               ],
+               [
+                  367048.5,
+                  79375.35
+               ],
+               [
+                  367047.65,
+                  79380.89
+               ],
+               [
+                  367050.3,
+                  79381.3
+               ],
+               [
+                  367058.3,
+                  79382.45
+               ],
+               [
+                  367062.55,
+                  79383.07
+               ],
+               [
+                  367062.9,
+                  79380.52
+               ],
+               [
+                  367064.9,
+                  79366.68
+               ],
+               [
+                  367066.15,
+                  79357.9
+               ],
+               [
+                  367066.31,
+                  79356.86
+               ],
+               [
+                  367062.75,
+                  79356.45
+               ],
+               [
+                  367058.35,
+                  79355.9
+               ],
+               [
+                  367055.5,
+                  79355.65
+               ],
+               [
+                  367053.1,
+                  79355.35
+               ],
+               [
+                  367051.52,
+                  79355.17
+               ],
+               [
+                  367051.35,
+                  79356.2
+               ],
+               [
+                  367051.21,
+                  79357.21
+               ],
+               [
+                  367050.55,
+                  79361.8
+               ],
+               [
+                  367050.53,
+                  79361.95
+               ],
+               [
+                  367049.8,
+                  79366.55
+               ],
+               [
+                  367049.65,
+                  79367.5
+               ],
+               [
+                  367049.63,
+                  79367.65
+               ],
+               [
+                  367049.05,
+                  79371.6
+               ]
+            ]
+         ]
+      },
+      "properties":{
+
+      },
+      "crs":{
+         "type":"name",
+         "properties":{
+            "name":"urn:ogc:def:crs:EPSG:27700"
+         }
+      }
+   },
+   "tenure":"Absolute",
+   "class_of_title":"Freehold",
+   "edition_date":"2007-10-18",
+   "last_application":"2007-10-18T12:03:10+01:00",
+   "districts":[
+      "DORSET : WEYMOUTH AND PORTLAND"
+   ],
+   "proprietorship":{
+      "deeds":[
+
+      ],
+      "notes":[
+
+      ],
+      "full_text":"PROPRIETOR: %GEOFFREY BOYCOTT% and %STANLEY COLLYMORE% of 15 Highland Road, Weymouth, *Dorset* DT4 0BG.",
+      "entry_date":"2007-10-18",
+      "role_code":"RPRO",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"B",
+      "template":"PROPRIETOR: *RP*",
+      "template_code":"",
+      "template_version":"",
+      "fields":{
+         "proprietors":[
+            {
+               "addresses":[
+                  {
+                     "full_address":"15 Highland Road, Weymouth, Dorset DT4 0BG",
+                     "house_no":"15",
+                     "street_name":"Highland Road",
+                     "town":"Weymouth",
+                     "postal_county":"Dorset",
+                     "region_name":"",
+                     "country":"",
+                     "postcode":"DT4 0BG",
+                     "local_name":"",
+                     "dx_number":"",
+                     "leading_information":"",
+                     "sub_building_description":"",
+                     "trailing_information":"",
+                     "sub_building_number":"",
+                     "house_alpha":"",
+                     "plot_no":"",
+                     "secondary_house_alpha":"",
+                     "plot_code":"",
+                     "secondary_house_number":"0",
+                     "email_address":"",
+                     "address_type":"U",
+                     "dx_exchange_name":"",
+                     "house_description":""
+                  }
+               ],
+               "name":{
+                  "title":"",
+                  "decoration":"",
+                  "first_name":"Geoffrey",
+                  "last_name":"Boycott",
+                  "non_private_individual_name":"",
+                  "full_name":"Geoffrey Boycott",
+                  "country_incorporation":"",
+                  "company_registration_number":"",
+                  "name_information":"",
+                  "occupation":"",
+                  "name_supplementary":"",
+                  "trading_name":"",
+                  "trust_type":"",
+                  "name_category":"A",
+                  "charity_name":"",
+                  "local_authority_area":"",
+                  "company_location":"",
+                  "alias_names":[
+
+                  ]
+               }
+            },
+            {
+               "addresses":[
+                  {
+                     "full_address":"15 Highland Road, Weymouth, Dorset DT4 0BG",
+                     "house_no":"15",
+                     "street_name":"Highland Road",
+                     "town":"Weymouth",
+                     "postal_county":"Dorset",
+                     "region_name":"",
+                     "country":"",
+                     "postcode":"DT4 0BG",
+                     "local_name":"",
+                     "dx_number":"",
+                     "leading_information":"",
+                     "sub_building_description":"",
+                     "trailing_information":"",
+                     "sub_building_number":"",
+                     "house_alpha":"",
+                     "plot_no":"",
+                     "secondary_house_alpha":"",
+                     "plot_code":"",
+                     "secondary_house_number":"0",
+                     "email_address":"",
+                     "address_type":"U",
+                     "dx_exchange_name":"",
+                     "house_description":""
+                  }
+               ],
+               "name":{
+                  "title":"",
+                  "decoration":"",
+                  "first_name":"Stanley",
+                  "last_name":"Collymore",
+                  "non_private_individual_name":"",
+                  "full_name":"Stanley Collymore",
+                  "country_incorporation":"",
+                  "company_registration_number":"",
+                  "name_information":"",
+                  "occupation":"",
+                  "name_supplementary":"",
+                  "trading_name":"",
+                  "trust_type":"",
+                  "name_category":"A",
+                  "charity_name":"",
+                  "local_authority_area":"",
+                  "company_location":"",
+                  "alias_names":[
+
+                  ]
+               }
+            }
+         ]
+      }
+   },
+   "property_description":{
+      "deeds":[
+
+      ],
+      "notes":[
+
+      ],
+      "full_text":"Short description: 15 Highland Road, Weymouth (DT4 0BG)                  \rPlan reference   : tinted pink",
+      "entry_date":"",
+      "role_code":"PMPS",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"P",
+      "template":"",
+      "template_code":"",
+      "template_version":"",
+      "fields":{
+
+      }
+   },
+   "provisions":[
+
+   ],
+   "easements":[
+
+   ],
+   "restrictive_covenants":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"The deeds and documents, particulars of which are set out in the schedule of deeds and documents hereto, contain restrictive covenants relating to the parts of the land therein specified.",
+         "entry_date":"2007-10-18",
+         "role_code":"RCOV",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"The deeds and documents, particulars of which are set out in the schedule of deeds and documents hereto, contain restrictive covenants relating to the parts of the land therein specified.",
+         "template_code":"CR727",
+         "template_version":1,
+         "fields":{
+
+         }
+      }
+   ],
+   "restrictions":[
+
+   ],
+   "bankruptcy":[
+
+   ],
+   "charges":[
+
+   ],
+   "d_schedule":[
+      {
+         "deeds":[
+            {
+               "type":"Deed of Grant",
+               "date":"2007-10-18",
+               "parties":[
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Fowler",
+                        "non_private_individual_name":"",
+                        "full_name":"Robert Fowler",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ],
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Collymore",
+                        "non_private_individual_name":"",
+                        "full_name":"Stanley Collymore",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ]
+               ],
+               "rentcharge_amount":"",
+               "payment_detail":"",
+               "lease_term":""
+            }
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Plan reference: tinted blue                                              \rNature of deed: Deed of Grant                                            \rDate of deed  : 18 October 2007                                          \rParties       : (1) Robert Fowler                                        \r                (2) Stanley Collymore",
+         "entry_date":"",
+         "role_code":"DIRC",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"D",
+         "template":"Plan reference: *S1* Nature of deed: *S2* Date of deed: *S3* Parties: *S4* *S\u003cRemarks:\u003e5*",
+         "template_code":"",
+         "template_version":"",
+         "header":"SCHEDULE OF DEEDS IMPOSING RESTRICTIVE COVENANTS",
+         "parent_register":"C",
+         "fields":{
+            "plans_reference":"tinted blue",
+            "nature_of_deed":"Deed of Grant",
+            "date_of_deed":"2007-10-18",
+            "parties":"(1) Robert Fowler (2) Stanley Collymore",
+            "remarks":""
+         }
+      },
+      {
+         "deeds":[
+            {
+               "type":"Deed of Grant",
+               "date":"2007-10-18",
+               "parties":[
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Fowler",
+                        "non_private_individual_name":"",
+                        "full_name":"Robert Fowler",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ],
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Collymore",
+                        "non_private_individual_name":"",
+                        "full_name":"Stanley Collymore",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ]
+               ],
+               "rentcharge_amount":"",
+               "payment_detail":"",
+               "lease_term":""
+            }
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Plan reference: tinted pink                                              \rNature of deed: Deed of Grant                                            \rDate of deed  : 18 October 2007                                          \rParties       : (1) Robert Fowler                                        \r                (2) Stanley Collymore",
+         "entry_date":"",
+         "role_code":"DIRC",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"D",
+         "template":"Plan reference: *S1* Nature of deed: *S2* Date of deed: *S3* Parties: *S4* *S\u003cRemarks:\u003e5*",
+         "template_code":"",
+         "template_version":"",
+         "header":"SCHEDULE OF DEEDS IMPOSING RESTRICTIVE COVENANTS",
+         "parent_register":"C",
+         "fields":{
+            "plans_reference":"tinted pink",
+            "nature_of_deed":"Deed of Grant",
+            "date_of_deed":"2007-10-18",
+            "parties":"(1) Robert Fowler (2) Stanley Collymore",
+            "remarks":""
+         }
+      },
+      {
+         "deeds":[
+            {
+               "type":"Deed of Grant",
+               "date":"2007-10-18",
+               "parties":[
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Fowler",
+                        "non_private_individual_name":"",
+                        "full_name":"Robert Fowler",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ],
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Collymore",
+                        "non_private_individual_name":"",
+                        "full_name":"Stanley Collymore",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ]
+               ],
+               "rentcharge_amount":"",
+               "payment_detail":"",
+               "lease_term":""
+            }
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Plan reference: tinted lilac                                             \rNature of deed: Deed of Grant                                            \rDate of deed  : 18 October 2007                                          \rParties       : (1) Robert Fowler                                        \r                (2) Stanley Collymore",
+         "entry_date":"",
+         "role_code":"DIRC",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"D",
+         "template":"Plan reference: *S1* Nature of deed: *S2* Date of deed: *S3* Parties: *S4* *S\u003cRemarks:\u003e5*",
+         "template_code":"",
+         "template_version":"",
+         "header":"SCHEDULE OF DEEDS IMPOSING RESTRICTIVE COVENANTS",
+         "parent_register":"C",
+         "fields":{
+            "plans_reference":"tinted lilac",
+            "nature_of_deed":"Deed of Grant",
+            "date_of_deed":"2007-10-18",
+            "parties":"(1) Robert Fowler (2) Stanley Collymore",
+            "remarks":""
+         }
+      }
+   ],
+   "e_schedule":[
+
+   ],
+   "f_schedule":[
+
+   ],
+   "l_schedule":[
+
+   ],
+   "m_schedule":[
+
+   ],
+   "p_schedule":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Short description: Workshop at 15 Highland Road, Weymouth (DT4 0BG)      \rPlan reference   : tinted blue",
+         "entry_date":"",
+         "role_code":"PMPS",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"P",
+         "template":"Short description: *S1* Plan reference: *S2*",
+         "template_code":"",
+         "template_version":"",
+         "header":"SCHEDULE OF PROPERTIES",
+         "parent_register":"A",
+         "fields":{
+            "short_description":"Workshop at 15 Highland Road, Weymouth (DT4 0BG)",
+            "plan_reference":"tinted blue"
+         }
+      },
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Short description: 15 Highland Road, Weymouth (DT4 0BG)                  \rPlan reference   : tinted pink",
+         "entry_date":"",
+         "role_code":"PMPS",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"P",
+         "template":"Short description: *S1* Plan reference: *S2*",
+         "template_code":"",
+         "template_version":"",
+         "header":"SCHEDULE OF PROPERTIES",
+         "parent_register":"A",
+         "fields":{
+            "short_description":"15 Highland Road, Weymouth (DT4 0BG)",
+            "plan_reference":"tinted pink"
+         }
+      }
+   ],
+   "q_schedule":[
+
+   ],
+   "r_schedule":[
+
+   ],
+   "t_schedule":[
+
+   ],
+   "w_schedule":[
+
+   ],
+   "x_schedule":[
+
+   ],
+   "y_schedule":[
+
+   ],
+   "z_schedule":[
+
+   ],
+   "other":[
+
+   ]
+}

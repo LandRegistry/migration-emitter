@@ -1,0 +1,586 @@
+{
+   "title_number":"GR504898",
+   "extent":{
+      "type":"Feature",
+      "geometry":{
+         "type":"Polygon",
+         "coordinates":[
+            [
+               [
+                  383946.69,
+                  217600.73
+               ],
+               [
+                  383941.68,
+                  217602.6
+               ],
+               [
+                  383940.2,
+                  217603.15
+               ],
+               [
+                  383945.8,
+                  217618.25
+               ],
+               [
+                  383951.85,
+                  217616.2
+               ],
+               [
+                  383951.79,
+                  217616.01
+               ],
+               [
+                  383946.69,
+                  217600.73
+               ]
+            ]
+         ]
+      },
+      "properties":{
+
+      },
+      "crs":{
+         "type":"name",
+         "properties":{
+            "name":"urn:ogc:def:crs:EPSG:27700"
+         }
+      }
+   },
+   "tenure":"Absolute",
+   "class_of_title":"Leasehold",
+   "edition_date":"2012-08-03",
+   "last_application":"2012-08-03T17:21:57+01:00",
+   "districts":[
+      "GLOUCESTERSHIRE : GLOUCESTER"
+   ],
+   "proprietorship":{
+      "deeds":[
+
+      ],
+      "notes":[
+
+      ],
+      "full_text":"PROPRIETOR: %KENNEY EVERETT% of 2 High Street, Gloucester, *Gloucestershire* GL1 4SP.",
+      "entry_date":"2006-09-27",
+      "role_code":"RPRO",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"B",
+      "template":"PROPRIETOR: *RP*",
+      "template_code":"",
+      "template_version":"",
+      "fields":{
+         "proprietors":[
+            {
+               "addresses":[
+                  {
+                     "full_address":"2 High Street, Gloucester, Gloucestershire GL1 4SP",
+                     "house_no":"2",
+                     "street_name":"High Street",
+                     "town":"Gloucester",
+                     "postal_county":"Gloucestershire",
+                     "region_name":"",
+                     "country":"",
+                     "postcode":"GL1 4SP",
+                     "local_name":"",
+                     "dx_number":"",
+                     "leading_information":"",
+                     "sub_building_description":"",
+                     "trailing_information":"",
+                     "sub_building_number":"",
+                     "house_alpha":"",
+                     "plot_no":"",
+                     "secondary_house_alpha":"",
+                     "plot_code":"",
+                     "secondary_house_number":"0",
+                     "email_address":"",
+                     "address_type":"U",
+                     "dx_exchange_name":"",
+                     "house_description":""
+                  }
+               ],
+               "name":{
+                  "title":"",
+                  "decoration":"",
+                  "first_name":"KENNEY",
+                  "last_name":"EVERETT",
+                  "non_private_individual_name":"",
+                  "full_name":"KENNEY EVERETT",
+                  "country_incorporation":"",
+                  "company_registration_number":"",
+                  "name_information":"",
+                  "occupation":"",
+                  "name_supplementary":"",
+                  "trading_name":"",
+                  "trust_type":"",
+                  "name_category":"A",
+                  "charity_name":"",
+                  "local_authority_area":"",
+                  "company_location":"",
+                  "alias_names":[
+
+                  ]
+               }
+            }
+         ]
+      }
+   },
+   "property_description":{
+      "deeds":[
+
+      ],
+      "notes":[
+
+      ],
+      "full_text":"\u003cCENTRE\u003eGLOUCESTERSHIRE : GLOUCESTER\u003c/CENTRE\u003e\r\rThe Leasehold land shown edged with red on the plan of the above title filed at the Registry and being 2 High Street, Gloucester (GL1 4SP).",
+      "entry_date":"2006-09-27",
+      "role_code":"RDES",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"A",
+      "template":"The Leasehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*",
+      "template_code":"",
+      "template_version":"",
+      "fields":{
+         "addresses":[
+            {
+               "full_address":"2 High Street, Gloucester (GL1 4SP)",
+               "house_no":"2",
+               "street_name":"High Street",
+               "town":"Gloucester",
+               "postal_county":"Gloucestershire",
+               "region_name":"",
+               "country":"",
+               "postcode":"GL1 4SP",
+               "local_name":"",
+               "dx_number":"",
+               "leading_information":"",
+               "sub_building_description":"",
+               "trailing_information":"",
+               "sub_building_number":"",
+               "house_alpha":"",
+               "plot_no":"",
+               "secondary_house_alpha":"",
+               "plot_code":"",
+               "secondary_house_number":"",
+               "email_address":"",
+               "address_type":"",
+               "dx_exchange_name":"",
+               "house_description":""
+            }
+         ]
+      }
+   },
+   "provisions":[
+
+   ],
+   "easements":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"The title includes any legal easements referred to in clause LR11.1 of the registered lease.\r\rNOTE: The rights granted in fgdgd are included in the title only so far as the landlord had the power to grant the same.",
+         "entry_date":"2006-09-27",
+         "role_code":"RKHL",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"A",
+         "template":"The title includes any legal easements referred to in clause LR11.1 of the registered lease.\r\rNOTE: The rights granted in *M\u003c\u003eM* are included in the title only so far as the landlord had the power to grant the same.",
+         "template_code":"AE189",
+         "template_version":2,
+         "fields":{
+            "miscellaneous":[
+               "fgdgd"
+            ]
+         }
+      }
+   ],
+   "restrictive_covenants":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"The deeds and documents, particulars of which are set out in the schedule of deeds and documents hereto, contain restrictive covenants relating to the parts of the land therein specified.",
+         "entry_date":"2006-09-27",
+         "role_code":"RCOV",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"The deeds and documents, particulars of which are set out in the schedule of deeds and documents hereto, contain restrictive covenants relating to the parts of the land therein specified.",
+         "template_code":"CR727",
+         "template_version":1,
+         "fields":{
+
+         }
+      }
+   ],
+   "restrictions":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"RESTRICTION: No transfer or lease by the proprietor of the registered estate or by the proprietor of any registered charge is to be registered unless a certificate by asdasd is given that the transfer or lease is made in accordance with section 37 of the Housing Act 1985.",
+         "entry_date":"2006-09-27",
+         "role_code":"ORES",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"B",
+         "template":"RESTRICTION: No transfer or lease by the proprietor of the registered estate or by the proprietor of any registered charge is to be registered unless a certificate by *NM* is given that the transfer or lease is made in accordance with section 37 of the Housing Act 1985.",
+         "template_code":"BX081",
+         "template_version":1,
+         "fields":{
+            "miscellaneous":[
+               "asdasd"
+            ]
+         }
+      }
+   ],
+   "bankruptcy":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"BANKRUPTCY NOTICE entered under section 86(2) of the Land Registration Act 2002 in respect of a pending action, as the title of the proprietor of the registered estate appears to be affected by a petition in bankruptcy against sdf presented in the sdf Court (Court Reference Number sdf ) (Land Charges Reference Number PA 12346 ).",
+         "entry_date":"2006-09-27",
+         "role_code":"OBAN",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"B",
+         "template":"BANKRUPTCY NOTICE entered under section 86(2) of the Land Registration Act 2002 in respect of a pending action, as the title of the proprietor of the registered estate appears to be affected by a petition in bankruptcy against *NM* presented in the *M\u003c\u003eM* Court (Court Reference Number *M\u003c\u003eM* ) (Land Charges Reference Number PA *M\u003c\u003eM* ).",
+         "template_code":"BK173",
+         "template_version":2,
+         "fields":{
+            "miscellaneous":[
+               "sdf",
+               "sdf",
+               "sdf",
+               "12346"
+            ]
+         }
+      }
+   ],
+   "charges":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"REGISTERED CHARGE dated 4 September 2006.",
+         "entry_date":"2006-09-27",
+         "role_code":"CCHA",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"REGISTERED CHARGE dated *CD*.",
+         "template_code":"CD100",
+         "template_version":1,
+         "fields":{
+            "date":[
+               "2006-09-04"
+            ]
+         }
+      },
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Proprietor: #HSBC BANK PLC# (Co. Regn. No. 14259) 40-41-42 of Mortgage Service Centre, P.O. Box 1546, Sheffield S1 2UJ.",
+         "entry_date":"2006-09-27",
+         "role_code":"CCHR",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"Proprietor: #HSBC BANK PLC# (Co. Regn. No. 14259) 40-41-42 of Mortgage Service Centre, P.O. Box 1546, Sheffield S1 2UJ.",
+         "template_code":"CY843",
+         "template_version":1,
+         "fields":{
+            "proprietors":[
+               {
+                  "addresses":[
+                     {
+                        "full_address":"Mortgage Service Centre, P.O. Box 1546, Sheffield S1 2UJ",
+                        "house_no":"0",
+                        "street_name":"",
+                        "town":"",
+                        "postal_county":"",
+                        "region_name":"",
+                        "country":"",
+                        "postcode":"",
+                        "local_name":"",
+                        "dx_number":"",
+                        "leading_information":"",
+                        "sub_building_description":"",
+                        "trailing_information":"",
+                        "sub_building_number":"",
+                        "house_alpha":"",
+                        "plot_no":"",
+                        "secondary_house_alpha":"",
+                        "plot_code":"",
+                        "secondary_house_number":"0",
+                        "email_address":"",
+                        "address_type":"U",
+                        "dx_exchange_name":"",
+                        "house_description":""
+                     }
+                  ],
+                  "name":{
+                     "title":"",
+                     "decoration":"",
+                     "first_name":"",
+                     "last_name":"",
+                     "non_private_individual_name":"HSBC Bank PLC",
+                     "full_name":"HSBC Bank PLC",
+                     "country_incorporation":"",
+                     "company_registration_number":"",
+                     "name_information":"",
+                     "occupation":"",
+                     "name_supplementary":"",
+                     "trading_name":"",
+                     "trust_type":"",
+                     "name_category":"",
+                     "charity_name":"",
+                     "local_authority_area":"",
+                     "company_location":"",
+                     "alias_names":[
+
+                     ]
+                  }
+               }
+            ]
+         }
+      },
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"REGISTERED CHARGE dated 1 August 2012.",
+         "entry_date":"2012-08-02",
+         "role_code":"CCHA",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"REGISTERED CHARGE dated *CD*.",
+         "template_code":"CD100",
+         "template_version":1,
+         "fields":{
+            "date":[
+               "2012-08-01"
+            ]
+         }
+      },
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+         "entry_date":"2012-08-02",
+         "role_code":"CCHR",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+         "template_code":"CABBY",
+         "template_version":2,
+         "fields":{
+            "proprietors":[
+               {
+                  "addresses":[
+                     {
+                        "full_address":"Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA",
+                        "house_no":"0",
+                        "street_name":"",
+                        "town":"",
+                        "postal_county":"",
+                        "region_name":"",
+                        "country":"",
+                        "postcode":"",
+                        "local_name":"",
+                        "dx_number":"",
+                        "leading_information":"",
+                        "sub_building_description":"",
+                        "trailing_information":"",
+                        "sub_building_number":"",
+                        "house_alpha":"",
+                        "plot_no":"",
+                        "secondary_house_alpha":"",
+                        "plot_code":"",
+                        "secondary_house_number":"0",
+                        "email_address":"",
+                        "address_type":"U",
+                        "dx_exchange_name":"",
+                        "house_description":""
+                     }
+                  ],
+                  "name":{
+                     "title":"",
+                     "decoration":"",
+                     "first_name":"",
+                     "last_name":"",
+                     "non_private_individual_name":"Abbey National PLC",
+                     "full_name":"Abbey National PLC",
+                     "country_incorporation":"",
+                     "company_registration_number":"",
+                     "name_information":"",
+                     "occupation":"",
+                     "name_supplementary":"",
+                     "trading_name":"",
+                     "trust_type":"",
+                     "name_category":"",
+                     "charity_name":"",
+                     "local_authority_area":"",
+                     "company_location":"",
+                     "alias_names":[
+
+                     ]
+                  }
+               }
+            ]
+         }
+      }
+   ],
+   "d_schedule":[
+
+   ],
+   "e_schedule":[
+
+   ],
+   "f_schedule":[
+
+   ],
+   "h_schedule":{
+      "deeds":[
+         {
+            "type":"Lease",
+            "date":"2003-02-02",
+            "parties":[
+               [
+                  {
+                     "title":"",
+                     "decoration":"",
+                     "first_name":"",
+                     "last_name":"",
+                     "non_private_individual_name":"Sdfsdf",
+                     "full_name":"Sdfsdf",
+                     "country_incorporation":"",
+                     "company_registration_number":"",
+                     "name_information":"",
+                     "occupation":"",
+                     "name_supplementary":"",
+                     "trading_name":"",
+                     "trust_type":"",
+                     "name_category":"",
+                     "charity_name":"",
+                     "local_authority_area":"",
+                     "alias_names":[
+
+                     ]
+                  }
+               ],
+               [
+                  {
+                     "title":"",
+                     "decoration":"",
+                     "first_name":"",
+                     "last_name":"",
+                     "non_private_individual_name":"Sdfsdf",
+                     "full_name":"Sdfsdf",
+                     "country_incorporation":"",
+                     "company_registration_number":"",
+                     "name_information":"",
+                     "occupation":"",
+                     "name_supplementary":"",
+                     "trading_name":"",
+                     "trust_type":"",
+                     "name_category":"",
+                     "charity_name":"",
+                     "local_authority_area":"",
+                     "alias_names":[
+
+                     ]
+                  }
+               ]
+            ],
+            "rentcharge_amount":"",
+            "payment_detail":"",
+            "lease_term":"99 years from 10 January 2005"
+         }
+      ],
+      "notes":[
+
+      ],
+      "full_text":"Short particulars of the lease(s) (or under-lease(s)) under which the land is held:\rDate        : 2 February 2003                                            \rTerm        : 99 years from 10 January 2005                              \rParties     : (1) Sdfsdf                                                 \r              (2) Sdfsdf",
+      "entry_date":"2006-09-27",
+      "role_code":"RSLP",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"A",
+      "template":"Short particulars of the lease(s) (or under-lease(s)) under which the land is held: Date: *S1* Term: *S2* *S\u003cRent:\u003e3* Parties: *S4*",
+      "template_code":"",
+      "template_version":"",
+      "header":"",
+      "parent_register":"A",
+      "fields":{
+         "date_of_deed":"2003-02-02",
+         "term":"99 years from 10 January 2005",
+         "rent":"",
+         "parties":"(1) Sdfsdf (2) Sdfsdf"
+      }
+   },
+   "l_schedule":[
+
+   ],
+   "m_schedule":[
+
+   ],
+   "p_schedule":[
+
+   ],
+   "q_schedule":[
+
+   ],
+   "r_schedule":[
+
+   ],
+   "t_schedule":[
+
+   ],
+   "w_schedule":[
+
+   ],
+   "x_schedule":[
+
+   ],
+   "y_schedule":[
+
+   ],
+   "z_schedule":[
+
+   ],
+   "other":[
+
+   ]
+}
