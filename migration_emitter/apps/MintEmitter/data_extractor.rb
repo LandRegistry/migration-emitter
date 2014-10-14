@@ -23,10 +23,6 @@ class DataExtractor
       entry['infills'].each do |infill|
         type = infill['type'].present? ? infill['type'].downcase : 'miscellaneous'
 
-        # if fields[type].nil?
-        #   fields[type] = []
-        # end
-
         case type
           when 'charge proprietor'
             if fields['proprietors'].nil?
@@ -121,8 +117,6 @@ class DataExtractor
     end
 
     json_proprietors
-    #fields['proprietors'] = json_proprietors
-    #return fields
   end
 
   #return hash of address
