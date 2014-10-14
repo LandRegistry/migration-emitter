@@ -34,7 +34,7 @@ class JSONBuilder
       json.bankruptcy             entry_list['bankruptcy']
       json.charges                entry_list['charges']
       json.d_schedule             entry_list['d_schedule']
-      #json.e_schedule             entry_list['e_schedule']
+      json.e_schedule             entry_list['e_schedule']
       json.f_schedule             entry_list['f_schedule']
 
       #only show h schedule in json if present
@@ -50,7 +50,7 @@ class JSONBuilder
       json.r_schedule             entry_list['r_schedule']
       json.t_schedule             entry_list['t_schedule']
       json.w_schedule             entry_list['w_schedule']
-      #json.x_schedule             entry_list['x_schedule']
+      json.x_schedule             entry_list['x_schedule']
       json.y_schedule             entry_list['y_schedule']
       json.z_schedule             entry_list['z_schedule']
 

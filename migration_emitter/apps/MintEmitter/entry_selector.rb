@@ -69,7 +69,7 @@ class EntrySelector
             entries_list['d_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry ) )
 
           when 'SSCH'
-           # entries_list['e_schedule'].push( DataExtractor.get_bankruptcy( entry ) )     #TODO - extract E sched from model
+            entries_list['e_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry ) )
 
           when 'RFEA'
             entries_list['f_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry ) )
@@ -84,9 +84,11 @@ class EntrySelector
           when 'RLLE'
             entries_list['l_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
 
-         # when 'RMRL'
+          when 'RMRL'
+            entries_list['m_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
 
-         # when 'PMPS'
+          when 'PMPS'
+            entries_list['p_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
 
           when 'RWDF'
             entries_list['q_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
@@ -101,7 +103,7 @@ class EntrySelector
             entries_list['w_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
 
           when 'XSCH'
-           # entries_list['x_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )     #TODO - extract X sched
+            entries_list['x_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
 
           when 'RWAP'
             entries_list['y_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
