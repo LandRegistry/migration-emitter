@@ -54,11 +54,7 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 			raise 'No title number in JSON'
 		end
 
-    # begin
-      json = JSONBuilder.convert_hash(body)
-     # rescue => e
-     #   raise e.message
-     # end
+    json = JSONBuilder.convert_hash(body)
 
 		return json
 	end
@@ -102,21 +98,21 @@ end
 #File.open('AGL29061.json', 'w') {|f| f.puts mec.process_message(model)}
 
 #xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
-require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
-mrc = MigrateRegisterConsumer.new
-# #title_array = ['GR504898', 'CYM200', 'LA353080', 'DT502816', 'WK500527', 'ST500377', 'K789138', 'DT506189', 'BD161881']
-# #title_array = ['BK507447','BK507506','BK507505','BK507580','BK507577','DT160760','BK507821','BK507857','BK507861','BK507906','BK507960','DT500388','BK508132','BK508389','BL50434']
-# title_array = ['BK507906', 'DT160760']
-title_array = ['ST500377']
-mec = MintEmitterConsumer.new
-title_array.each do |title|
-  begin
-    m = mrc.migrate_register('{"title_number":"' + title + '"}')
-    File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
-    model = YAML.load_file(title + '.yml')
-     #pp JSON.parse( mec.process_message(model) )
-    File.open(title + '.json', 'w') {|f| f.puts mec.process_message(model)}
-  rescue => e
-    puts e
-  end
-end
+# require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
+# mrc = MigrateRegisterConsumer.new
+# # #title_array = ['GR504898', 'CYM200', 'LA353080', 'DT502816', 'WK500527', 'ST500377', 'K789138', 'DT506189', 'BD161881']
+# # #title_array = ['BK507447','BK507506','BK507505','BK507580','BK507577','DT160760','BK507821','BK507857','BK507861','BK507906','BK507960','DT500388','BK508132','BK508389','BL50434']
+# # title_array = ['BK507906', 'DT160760']
+# title_array = ['ST500377']
+# mec = MintEmitterConsumer.new
+# title_array.each do |title|
+#   begin
+#     m = mrc.migrate_register('{"title_number":"' + title + '"}')
+#     File.open(title + '.yml', 'w') { |fo| fo.puts m.to_yaml }
+#     model = YAML.load_file(title + '.yml')
+#      #pp JSON.parse( mec.process_message(model) )
+#     File.open(title + '.json', 'w') {|f| f.puts mec.process_message(model)}
+#   rescue => e
+#     puts e
+#   end
+# end
