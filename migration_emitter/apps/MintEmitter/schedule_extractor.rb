@@ -1,4 +1,4 @@
-require_relative 'common_routines'
+require_relative '../MintEmitter/data_extractor'
 
 class ScheduleExtractor
 
@@ -8,14 +8,16 @@ class ScheduleExtractor
 
     case entry['role_code']
       when 'DIRC'  #D
-        schedule_entry['template']= 'Plan reference: *S1* Nature of deed: *S2* Date of deed: *S3* Parties: *S4* *S<Remarks:>5*'
-        fields['plans_reference'] = find_fields(entry, 'Plans reference')
-        fields['nature_of_deed']  = find_fields(entry, 'Nature of deed')
-        fields['date_of_deed']    = find_fields(entry, 'Date of deed')
-        fields['parties']         = extract_parties( entry, 'Parties' )
-        fields['remarks']         = find_optional_fields(entry, 'Remarks')
+        schedule_entry['template'] = 'Plan reference: *S1* Nature of deed: *S2* Date of deed: *S3* Parties: *S4* *S<Remarks:>5*'
+        fields['plans_reference']  = find_fields(entry, 'Plans reference')
+        fields['nature_of_deed']   = find_fields(entry, 'Nature of deed')
+        fields['date_of_deed']     = find_fields(entry, 'Date of deed')
+        fields['parties']          = extract_parties( entry, 'Parties' )
+        fields['remarks']          = find_optional_fields(entry, 'Remarks')
 
-      when 'SSCH' #E  #TODO
+      when 'SSCH' #E
+        schedule_entry['template']  = entry['template_text']
+        schedule_entry['fields']    = DataExtractor.populate_fields( entry )
 
       when 'RFEA' #F
         schedule_entry['template']  = 'Benefitting land: *S1* *S<Title Number of benefiting land:>2* Date of lease: *S3* Term of lease: *S4* *S<Registration date:>5*'
@@ -90,7 +92,9 @@ class ScheduleExtractor
         fields['remarks']               = find_optional_fields(entry, 'Remarks')
         fields['registration_date']     = find_optional_fields(entry, 'Registration date')
 
-      when 'XSCH' #X #TODO
+      when 'XSCH' #X
+        schedule_entry['template']  = entry['template_text']
+        schedule_entry['fields']    = DataExtractor.populate_fields( entry )
 
       when 'RWAP' #Y
         schedule_entry['template']      = 'Improved or apportioned rentcharge: *S1* Property description: *S2* Nature of deed: *S3* Date of deed: *S4* *S<Remarks:>5* *S<Registration date:>6*'
@@ -142,7 +146,7 @@ class ScheduleExtractor
 
 
   def self.setup_schedule_entry( entry )
-    schedule_entry = CommonRoutines.set_up_entry( entry )
+    schedule_entry = DataExtractor.set_up_entry( entry )
     schedule_entry['header']          = entry['schedule']['header'].present? ? entry['schedule']['header'] : ''
     schedule_entry['parent_register'] = entry['schedule']['parent_register'].present? ? entry['schedule']['parent_register'] : ''
 

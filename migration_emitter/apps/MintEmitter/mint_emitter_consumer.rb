@@ -103,7 +103,7 @@ end
 # # #title_array = ['GR504898', 'CYM200', 'LA353080', 'DT502816', 'WK500527', 'ST500377', 'K789138', 'DT506189', 'BD161881']
 # # #title_array = ['BK507447','BK507506','BK507505','BK507580','BK507577','DT160760','BK507821','BK507857','BK507861','BK507906','BK507960','DT500388','BK508132','BK508389','BL50434']
 # # title_array = ['BK507906', 'DT160760']
-# title_array = ['ST500377']
+# title_array = ['BK500521']
 # mec = MintEmitterConsumer.new
 # title_array.each do |title|
 #   begin
@@ -116,3 +116,5 @@ end
 #     puts e
 #   end
 # end
+
+
