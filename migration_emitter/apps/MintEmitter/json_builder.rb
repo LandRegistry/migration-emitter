@@ -16,7 +16,7 @@ class JSONBuilder
       json.class_of_title         model['class'] if model['class']
       json.edition_date           model['edition_date'] if model['edition_date']
       json.last_application       model['last_app_timestamp'] if model['last_app_timestamp']
-      json.office                 model['office'] if model['office']
+      json.office                 model['dlr'] if model['dlr']
       json.districts              model['districts'] if model ['districts']
       json.proprietorship         entry_list['proprietorship']
       json.property_description   entry_list['property_description']
