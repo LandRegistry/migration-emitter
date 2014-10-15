@@ -147,25 +147,38 @@ class DataExtractor
       entry['infills'].each do |infill|
         type = infill['type'].present? ? infill['type'].downcase : 'miscellaneous'
 
-        case type
-          when 'charge proprietor'
-            if fields['proprietors'].nil?
-              fields['proprietors'] = []
-            end
-            fields['proprietors'].push( get_proprietor_fields( entry ) )
-          when 'proprietor'
-            if fields['proprietors'].nil?
-              fields['proprietors'] = []
-            end
-            fields['proprietors'] = get_proprietor_fields( entry )
-          when 'address'
-            fields['addresses'] = populate_address( infill['address'] )
-          else
-            if fields[type].nil?
-              fields[type] = []
-            end
-            text = infill['text'].present? ? infill['text'] : ''
-            fields[type].push( text )
+        if infill['date'].present?
+          if fields['date'].nil?
+            fields['date'] = []
+          end
+          fields['date'].push( infill['date'] )
+        else
+          case type
+            when 'price'
+              if fields['amount'].nil?
+                fields['amount'] = []
+              end
+              text = infill['text'].present? ? infill['text'] : ''
+              fields['amount'].push( text )
+            when 'charge proprietor'
+              if fields['proprietors'].nil?
+                fields['proprietors'] = []
+              end
+              fields['proprietors'].push( get_proprietor_fields( entry ) )
+            when 'proprietor'
+              if fields['proprietors'].nil?
+                fields['proprietors'] = []
+              end
+              fields['proprietors'] = get_proprietor_fields( entry )
+            when 'address'
+              fields['addresses'] = populate_address( infill['address'] )
+            else
+              if fields[type].nil?
+                fields[type] = []
+              end
+              text = infill['text'].present? ? infill['text'] : ''
+              fields[type].push( text )
+          end
         end
       end
     end
