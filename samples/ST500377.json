@@ -1,1 +1,598 @@
-{"title_number":"ST500377","extent":{"type":"Feature","properties":{"TSLID":1.0,"TSLFgnKey":0.0,"TSLType":8.0},"geometry":{"type":"Polygon","coordinates":[[[334531.5,161997.45],[334537.9,162000.0],[334554.63,162006.15],[334557.15,162000.0],[334557.93,161998.32],[334552.02,161996.13],[334542.85,161992.75],[334542.3,161992.45],[334531.2,161988.4],[334521.63,161984.79],[334519.97,161989.09],[334518.6,161992.65],[334530.27,161996.99],[334531.5,161997.45]]]},"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::27700"}}},"tenure":"Freehold","class_of_title":"Absolute","edition_date":"2014-08-05","last_application":"2014-08-05T13:13:39+01:00","office":"Plymouth Office","districts":["NORTH SOMERSET"],"proprietorship":{"deeds":[],"notes":[],"full_text":"PROPRIETOR: %BOB OVER% of 27 Baytree Road, *Weston-super-Mare* SO3 4NE.","entry_date":"2014-08-05","role_code":"RPRO","status":"Current","lang_code":"ENG","sub_register":"B","template":"PROPRIETOR: *RP*","template_code":"","template_version":"","fields":{"proprietors":[{"addresses":[{"full_address":"27 Baytree Road, Weston-super-Mare SO3 4NE","house_no":"27","street_name":"Baytree Road","town":"Weston-super-Mare","postal_county":"","region_name":"","country":"","postcode":"SO3 4NE","local_name":"","dx_number":"","leading_information":"","sub_building_description":"","trailing_information":"","sub_building_number":"","house_alpha":"","plot_no":"","secondary_house_alpha":"","plot_code":"","secondary_house_number":"0","email_address":"","address_type":"U","dx_exchange_name":"","house_description":""}],"name":{"title":"","decoration":"","first_name":"Bob","last_name":"Over","non_private_individual_name":"","full_name":"Bob Over","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"A","charity_name":"","local_authority_area":"","company_location":"","alias_names":[]}}]}},"property_description":{"deeds":[],"notes":[],"full_text":"\u003cCENTRE\u003eNORTH SOMERSET\u003c/CENTRE\u003e\r\rThe Freehold land shown edged with red on the plan of the above title filed at the Registry and being 27 Baytree Road, Weston-super-Mare (SO3 4NE).","entry_date":"2014-02-28","role_code":"RDES","status":"Current","lang_code":"ENG","sub_register":"A","template":"The Freehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*","template_code":"","template_version":"","fields":{"addresses":{"full_address":"27 Baytree Road, Weston-super-Mare (SO3 4NE)","house_no":"27","street_name":"Baytree Road","town":"Weston-super-Mare","postal_county":"","region_name":"","country":"","postcode":"SO3 4NE","local_name":"","dx_number":"","leading_information":"","sub_building_description":"","trailing_information":"","sub_building_number":"","house_alpha":"","plot_no":"","secondary_house_alpha":"","plot_code":"","secondary_house_number":"","email_address":"","address_type":"","dx_exchange_name":"","house_description":""}}},"price_paid":{"deeds":[],"notes":[],"full_text":"The value as at 1 August 2014 was stated to be between £100,001 and £200,000.","entry_date":"2014-08-05","role_code":"RPPD","status":"Current","lang_code":"ENG","sub_register":"B","template":"The value as at *DA* was stated to be between £100,001 and £200,000.","template_code":"BK605","template_version":2,"fields":{"date":["2014-08-01"]}},"provisions":[],"easements":[{"deeds":[{"type":"Conveyance","date":"2014-02-01","parties":[[{"title":"","decoration":"","first_name":"","last_name":"Bishop","non_private_individual_name":"","full_name":"Paul Bishop","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}],[{"title":"","decoration":"","first_name":"","last_name":"Smith","non_private_individual_name":"","full_name":"James Smith","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}]],"rentcharge_amount":"","payment_detail":"","lease_term":""}],"notes":[],"full_text":"The land has the benefit of the rights granted by but is subject to the rights reserved by the Conveyance dated 1 February 2014 referred to in the Charges Register.","entry_date":"2014-02-28","role_code":"DAEA","status":"Current","lang_code":"ENG","sub_register":"A","template":"The land *E\u003c\u003eE* has the benefit of the rights granted by but is subject to the rights reserved by the *DT**DE* dated *DD* referred to in the Charges Register.","template_code":"AE010","template_version":1,"fields":{"extent":["",""]}}],"restrictive_covenants":[{"deeds":[{"type":"Conveyance","date":"2014-02-01","parties":[[{"title":"","decoration":"","first_name":"","last_name":"Bishop","non_private_individual_name":"","full_name":"Paul Bishop","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}],[{"title":"","decoration":"","first_name":"","last_name":"Smith","non_private_individual_name":"","full_name":"James Smith","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}]],"rentcharge_amount":"","payment_detail":"","lease_term":""}],"notes":[{"text":"Copy filed","documents_referred":"I"}],"full_text":"A Conveyance dated 1 February 2014 made between (1) Paul Bishop (Transferor) and (2) James Smith (Transferee) contains restrictive covenants.\r\r¬NOTE: Copy filed.","entry_date":"2014-02-28","role_code":"DCOV","status":"Current","lang_code":"ENG","sub_register":"C","template":"A *DT**DE* dated *DD* made between *DP* contains restrictive covenants.\r\r*N\u003c¬NOTE: Copy filed\u003eN*.","template_code":"CR724","template_version":2,"fields":{"extent":[""]}}],"restrictions":[{"deeds":[],"notes":[],"full_text":"RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.","entry_date":"2014-03-24","role_code":"OJPR","status":"Current","lang_code":"ENG","sub_register":"B","template":"RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.","template_code":"BX900","template_version":1,"fields":{}},{"deeds":[],"notes":[],"full_text":"RESTRICTION: No disposition of the registered estate by the proprietor of the registered estate is to be registered without a written consent signed by the proprietor for the time being of the Charge dated 13 January 2014 in favour of National Westminster Bank PLC referred to in the Charges Register.","entry_date":"2014-03-24","role_code":"CBCR","status":"Current","lang_code":"ENG","sub_register":"B","template":"RESTRICTION: No disposition of the registered estate by the proprietor of the registered estate is to be registered without a written consent signed by the proprietor for the time being of the Charge dated *CD* in favour of *CP* referred to in the Charges Register.","template_code":"BX102","template_version":1,"fields":{"date":["2014-01-13"],"miscellaneous":["National Westminster Bank PLC"]}}],"bankruptcy":[],"charges":[{"deeds":[],"notes":[],"full_text":"REGISTERED CHARGE dated 13 January 2014.","entry_date":"2014-03-24","role_code":"CCHA","status":"Current","lang_code":"ENG","sub_register":"C","template":"REGISTERED CHARGE dated *CD*.","template_code":"CD100","template_version":1,"fields":{"date":["2014-01-13"]}},{"deeds":[],"notes":[],"full_text":"Proprietor: #NATIONAL WESTMINSTER BANK PLC# (Co. Regn. No. 929027) of Credit Documentation, P.O. Box 339, Manchester M60 2AH.","entry_date":"2014-03-24","role_code":"CCHR","status":"Current","lang_code":"ENG","sub_register":"C","template":"Proprietor: #NATIONAL WESTMINSTER BANK PLC# (Co. Regn. No. 929027) of Credit Documentation, P.O. Box 339, Manchester M60 2AH.","template_code":"CW187","template_version":1,"fields":{"proprietors":[[{"addresses":[{"full_address":"Credit Documentation, P.O. Box 339, Manchester M60 2AH","house_no":"0","street_name":"","town":"","postal_county":"","region_name":"","country":"","postcode":"","local_name":"","dx_number":"","leading_information":"","sub_building_description":"","trailing_information":"","sub_building_number":"","house_alpha":"","plot_no":"","secondary_house_alpha":"","plot_code":"","secondary_house_number":"0","email_address":"","address_type":"U","dx_exchange_name":"","house_description":""}],"name":{"title":"","decoration":"","first_name":"","last_name":"","non_private_individual_name":"National Westminster Bank PLC","full_name":"National Westminster Bank PLC","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","company_location":"","alias_names":[]}}]]}}],"d_schedule":[],"e_schedule":[],"f_schedule":[],"l_schedule":[],"m_schedule":[],"p_schedule":[],"q_schedule":[],"r_schedule":[],"t_schedule":[],"w_schedule":[],"x_schedule":[],"y_schedule":[],"z_schedule":[],"other":[{"deeds":[],"notes":[],"full_text":"The Transfer to the proprietor contains a covenant to observe and perform the covenants referred to in the Charges Register and of indemnity in respect thereof.","entry_date":"2014-03-24","role_code":"OPEC","status":"Current","lang_code":"ENG","sub_register":"B","template":"The Transfer to the proprietor contains a covenant to observe and perform the covenants referred to in the Charges Register and of indemnity in respect thereof.","template_code":"BP253","template_version":1,"fields":{}}]}
+{
+   "title_number":"ST500377",
+   "extent":{
+      "type":"Feature",
+      "properties":{
+         "TSLID":1.0,
+         "TSLFgnKey":0.0,
+         "TSLType":8.0
+      },
+      "geometry":{
+         "type":"Polygon",
+         "coordinates":[
+            [
+               [
+                  334531.5,
+                  161997.45
+               ],
+               [
+                  334537.9,
+                  162000.0
+               ],
+               [
+                  334554.63,
+                  162006.15
+               ],
+               [
+                  334557.15,
+                  162000.0
+               ],
+               [
+                  334557.93,
+                  161998.32
+               ],
+               [
+                  334552.02,
+                  161996.13
+               ],
+               [
+                  334542.85,
+                  161992.75
+               ],
+               [
+                  334542.3,
+                  161992.45
+               ],
+               [
+                  334531.2,
+                  161988.4
+               ],
+               [
+                  334521.63,
+                  161984.79
+               ],
+               [
+                  334519.97,
+                  161989.09
+               ],
+               [
+                  334518.6,
+                  161992.65
+               ],
+               [
+                  334530.27,
+                  161996.99
+               ],
+               [
+                  334531.5,
+                  161997.45
+               ]
+            ]
+         ]
+      },
+      "crs":{
+         "type":"name",
+         "properties":{
+            "name":"urn:ogc:def:crs:EPSG::27700"
+         }
+      }
+   },
+   "tenure":"Freehold",
+   "class_of_title":"Absolute",
+   "edition_date":"2014-08-05",
+   "last_application":"2014-08-05T13:13:39+01:00",
+   "office":"Plymouth Office",
+   "districts":[
+      "NORTH SOMERSET"
+   ],
+   "proprietorship":{
+      "deeds":[
+
+      ],
+      "notes":[
+
+      ],
+      "full_text":"PROPRIETOR: %BOB OVER% of 27 Baytree Road, *Weston-super-Mare* SO3 4NE.",
+      "entry_date":"2014-08-05",
+      "role_code":"RPRO",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"B",
+      "template":"PROPRIETOR: *RP*",
+      "template_code":"",
+      "template_version":"",
+      "fields":{
+         "proprietors":[
+            {
+               "addresses":[
+                  {
+                     "full_address":"27 Baytree Road, Weston-super-Mare SO3 4NE",
+                     "house_no":"27",
+                     "street_name":"Baytree Road",
+                     "town":"Weston-super-Mare",
+                     "postal_county":"",
+                     "region_name":"",
+                     "country":"",
+                     "postcode":"SO3 4NE",
+                     "local_name":"",
+                     "dx_number":"",
+                     "leading_information":"",
+                     "sub_building_description":"",
+                     "trailing_information":"",
+                     "sub_building_number":"",
+                     "house_alpha":"",
+                     "plot_no":"",
+                     "secondary_house_alpha":"",
+                     "plot_code":"",
+                     "secondary_house_number":"0",
+                     "email_address":"",
+                     "address_type":"U",
+                     "dx_exchange_name":"",
+                     "house_description":""
+                  }
+               ],
+               "name":{
+                  "title":"",
+                  "decoration":"",
+                  "first_name":"Bob",
+                  "last_name":"Over",
+                  "non_private_individual_name":"",
+                  "full_name":"Bob Over",
+                  "country_incorporation":"",
+                  "company_registration_number":"",
+                  "name_information":"",
+                  "occupation":"",
+                  "name_supplementary":"",
+                  "trading_name":"",
+                  "trust_type":"",
+                  "name_category":"A",
+                  "charity_name":"",
+                  "local_authority_area":"",
+                  "company_location":"",
+                  "alias_names":[
+
+                  ]
+               }
+            }
+         ]
+      }
+   },
+   "property_description":{
+      "deeds":[
+
+      ],
+      "notes":[
+
+      ],
+      "full_text":"\u003cCENTRE\u003eNORTH SOMERSET\u003c/CENTRE\u003e\r\rThe Freehold land shown edged with red on the plan of the above title filed at the Registry and being 27 Baytree Road, Weston-super-Mare (SO3 4NE).",
+      "entry_date":"2014-02-28",
+      "role_code":"RDES",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"A",
+      "template":"The Freehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*",
+      "template_code":"",
+      "template_version":"",
+      "fields":{
+         "addresses":{
+            "full_address":"27 Baytree Road, Weston-super-Mare (SO3 4NE)",
+            "house_no":"27",
+            "street_name":"Baytree Road",
+            "town":"Weston-super-Mare",
+            "postal_county":"",
+            "region_name":"",
+            "country":"",
+            "postcode":"SO3 4NE",
+            "local_name":"",
+            "dx_number":"",
+            "leading_information":"",
+            "sub_building_description":"",
+            "trailing_information":"",
+            "sub_building_number":"",
+            "house_alpha":"",
+            "plot_no":"",
+            "secondary_house_alpha":"",
+            "plot_code":"",
+            "secondary_house_number":"",
+            "email_address":"",
+            "address_type":"",
+            "dx_exchange_name":"",
+            "house_description":""
+         }
+      }
+   },
+   "price_paid":{
+      "deeds":[
+
+      ],
+      "notes":[
+
+      ],
+      "full_text":"The value as at 1 August 2014 was stated to be between &pound;100,001 and &pound;200,000.",
+      "entry_date":"2014-08-05",
+      "role_code":"RPPD",
+      "status":"Current",
+      "lang_code":"ENG",
+      "sub_register":"B",
+      "template":"The value as at *DA* was stated to be between &pound;100,001 and &pound;200,000.",
+      "template_code":"BK605",
+      "template_version":2,
+      "fields":{
+         "date":[
+            "2014-08-01"
+         ]
+      }
+   },
+   "provisions":[
+
+   ],
+   "easements":[
+      {
+         "deeds":[
+            {
+               "type":"Conveyance",
+               "date":"2014-02-01",
+               "parties":[
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Bishop",
+                        "non_private_individual_name":"",
+                        "full_name":"Paul Bishop",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ],
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Smith",
+                        "non_private_individual_name":"",
+                        "full_name":"James Smith",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ]
+               ],
+               "rentcharge_amount":"",
+               "payment_detail":"",
+               "lease_term":""
+            }
+         ],
+         "notes":[
+
+         ],
+         "full_text":"The land has the benefit of the rights granted by but is subject to the rights reserved by the Conveyance dated 1 February 2014 referred to in the Charges Register.",
+         "entry_date":"2014-02-28",
+         "role_code":"DAEA",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"A",
+         "template":"The land *E\u003c\u003eE* has the benefit of the rights granted by but is subject to the rights reserved by the *DT**DE* dated *DD* referred to in the Charges Register.",
+         "template_code":"AE010",
+         "template_version":1,
+         "fields":{
+            "extent":[
+               "",
+               ""
+            ]
+         }
+      }
+   ],
+   "restrictive_covenants":[
+      {
+         "deeds":[
+            {
+               "type":"Conveyance",
+               "date":"2014-02-01",
+               "parties":[
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Bishop",
+                        "non_private_individual_name":"",
+                        "full_name":"Paul Bishop",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ],
+                  [
+                     {
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"Smith",
+                        "non_private_individual_name":"",
+                        "full_name":"James Smith",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  ]
+               ],
+               "rentcharge_amount":"",
+               "payment_detail":"",
+               "lease_term":""
+            }
+         ],
+         "notes":[
+            {
+               "text":"Copy filed",
+               "documents_referred":"I"
+            }
+         ],
+         "full_text":"A Conveyance dated 1 February 2014 made between (1) Paul Bishop (Transferor) and (2) James Smith (Transferee) contains restrictive covenants.\r\r&not;NOTE: Copy filed.",
+         "entry_date":"2014-02-28",
+         "role_code":"DCOV",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"A *DT**DE* dated *DD* made between *DP* contains restrictive covenants.\r\r*N\u003c&not;NOTE: Copy filed\u003eN*.",
+         "template_code":"CR724",
+         "template_version":2,
+         "fields":{
+            "extent":[
+               ""
+            ]
+         }
+      }
+   ],
+   "restrictions":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.",
+         "entry_date":"2014-03-24",
+         "role_code":"OJPR",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"B",
+         "template":"RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.",
+         "template_code":"BX900",
+         "template_version":1,
+         "fields":{
+
+         }
+      },
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"RESTRICTION: No disposition of the registered estate by the proprietor of the registered estate is to be registered without a written consent signed by the proprietor for the time being of the Charge dated 13 January 2014 in favour of National Westminster Bank PLC referred to in the Charges Register.",
+         "entry_date":"2014-03-24",
+         "role_code":"CBCR",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"B",
+         "template":"RESTRICTION: No disposition of the registered estate by the proprietor of the registered estate is to be registered without a written consent signed by the proprietor for the time being of the Charge dated *CD* in favour of *CP* referred to in the Charges Register.",
+         "template_code":"BX102",
+         "template_version":1,
+         "fields":{
+            "date":[
+               "2014-01-13"
+            ],
+            "miscellaneous":[
+               "National Westminster Bank PLC"
+            ]
+         }
+      }
+   ],
+   "bankruptcy":[
+
+   ],
+   "charges":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"REGISTERED CHARGE dated 13 January 2014.",
+         "entry_date":"2014-03-24",
+         "role_code":"CCHA",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"REGISTERED CHARGE dated *CD*.",
+         "template_code":"CD100",
+         "template_version":1,
+         "fields":{
+            "date":[
+               "2014-01-13"
+            ]
+         }
+      },
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"Proprietor: #NATIONAL WESTMINSTER BANK PLC# (Co. Regn. No. 929027) of Credit Documentation, P.O. Box 339, Manchester M60 2AH.",
+         "entry_date":"2014-03-24",
+         "role_code":"CCHR",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"C",
+         "template":"Proprietor: #NATIONAL WESTMINSTER BANK PLC# (Co. Regn. No. 929027) of Credit Documentation, P.O. Box 339, Manchester M60 2AH.",
+         "template_code":"CW187",
+         "template_version":1,
+         "fields":{
+            "proprietors":[
+               [
+                  {
+                     "addresses":[
+                        {
+                           "full_address":"Credit Documentation, P.O. Box 339, Manchester M60 2AH",
+                           "house_no":"0",
+                           "street_name":"",
+                           "town":"",
+                           "postal_county":"",
+                           "region_name":"",
+                           "country":"",
+                           "postcode":"",
+                           "local_name":"",
+                           "dx_number":"",
+                           "leading_information":"",
+                           "sub_building_description":"",
+                           "trailing_information":"",
+                           "sub_building_number":"",
+                           "house_alpha":"",
+                           "plot_no":"",
+                           "secondary_house_alpha":"",
+                           "plot_code":"",
+                           "secondary_house_number":"0",
+                           "email_address":"",
+                           "address_type":"U",
+                           "dx_exchange_name":"",
+                           "house_description":""
+                        }
+                     ],
+                     "name":{
+                        "title":"",
+                        "decoration":"",
+                        "first_name":"",
+                        "last_name":"",
+                        "non_private_individual_name":"National Westminster Bank PLC",
+                        "full_name":"National Westminster Bank PLC",
+                        "country_incorporation":"",
+                        "company_registration_number":"",
+                        "name_information":"",
+                        "occupation":"",
+                        "name_supplementary":"",
+                        "trading_name":"",
+                        "trust_type":"",
+                        "name_category":"",
+                        "charity_name":"",
+                        "local_authority_area":"",
+                        "company_location":"",
+                        "alias_names":[
+
+                        ]
+                     }
+                  }
+               ]
+            ]
+         }
+      }
+   ],
+   "d_schedule":[
+
+   ],
+   "e_schedule":[
+
+   ],
+   "f_schedule":[
+
+   ],
+   "l_schedule":[
+
+   ],
+   "m_schedule":[
+
+   ],
+   "p_schedule":[
+
+   ],
+   "q_schedule":[
+
+   ],
+   "r_schedule":[
+
+   ],
+   "t_schedule":[
+
+   ],
+   "w_schedule":[
+
+   ],
+   "x_schedule":[
+
+   ],
+   "y_schedule":[
+
+   ],
+   "z_schedule":[
+
+   ],
+   "other":[
+      {
+         "deeds":[
+
+         ],
+         "notes":[
+
+         ],
+         "full_text":"The Transfer to the proprietor contains a covenant to observe and perform the covenants referred to in the Charges Register and of indemnity in respect thereof.",
+         "entry_date":"2014-03-24",
+         "role_code":"OPEC",
+         "status":"Current",
+         "lang_code":"ENG",
+         "sub_register":"B",
+         "template":"The Transfer to the proprietor contains a covenant to observe and perform the covenants referred to in the Charges Register and of indemnity in respect thereof.",
+         "template_code":"BP253",
+         "template_version":1,
+         "fields":{
+
+         }
+      }
+   ]
+}
