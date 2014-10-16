@@ -174,7 +174,7 @@
       "template_code":"",
       "template_version":"",
       "fields":{
-         "addresses":{
+         "addresses":[{
             "full_address":"27 Baytree Road, Weston-super-Mare (SO3 4NE)",
             "house_no":"27",
             "street_name":"Baytree Road",
@@ -198,7 +198,7 @@
             "address_type":"",
             "dx_exchange_name":"",
             "house_description":""
-         }
+         }]
       }
    },
    "price_paid":{
