@@ -1,1 +1,497 @@
-{"title_number":"DT506189","extent":{"type":"Feature","properties":{"TSLID":1.0,"TSLFgnKey":0.0,"TSLType":8.0},"geometry":{"type":"Polygon","coordinates":[[[432935.46,95250.41],[432911.97,95275.47],[432912.12,95275.56],[432913.09,95276.6],[432913.87,95277.81],[432914.05,95278.31],[432920.04,95276.98],[432926.76,95275.34],[432928.54,95274.92],[432944.99,95256.99],[432935.46,95250.41]]]},"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::27700"}}},"tenure":"Freehold","class_of_title":"Absolute","edition_date":"2014-01-23","last_application":"2014-01-23T10:25:16+00:00","office":"Weymouth Office","districts":["DORSET : WEYMOUTH AND PORTLAND"],"proprietorship":{"deeds":[],"notes":[],"full_text":"PROPRIETOR: %DEREK DONKEY% of The Old Stables, Market Street, *Worcester* WR6 6EE.","entry_date":"2014-01-23","role_code":"RPRO","status":"Current","lang_code":"ENG","sub_register":"B","template":"PROPRIETOR: *RP*","template_code":"","template_version":"","fields":{"proprietors":[{"addresses":[{"full_address":"The Old Stables, Market Street, Worcester WR6 6EE","house_no":"0","street_name":"Market Street","town":"Worcester","postal_county":"","region_name":"","country":"","postcode":"WR6 6EE","local_name":"","dx_number":"","leading_information":"","sub_building_description":"","trailing_information":"","sub_building_number":"","house_alpha":"","plot_no":"","secondary_house_alpha":"","plot_code":"","secondary_house_number":"0","email_address":"","address_type":"U","dx_exchange_name":"","house_description":"The Old Stables"}],"name":{"title":"","decoration":"","first_name":"Derek","last_name":"Donkey","non_private_individual_name":"","full_name":"Derek Donkey","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"A","charity_name":"","local_authority_area":"","company_location":"","alias_names":[]}}]}},"property_description":{"deeds":[],"notes":[],"full_text":"\u003cCENTRE\u003eDORSET : WEYMOUTH AND PORTLAND\u003c/CENTRE\u003e\r\rThe Freehold land shown edged with red on the plan of the above title filed at the Registry and being 12 Flushards, Gloucester (GL1 5DH).","entry_date":"2014-01-23","role_code":"RDES","status":"Current","lang_code":"ENG","sub_register":"A","template":"The Freehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*","template_code":"","template_version":"","fields":{"addresses":{"full_address":"12 Flushards, Gloucester (GL1 5DH)","house_no":"12","street_name":"Flushards","town":"Gloucester","postal_county":"Dorset","region_name":"","country":"","postcode":"GL1 5DH","local_name":"","dx_number":"","leading_information":"","sub_building_description":"","trailing_information":"","sub_building_number":"","house_alpha":"","plot_no":"","secondary_house_alpha":"","plot_code":"","secondary_house_number":"","email_address":"","address_type":"","dx_exchange_name":"","house_description":""}}},"price_paid":{"deeds":[],"notes":[],"full_text":"The price stated to have been paid on 8 January 2014 was £690,000.","entry_date":"2014-01-23","role_code":"RPPD","status":"Current","lang_code":"ENG","sub_register":"B","template":"The price stated to have been paid on *DA* was *AM*.","template_code":"BK688","template_version":1,"fields":{"date":["2014-01-08"],"amount":["£690,000"]}},"provisions":[{"deeds":[{"type":"Conveyance","date":"2014-01-08","parties":[[{"title":"","decoration":"","first_name":"","last_name":"Hen","non_private_individual_name":"","full_name":"Henrietta Hen","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}],[{"title":"","decoration":"","first_name":"","last_name":"Tractor","non_private_individual_name":"","full_name":"Tony Tractor","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}]],"rentcharge_amount":"","payment_detail":"","lease_term":""}],"notes":[{"text":"Copy filed","documents_referred":"I"}],"full_text":"A Conveyance dated 8 January 2014 made between (1) Henrietta Hen and (2) Tony Tractor contains a provision as to light or air.\r\r¬NOTE: Copy filed.","entry_date":"2014-01-23","role_code":"DPRO","status":"Current","lang_code":"ENG","sub_register":"A","template":"A *DT**DE* dated *DD* made between *DP* contains a provision as to light or air.\r\r*N\u003c¬NOTE: Copy filed\u003eN*.","template_code":"AE330","template_version":1,"fields":{"extent":[""]}}],"easements":[{"deeds":[{"type":"Conveyance","date":"2014-01-08","parties":[[{"title":"","decoration":"","first_name":"","last_name":"Hen","non_private_individual_name":"","full_name":"Henrietta Hen","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}],[{"title":"","decoration":"","first_name":"","last_name":"Tractor","non_private_individual_name":"","full_name":"Tony Tractor","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}]],"rentcharge_amount":"","payment_detail":"","lease_term":""}],"notes":[{"text":"Copy filed","documents_referred":"I"}],"full_text":"By a Conveyance dated 8 January 2014 made between (1) Henrietta Hen and (2) Tony Tractor the land in this title is subject to the rights as therein mentioned.\r   \r¬NOTE: Copy filed.","entry_date":"2014-01-23","role_code":"DCEA","status":"Current","lang_code":"ENG","sub_register":"C","template":"By a *DT**DE* dated *DD* made between *DP* the land in this title is subject to the rights as therein mentioned.\r   \r*N\u003c¬NOTE: Copy filed\u003eN*.","template_code":"CK999","template_version":1,"fields":{"extent":[""]}}],"restrictive_covenants":[{"deeds":[{"type":"Assignment","date":"2013-08-13","parties":[[{"title":"","decoration":"","first_name":"","last_name":"Fox","non_private_individual_name":"","full_name":"Ferdy Fox","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}],[{"title":"","decoration":"","first_name":"","last_name":"Trout","non_private_individual_name":"","full_name":"Timmy Trout","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}]],"rentcharge_amount":"","payment_detail":"","lease_term":""}],"notes":[],"full_text":"A Assignment dated 13 August 2013 made between (1) Ferdy Fox and (2) Timmy Trout contains the following covenants which are expressed to be for the benefit of the land in this title:-\r\rYou can come across the land anytime you want.","entry_date":"2014-01-23","role_code":"DARC","status":"Current","lang_code":"ENG","sub_register":"A","template":"A *DT**DE* dated *DD* made between *DP* contains the following covenants which are expressed to be for the benefit of the land in this title:-*VT*","template_code":"AK732","template_version":1,"fields":{"extent":[""],"verbatim":["You can come across the land anytime you want."]}},{"deeds":[{"type":"Deed","date":"1981-01-18","parties":[[{"title":"","decoration":"","first_name":"","last_name":"Mouse","non_private_individual_name":"","full_name":"Martin Mouse","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}],[{"title":"","decoration":"","first_name":"","last_name":"Cat","non_private_individual_name":"","full_name":"Clarissa Cat","country_incorporation":"","company_registration_number":"","name_information":"","occupation":"","name_supplementary":"","trading_name":"","trust_type":"","name_category":"","charity_name":"","local_authority_area":"","alias_names":[]}]],"rentcharge_amount":"","payment_detail":"","lease_term":""}],"notes":[{"text":"Copy filed.","documents_referred":"I"}],"full_text":"A Deed dated 18 January 1981 made between (1) Martin Mouse and (2) Clarissa Cat contains stipulations.\r\rNOTE 1: No copy of the covenant to observe the said stipulations was supplied on first registration.\r\r¬NOTE 2: Copy filed.","entry_date":"2014-01-23","role_code":"DCOV","status":"Current","lang_code":"ENG","sub_register":"C","template":"A *DT**DE* dated *DD* made between *DP* contains *M\u003cstipulations\u003eM*.\r\rNOTE 1: No copy of the covenant to observe the said *M\u003cstipulations\u003eM* was supplied on first registration.\r\r*N\u003c¬NOTE 2: Copy filed.\u003eN*","template_code":"CR736","template_version":4,"fields":{"extent":[""],"miscellaneous":["stipulations","stipulations"]}}],"restrictions":[],"bankruptcy":[],"charges":[],"d_schedule":[],"e_schedule":[],"f_schedule":[],"l_schedule":[],"m_schedule":[],"p_schedule":[],"q_schedule":[],"r_schedule":[],"t_schedule":[],"w_schedule":[],"x_schedule":[],"y_schedule":[],"z_schedule":[],"other":[{"deeds":[{"type":"Agreement","date":"2014-01-03","parties":[],"rentcharge_amount":"","payment_detail":"","lease_term":""}],"notes":[],"full_text":"The Agreement dated 3 January 2014 referred to above contains a right of re-entry in the following terms:- \r\rYou can't come in.","entry_date":"2014-01-23","role_code":"DRRE","status":"Current","lang_code":"ENG","sub_register":"C","template":"The *DT**DE* dated *DD* referred to above contains a right of re-entry in the following terms:- *VT*","template_code":"CK336","template_version":1,"fields":{"extent":[""],"verbatim":["You can't come in."]}}]}
+{"title_number": "DT506189", "extent": {
+    "type": "Feature",
+    "properties": {
+        "TSLID": 1.0,
+        "TSLFgnKey": 0.0,
+        "TSLType": 8.0
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [432935.46, 95250.41],
+                [432911.97, 95275.47],
+                [432912.12, 95275.56],
+                [432913.09, 95276.6],
+                [432913.87, 95277.81],
+                [432914.05, 95278.31],
+                [432920.04, 95276.98],
+                [432926.76, 95275.34],
+                [432928.54, 95274.92],
+                [432944.99, 95256.99],
+                [432935.46, 95250.41]
+            ]
+        ]
+    },
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::27700"
+        }
+    }
+}, "tenure": "Freehold", "class_of_title": "Absolute", "edition_date": "2014-01-23", "last_application": "2014-01-23T10:25:16+00:00", "office": "Weymouth Office", "districts": ["DORSET : WEYMOUTH AND PORTLAND"], "proprietorship": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "PROPRIETOR: %DEREK DONKEY% of The Old Stables, Market Street, *Worcester* WR6 6EE.",
+    "entry_date": "2014-01-23",
+    "role_code": "RPRO",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "PROPRIETOR: *RP*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "proprietors": [
+            {
+                "addresses": [
+                    {
+                        "full_address": "The Old Stables, Market Street, Worcester WR6 6EE",
+                        "house_no": "0",
+                        "street_name": "Market Street",
+                        "town": "Worcester",
+                        "postal_county": "",
+                        "region_name": "",
+                        "country": "",
+                        "postcode": "WR6 6EE",
+                        "local_name": "",
+                        "dx_number": "",
+                        "leading_information": "",
+                        "sub_building_description": "",
+                        "trailing_information": "",
+                        "sub_building_number": "",
+                        "house_alpha": "",
+                        "plot_no": "",
+                        "secondary_house_alpha": "",
+                        "plot_code": "",
+                        "secondary_house_number": "0",
+                        "email_address": "",
+                        "address_type": "U",
+                        "dx_exchange_name": "",
+                        "house_description": "The Old Stables"
+                    }
+                ],
+                "name": {
+                    "title": "",
+                    "decoration": "",
+                    "first_name": "Derek",
+                    "last_name": "Donkey",
+                    "non_private_individual_name": "",
+                    "full_name": "Derek Donkey",
+                    "country_incorporation": "",
+                    "company_registration_number": "",
+                    "name_information": "",
+                    "occupation": "",
+                    "name_supplementary": "",
+                    "trading_name": "",
+                    "trust_type": "",
+                    "name_category": "A",
+                    "charity_name": "",
+                    "local_authority_area": "",
+                    "company_location": "",
+                    "alias_names": []
+                }
+            }
+        ]
+    }
+}, "property_description": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "\u003cCENTRE\u003eDORSET : WEYMOUTH AND PORTLAND\u003c/CENTRE\u003e\r\rThe Freehold land shown edged with red on the plan of the above title filed at the Registry and being 12 Flushards, Gloucester (GL1 5DH).",
+    "entry_date": "2014-01-23",
+    "role_code": "RDES",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "A",
+    "template": "The Freehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "addresses": [
+            {
+                "full_address": "12 Flushards, Gloucester (GL1 5DH)",
+                "house_no": "12",
+                "street_name": "Flushards",
+                "town": "Gloucester",
+                "postal_county": "Dorset",
+                "region_name": "",
+                "country": "",
+                "postcode": "GL1 5DH",
+                "local_name": "",
+                "dx_number": "",
+                "leading_information": "",
+                "sub_building_description": "",
+                "trailing_information": "",
+                "sub_building_number": "",
+                "house_alpha": "",
+                "plot_no": "",
+                "secondary_house_alpha": "",
+                "plot_code": "",
+                "secondary_house_number": "",
+                "email_address": "",
+                "address_type": "",
+                "dx_exchange_name": "",
+                "house_description": ""
+            }
+        ]
+    }
+}, "price_paid": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "The price stated to have been paid on 8 January 2014 was £690,000.",
+    "entry_date": "2014-01-23",
+    "role_code": "RPPD",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "The price stated to have been paid on *DA* was *AM*.",
+    "template_code": "BK688",
+    "template_version": 1,
+    "fields": {
+        "date": ["2014-01-08"],
+        "amount": ["£690,000"]
+    }
+}, "provisions": [
+    {
+        "deeds": [
+            {
+                "type": "Conveyance",
+                "date": "2014-01-08",
+                "parties": [
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Henrietta",
+                            "last_name": "Hen",
+                            "non_private_individual_name": "",
+                            "full_name": "Henrietta Hen",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ],
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Tony",
+                            "last_name": "Tractor",
+                            "non_private_individual_name": "",
+                            "full_name": "Tony Tractor",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ]
+                ],
+                "rentcharge_amount": "",
+                "payment_detail": "",
+                "lease_term": ""
+            }
+        ],
+        "notes": [
+            {
+                "text": "Copy filed",
+                "documents_referred": "I"
+            }
+        ],
+        "full_text": "A Conveyance dated 8 January 2014 made between (1) Henrietta Hen and (2) Tony Tractor contains a provision as to light or air.\r\r¬NOTE: Copy filed.",
+        "entry_date": "2014-01-23",
+        "role_code": "DPRO",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "A",
+        "template": "A *DT**DE* dated *DD* made between *DP* contains a provision as to light or air.\r\r*N\u003c¬NOTE: Copy filed\u003eN*.",
+        "template_code": "AE330",
+        "template_version": 1,
+        "fields": {
+            "extent": [""]
+        }
+    }
+], "easements": [
+    {
+        "deeds": [
+            {
+                "type": "Conveyance",
+                "date": "2014-01-08",
+                "parties": [
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Henrietta",
+                            "last_name": "Hen",
+                            "non_private_individual_name": "",
+                            "full_name": "Henrietta Hen",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ],
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Tony",
+                            "last_name": "Tractor",
+                            "non_private_individual_name": "",
+                            "full_name": "Tony Tractor",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ]
+                ],
+                "rentcharge_amount": "",
+                "payment_detail": "",
+                "lease_term": ""
+            }
+        ],
+        "notes": [
+            {
+                "text": "Copy filed",
+                "documents_referred": "I"
+            }
+        ],
+        "full_text": "By a Conveyance dated 8 January 2014 made between (1) Henrietta Hen and (2) Tony Tractor the land in this title is subject to the rights as therein mentioned.\r   \r¬NOTE: Copy filed.",
+        "entry_date": "2014-01-23",
+        "role_code": "DCEA",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "By a *DT**DE* dated *DD* made between *DP* the land in this title is subject to the rights as therein mentioned.\r   \r*N\u003c¬NOTE: Copy filed\u003eN*.",
+        "template_code": "CK999",
+        "template_version": 1,
+        "fields": {
+            "extent": [""]
+        }
+    }
+], "restrictive_covenants": [
+    {
+        "deeds": [
+            {
+                "type": "Assignment",
+                "date": "2013-08-13",
+                "parties": [
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Ferdy",
+                            "last_name": "Fox",
+                            "non_private_individual_name": "",
+                            "full_name": "Ferdy Fox",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ],
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Timmy",
+                            "last_name": "Trout",
+                            "non_private_individual_name": "",
+                            "full_name": "Timmy Trout",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ]
+                ],
+                "rentcharge_amount": "",
+                "payment_detail": "",
+                "lease_term": ""
+            }
+        ],
+        "notes": [],
+        "full_text": "A Assignment dated 13 August 2013 made between (1) Ferdy Fox and (2) Timmy Trout contains the following covenants which are expressed to be for the benefit of the land in this title:-\r\rYou can come across the land anytime you want.",
+        "entry_date": "2014-01-23",
+        "role_code": "DARC",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "A",
+        "template": "A *DT**DE* dated *DD* made between *DP* contains the following covenants which are expressed to be for the benefit of the land in this title:-*VT*",
+        "template_code": "AK732",
+        "template_version": 1,
+        "fields": {
+            "extent": [""],
+            "verbatim": ["You can come across the land anytime you want."]
+        }
+    },
+    {
+        "deeds": [
+            {
+                "type": "Deed",
+                "date": "1981-01-18",
+                "parties": [
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Martin",
+                            "last_name": "Mouse",
+                            "non_private_individual_name": "",
+                            "full_name": "Martin Mouse",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ],
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Clarissa",
+                            "last_name": "Cat",
+                            "non_private_individual_name": "",
+                            "full_name": "Clarissa Cat",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ]
+                ],
+                "rentcharge_amount": "",
+                "payment_detail": "",
+                "lease_term": ""
+            }
+        ],
+        "notes": [
+            {
+                "text": "Copy filed.",
+                "documents_referred": "I"
+            }
+        ],
+        "full_text": "A Deed dated 18 January 1981 made between (1) Martin Mouse and (2) Clarissa Cat contains stipulations.\r\rNOTE 1: No copy of the covenant to observe the said stipulations was supplied on first registration.\r\r¬NOTE 2: Copy filed.",
+        "entry_date": "2014-01-23",
+        "role_code": "DCOV",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "A *DT**DE* dated *DD* made between *DP* contains *M\u003cstipulations\u003eM*.\r\rNOTE 1: No copy of the covenant to observe the said *M\u003cstipulations\u003eM* was supplied on first registration.\r\r*N\u003c¬NOTE 2: Copy filed.\u003eN*",
+        "template_code": "CR736",
+        "template_version": 4,
+        "fields": {
+            "extent": [""],
+            "miscellaneous": ["stipulations", "stipulations"]
+        }
+    }
+], "restrictions": [],
+    "bankruptcy": [],
+    "charges": [],
+    "d_schedule": [],
+    "e_schedule": [],
+    "f_schedule": [],
+    "l_schedule": [],
+    "m_schedule": [],
+    "p_schedule": [],
+    "q_schedule": [],
+    "r_schedule": [],
+    "t_schedule": [],
+    "w_schedule": [],
+    "x_schedule": [],
+    "y_schedule": [],
+    "z_schedule": [],
+    "other": [
+    {
+        "deeds": [
+            {
+                "type": "Agreement",
+                "date": "2014-01-03",
+                "parties": [],
+                "rentcharge_amount": "",
+                "payment_detail": "",
+                "lease_term": ""
+            }
+        ],
+        "notes": [],
+        "full_text": "The Agreement dated 3 January 2014 referred to above contains a right of re-entry in the following terms:- \r\rYou can't come in.",
+        "entry_date": "2014-01-23",
+        "role_code": "DRRE",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "The *DT**DE* dated *DD* referred to above contains a right of re-entry in the following terms:- *VT*",
+        "template_code": "CK336",
+        "template_version": 1,
+        "fields": {
+            "extent": [""],
+            "verbatim": ["You can't come in."]
+        }
+    }
+]}

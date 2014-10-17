@@ -13,9 +13,9 @@ class EntrySelector
   RESTRICTIONS          = ['ORES', 'CBCR', 'OJPR']
   BANKRUPTCY            = ['OBAN', 'ORED', 'OCRD']
   PRICE_PAID            = ['RPPD']
-  SCHEDULES             = ['DIRC', 'SSCH', 'RFEA', 'RSLP', 'RLLE', 'RMRL', 'PMPS', 'RWDF', 'DMRR', 'RSAR', 'RWRN', 'XSCH', 'RWAP', 'DRTP']
+  SCHEDULES             = ['DIRC', 'SSCH', 'RFEA', 'RSLP', 'RLLE', 'RMRL', 'PMPS', 'RWDF', 'DMRR', 'RSAR', 'RWRN', 'XSCH', 'RWAP', 'DRTP', 'RMRL', 'PMPS']
   PROPRIETORSHIP        = ['RCAU', 'RPRO']
-  PROPERTY_DESCRIPTION  = ['RDES', 'RMRL', 'PMPS']
+  PROPERTY_DESCRIPTION  = ['RDES']
 
   def self.extract_all_entries( model )
     entries_list = initilise_entries_list
@@ -86,9 +86,22 @@ class EntrySelector
 
           when 'RMRL'
             entries_list['m_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
+            schedule_address = entry['schedule']['fields'][0]['text']
+
+            if entries_list['property_description']['fields']['addresses'].nil?
+              entries_list['property_description']['fields']['addresses'] = []
+            end
+            entries_list['property_description']['fields']['addresses'].push( DataExtractor.populate_property_schedule_address(schedule_address) )
 
           when 'PMPS'
             entries_list['p_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
+
+            schedule_address = entry['schedule']['fields'][0]['text']
+
+            if entries_list['property_description']['fields']['addresses'].nil?
+              entries_list['property_description']['fields']['addresses'] = []
+            end
+            entries_list['property_description']['fields']['addresses'].push( DataExtractor.populate_property_schedule_address(schedule_address) )
 
           when 'RWDF'
             entries_list['q_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
