@@ -197,8 +197,6 @@ class ScheduleExtractor
               raise 'party found with forename but no surname for entry ' + entry['entry_id']
             end
           else
-            pp party_name
-            pp entry['entry_id']
             name_text = name_text + separator + party_name['surname']
           end
         end
