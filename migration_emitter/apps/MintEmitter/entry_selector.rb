@@ -95,6 +95,7 @@ class EntrySelector
 
           when 'PMPS'
             entries_list['p_schedule'].push( ScheduleExtractor.extract_schedule_entry( entry )  )
+
             schedule_address = entry['schedule']['fields'][0]['text']
 
             if entries_list['property_description']['fields']['addresses'].nil?

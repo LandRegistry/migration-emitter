@@ -106,7 +106,7 @@ class DataExtractor
   #return hash of name details
   def self.get_name_details ( name )
     json_name = {}
-    pp name
+
     json_name['title']                       = name['title'].present? ? name['title'] : ''
     json_name['decoration']                  = name['decoration'].present? ? name['decoration'] : ''
     json_name['first_name']                  = name['forename'].present? ? name['forename'] : ''
