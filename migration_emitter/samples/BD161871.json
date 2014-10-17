@@ -1,0 +1,193 @@
+{"title_number": "BD161871", "extent": {
+    "type": "Feature",
+    "properties": {
+        "TSLID": 1.0,
+        "TSLFgnKey": 0.0,
+        "TSLType": 8.0
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [508225.88, 221781.09],
+                [508220.47, 221784.46],
+                [508216.4, 221786.99],
+                [508211.82, 221789.84],
+                [508200.75, 221796.74],
+                [508205.62, 221802.23],
+                [508207.56, 221800.58],
+                [508217.63, 221792.66],
+                [508224.31, 221787.24],
+                [508221.95, 221785.55],
+                [508227.38, 221782.11],
+                [508225.88, 221781.09]
+            ]
+        ]
+    },
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::27700"
+        }
+    }
+    },
+    "tenure": "Freehold", "class_of_title": "Absolute", "edition_date": "2014-08-22", "last_application": "2014-08-22T10:50:53+01:00", "office": "Peterborough Office", "districts": ["LUTON"], "proprietorship": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "PROPRIETOR: %DOTTY BROWN% of 23 Kenilworth Road, *Luton* LU1 1DQ.",
+    "entry_date": "2014-08-22",
+    "role_code": "RPRO",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "PROPRIETOR: *RP*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "proprietors": [
+            {
+                "addresses": [
+                    {
+                        "full_address": "23 Kenilworth Road, Luton LU1 1DQ",
+                        "house_no": "23",
+                        "street_name": "Kenilworth Road",
+                        "town": "Luton",
+                        "postal_county": "",
+                        "region_name": "",
+                        "country": "",
+                        "postcode": "LU1 1DQ",
+                        "local_name": "",
+                        "dx_number": "",
+                        "leading_information": "",
+                        "sub_building_description": "",
+                        "trailing_information": "",
+                        "sub_building_number": "",
+                        "house_alpha": "",
+                        "plot_no": "",
+                        "secondary_house_alpha": "",
+                        "plot_code": "",
+                        "secondary_house_number": "0",
+                        "email_address": "",
+                        "address_type": "U",
+                        "dx_exchange_name": "",
+                        "house_description": ""
+                    }
+                ],
+                "name": {
+                    "title": "",
+                    "decoration": "",
+                    "first_name": "Dotty",
+                    "last_name": "Brown",
+                    "non_private_individual_name": "",
+                    "full_name": "Dotty Brown",
+                    "country_incorporation": "",
+                    "company_registration_number": "",
+                    "name_information": "",
+                    "occupation": "",
+                    "name_supplementary": "",
+                    "trading_name": "",
+                    "trust_type": "",
+                    "name_category": "A",
+                    "charity_name": "",
+                    "local_authority_area": "",
+                    "company_location": "",
+                    "alias_names": []
+                }
+            }
+        ]
+    }
+    },
+    "property_description": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "\u003cCENTRE\u003eLUTON\u003c/CENTRE\u003e\r\rThe Freehold land shown edged with red on the plan of the above title filed at the Registry and being 23 Kenilworth Road, Luton (LU1 1DQ).",
+    "entry_date": "2014-08-22",
+    "role_code": "RDES",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "A",
+    "template": "The Freehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "addresses": [
+            {
+                "full_address": "23 Kenilworth Road, Luton (LU1 1DQ)",
+                "house_no": "23",
+                "street_name": "Kenilworth Road",
+                "town": "Luton",
+                "postal_county": "",
+                "region_name": "",
+                "country": "",
+                "postcode": "LU1 1DQ",
+                "local_name": "",
+                "dx_number": "",
+                "leading_information": "",
+                "sub_building_description": "",
+                "trailing_information": "",
+                "sub_building_number": "",
+                "house_alpha": "",
+                "plot_no": "",
+                "secondary_house_alpha": "",
+                "plot_code": "",
+                "secondary_house_number": "",
+                "email_address": "",
+                "address_type": "",
+                "dx_exchange_name": "",
+                "house_description": ""
+            }
+        ]
+    }
+    },
+    "price_paid": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "The price stated to have been paid on 15 August 2014 was £300,000.",
+    "entry_date": "2014-08-22",
+    "role_code": "RPPD",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "The price stated to have been paid on *DA* was *AM*.",
+    "template_code": "BK688",
+    "template_version": 1,
+    "fields": {
+        "date": ["2014-08-15"],
+        "amount": ["£300,000"]
+    }
+    },
+    "provisions": [],
+    "easements": [],
+    "restrictive_covenants": [],
+    "restrictions": [],
+    "bankruptcy": [],
+    "charges": [],
+    "d_schedule": [],
+    "e_schedule": [],
+    "f_schedule": [],
+    "l_schedule": [],
+    "m_schedule": [],
+    "p_schedule": [],
+    "q_schedule": [],
+    "r_schedule": [],
+    "t_schedule": [],
+    "w_schedule": [],
+    "x_schedule": [],
+    "y_schedule": [],
+    "z_schedule": [],
+    "other": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "The land edged and numbered in green on the title plan has been removed from this title and registered under the title number or numbers shown in green on the said plan.",
+        "entry_date": "2014-08-22",
+        "role_code": "RGRE",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "A",
+        "template": "The land edged and numbered in green on the title plan has been removed from this title and registered under the title number or numbers shown in green on the said plan.",
+        "template_code": "AL140",
+        "template_version": 2,
+        "fields": {}
+    }
+]}

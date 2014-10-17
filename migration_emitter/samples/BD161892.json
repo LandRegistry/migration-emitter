@@ -1,0 +1,482 @@
+{"title_number": "BD161892", "extent": {
+    "type": "Feature",
+    "properties": {
+        "TSLID": 1.0,
+        "TSLFgnKey": 0.0,
+        "TSLType": 8.0
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [508203.81, 221746.16],
+                [508201.15, 221747.99],
+                [508198.4, 221749.88],
+                [508193.68, 221753.13],
+                [508186.92, 221757.78],
+                [508186.63, 221757.98],
+                [508180.34, 221762.46],
+                [508179.8, 221762.85],
+                [508176.19, 221765.4],
+                [508174.3, 221766.85],
+                [508176.75, 221769.65],
+                [508179.62, 221772.82],
+                [508191.91, 221764.1],
+                [508195.85, 221761.3],
+                [508196.45, 221762.1],
+                [508208.35, 221753.75],
+                [508208.89, 221753.39],
+                [508204.51, 221747.16],
+                [508203.81, 221746.16]
+            ]
+        ]
+    },
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::27700"
+        }
+    }
+    },
+    "tenure": "Leasehold", "class_of_title": "Absolute", "edition_date": "2014-10-17", "last_application": "2014-10-17T12:03:25+01:00", "office": "Peterborough Office", "districts": ["LUTON"], "proprietorship": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "PROPRIETOR: %TERRY THOMPSON% of 34 High Street, *Exeter* EX1 5HJ and =+DEVON COUNTY COUNCIL+= of Council Chambers, High Street, Exeter EX1 2HJ.",
+    "entry_date": "2014-10-17",
+    "role_code": "RPRO",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "PROPRIETOR: *RP*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "proprietors": [
+            {
+                "addresses": [
+                    {
+                        "full_address": "34 High Street, Exeter EX1 5HJ",
+                        "house_no": "34",
+                        "street_name": "High Street",
+                        "town": "Exeter",
+                        "postal_county": "",
+                        "region_name": "",
+                        "country": "",
+                        "postcode": "EX1 5HJ",
+                        "local_name": "",
+                        "dx_number": "",
+                        "leading_information": "",
+                        "sub_building_description": "",
+                        "trailing_information": "",
+                        "sub_building_number": "",
+                        "house_alpha": "",
+                        "plot_no": "",
+                        "secondary_house_alpha": "",
+                        "plot_code": "",
+                        "secondary_house_number": "0",
+                        "email_address": "",
+                        "address_type": "U",
+                        "dx_exchange_name": "",
+                        "house_description": ""
+                    }
+                ],
+                "name": {
+                    "title": "",
+                    "decoration": "",
+                    "first_name": "Terry",
+                    "last_name": "Thompson",
+                    "non_private_individual_name": "",
+                    "full_name": "Terry Thompson",
+                    "country_incorporation": "",
+                    "company_registration_number": "",
+                    "name_information": "",
+                    "occupation": "",
+                    "name_supplementary": "",
+                    "trading_name": "",
+                    "trust_type": "",
+                    "name_category": "A",
+                    "charity_name": "",
+                    "local_authority_area": "",
+                    "company_location": "",
+                    "alias_names": []
+                }
+            },
+            {
+                "addresses": [
+                    {
+                        "full_address": "Council Chambers, High Street, Exeter EX1 2HJ",
+                        "house_no": "0",
+                        "street_name": "High Street",
+                        "town": "Exeter",
+                        "postal_county": "",
+                        "region_name": "",
+                        "country": "",
+                        "postcode": "EX1 2HJ",
+                        "local_name": "",
+                        "dx_number": "",
+                        "leading_information": "",
+                        "sub_building_description": "",
+                        "trailing_information": "",
+                        "sub_building_number": "",
+                        "house_alpha": "",
+                        "plot_no": "",
+                        "secondary_house_alpha": "",
+                        "plot_code": "",
+                        "secondary_house_number": "0",
+                        "email_address": "",
+                        "address_type": "U",
+                        "dx_exchange_name": "",
+                        "house_description": "Council Chambers"
+                    }
+                ],
+                "name": {
+                    "title": "",
+                    "decoration": "",
+                    "first_name": "",
+                    "last_name": "",
+                    "non_private_individual_name": "Devon County Council",
+                    "full_name": "Devon County Council",
+                    "country_incorporation": "",
+                    "company_registration_number": "",
+                    "name_information": "",
+                    "occupation": "",
+                    "name_supplementary": "",
+                    "trading_name": "",
+                    "trust_type": "",
+                    "name_category": "D",
+                    "charity_name": "",
+                    "local_authority_area": "Devon County Council",
+                    "company_location": "",
+                    "alias_names": []
+                }
+            }
+        ]
+    }
+    },
+    "property_description": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "\u003cCENTRE\u003eLUTON\u003c/CENTRE\u003e\r\rThe Leasehold land shown edged with red on the plan of the above title filed at the Registry and described in the Property Register Schedule hereto.",
+    "entry_date": "2014-10-17",
+    "role_code": "RDES",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "A",
+    "template": "The Leasehold land shown edged with red on the plan of the above title filed at the Registry and described in the Property Register Schedule hereto.",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "addresses": [
+            {
+                "full_address": "Flat 31a",
+                "house_no": "",
+                "street_name": "",
+                "town": "",
+                "postal_county": "",
+                "region_name": "",
+                "country": "",
+                "postcode": "",
+                "local_name": "",
+                "dx_number": "",
+                "leading_information": "",
+                "sub_building_description": "",
+                "trailing_information": "",
+                "sub_building_number": "",
+                "house_alpha": "",
+                "plot_no": "",
+                "secondary_house_alpha": "",
+                "plot_code": "",
+                "secondary_house_number": "",
+                "email_address": "",
+                "address_type": "",
+                "dx_exchange_name": "",
+                "house_description": ""
+            },
+            {
+                "full_address": "garage 2",
+                "house_no": "",
+                "street_name": "",
+                "town": "",
+                "postal_county": "",
+                "region_name": "",
+                "country": "",
+                "postcode": "",
+                "local_name": "",
+                "dx_number": "",
+                "leading_information": "",
+                "sub_building_description": "",
+                "trailing_information": "",
+                "sub_building_number": "",
+                "house_alpha": "",
+                "plot_no": "",
+                "secondary_house_alpha": "",
+                "plot_code": "",
+                "secondary_house_number": "",
+                "email_address": "",
+                "address_type": "",
+                "dx_exchange_name": "",
+                "house_description": ""
+            }
+        ]
+    }
+    },
+    "price_paid": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "The value as at 17 October 2014 was stated to be between £500,001 and £1,000,000.",
+    "entry_date": "2014-10-17",
+    "role_code": "RPPD",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "The value as at *DA* was stated to be between £500,001 and £1,000,000.",
+    "template_code": "BK633",
+    "template_version": 2,
+    "fields": {
+        "date": ["2014-10-17"]
+    }
+    },
+    "provisions": [],
+    "easements": [],
+    "restrictive_covenants": [],
+    "restrictions": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.",
+        "entry_date": "2014-10-17",
+        "role_code": "OJPR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "B",
+        "template": "RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.",
+        "template_code": "BX900",
+        "template_version": 1,
+        "fields": {}
+    }
+    ],
+    "bankruptcy": [],
+    "charges": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "REGISTERED CHARGE dated 1 October 2014 to secure the moneys including the further advances therein mentioned.",
+        "entry_date": "2014-10-17",
+        "role_code": "CCHA",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "REGISTERED CHARGE dated *CD* to secure the moneys including the further advances therein mentioned.",
+        "template_code": "CHFAD",
+        "template_version": 1,
+        "fields": {
+            "date": ["2014-10-01"]
+        }
+    },
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+        "entry_date": "2014-10-17",
+        "role_code": "CCHR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+        "template_code": "CABBY",
+        "template_version": 2,
+        "fields": {
+            "proprietors": [
+                [
+                    {
+                        "addresses": [
+                            {
+                                "full_address": "Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA",
+                                "house_no": "0",
+                                "street_name": "",
+                                "town": "",
+                                "postal_county": "",
+                                "region_name": "",
+                                "country": "",
+                                "postcode": "",
+                                "local_name": "",
+                                "dx_number": "",
+                                "leading_information": "",
+                                "sub_building_description": "",
+                                "trailing_information": "",
+                                "sub_building_number": "",
+                                "house_alpha": "",
+                                "plot_no": "",
+                                "secondary_house_alpha": "",
+                                "plot_code": "",
+                                "secondary_house_number": "0",
+                                "email_address": "",
+                                "address_type": "U",
+                                "dx_exchange_name": "",
+                                "house_description": ""
+                            }
+                        ],
+                        "name": {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "",
+                            "last_name": "",
+                            "non_private_individual_name": "Abbey National PLC",
+                            "full_name": "Abbey National PLC",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+    ],
+    "d_schedule": [],
+    "e_schedule": [],
+    "f_schedule": [],
+    "h_schedule": {
+    "deeds": [
+        {
+            "type": "Lease",
+            "date": "2014-09-23",
+            "parties": [
+                [
+                    {
+                        "title": "",
+                        "decoration": "",
+                        "first_name": "Bob",
+                        "last_name": "Taylor",
+                        "non_private_individual_name": "",
+                        "full_name": "Bob Taylor",
+                        "country_incorporation": "",
+                        "company_registration_number": "",
+                        "name_information": "",
+                        "occupation": "",
+                        "name_supplementary": "",
+                        "trading_name": "",
+                        "trust_type": "",
+                        "name_category": "",
+                        "charity_name": "",
+                        "local_authority_area": "",
+                        "company_location": "",
+                        "alias_names": []
+                    }
+                ],
+                [
+                    {
+                        "title": "",
+                        "decoration": "",
+                        "first_name": "Sam",
+                        "last_name": "Smith",
+                        "non_private_individual_name": "",
+                        "full_name": "Sam Smith",
+                        "country_incorporation": "",
+                        "company_registration_number": "",
+                        "name_information": "",
+                        "occupation": "",
+                        "name_supplementary": "",
+                        "trading_name": "",
+                        "trust_type": "",
+                        "name_category": "",
+                        "charity_name": "",
+                        "local_authority_area": "",
+                        "company_location": "",
+                        "alias_names": []
+                    }
+                ]
+            ],
+            "rentcharge_amount": "",
+            "payment_detail": "",
+            "lease_term": "999 years"
+        }
+    ],
+    "notes": [],
+    "full_text": "Short particulars of the lease(s) (or under-lease(s)) under which the land is held:\rDate        : 23 September 2014                                          \rTerm        : 999 years                                                  \rRent        : £500 per year                                              \rParties     : (1) Bob Taylor (Lessor)                                    \r              (2) Sam Smith (Lessee)",
+    "entry_date": "2014-10-17",
+    "role_code": "RSLP",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "A",
+    "template": "Short particulars of the lease(s) (or under-lease(s)) under which the land is held: Date: *S1* Term: *S2* *S\u003cRent:\u003e3* Parties: *S4*",
+    "template_code": "",
+    "template_version": "",
+    "header": "",
+    "parent_register": "A",
+    "fields": {
+        "date_of_deed": "2014-09-23",
+        "term": "999 years",
+        "rent": "£500 per year",
+        "parties": "(1) Bob Taylor (2) Sam Smith"
+    }
+    },
+    "l_schedule": [],
+    "m_schedule": [],
+    "p_schedule": [
+    {
+        "deeds": [],
+        "notes": [
+            {
+                "text": "Note",
+                "documents_referred": ""
+            }
+        ],
+        "full_text": "Short description: Flat 31a                                              \rPlan reference   : tinted blue                                           \rNOTE: Note",
+        "entry_date": "",
+        "role_code": "PMPS",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "P",
+        "template": "Short description: *S1* Plan reference: *S2*",
+        "template_code": "",
+        "template_version": "",
+        "header": "SCHEDULE OF PROPERTIES",
+        "parent_register": "A",
+        "fields": {
+            "short_description": "Flat 31a",
+            "plan_reference": "tinted blue"
+        }
+    },
+    {
+        "deeds": [],
+        "notes": [
+            {
+                "text": "note",
+                "documents_referred": ""
+            }
+        ],
+        "full_text": "Short description: garage 2                                              \rPlan reference   : tinted pink                                           \rNOTE: note",
+        "entry_date": "",
+        "role_code": "PMPS",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "P",
+        "template": "Short description: *S1* Plan reference: *S2*",
+        "template_code": "",
+        "template_version": "",
+        "header": "SCHEDULE OF PROPERTIES",
+        "parent_register": "A",
+        "fields": {
+            "short_description": "garage 2",
+            "plan_reference": "tinted pink"
+        }
+    }
+    ],
+    "q_schedule": [],
+    "r_schedule": [],
+    "t_schedule": [],
+    "w_schedule": [],
+    "x_schedule": [],
+    "y_schedule": [],
+    "z_schedule": [],
+    "other": []}

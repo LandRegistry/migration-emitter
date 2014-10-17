@@ -1,0 +1,410 @@
+{"title_number": "BD161882", "extent": {
+    "type": "Feature",
+    "properties": {
+        "TSLID": 1.0,
+        "TSLFgnKey": 0.0,
+        "TSLType": 8.0
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [508262.95, 221689.3],
+                [508262.0, 221689.66],
+                [508258.01, 221691.18],
+                [508258.98, 221693.93],
+                [508261.35, 221700.59],
+                [508263.58, 221706.87],
+                [508269.69, 221723.53],
+                [508270.68, 221722.44],
+                [508271.4, 221721.65],
+                [508273.29, 221719.53],
+                [508270.3, 221711.15],
+                [508266.35, 221700.25],
+                [508266.4, 221698.84],
+                [508263.97, 221692.13],
+                [508262.95, 221689.3]
+            ]
+        ]
+    },
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::27700"
+        }
+    }
+    },
+    "tenure": "Freehold", "class_of_title": "Absolute", "edition_date": "2014-08-28", "last_application": "2014-08-28T12:37:13+01:00", "office": "Peterborough Office", "districts": ["LUTON"], "proprietorship": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "PROPRIETOR: %EMMA POPE% of Flower Cottage, Notte Street, *Plymouth* PL5 5DD.",
+    "entry_date": "2014-08-28",
+    "role_code": "RPRO",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "PROPRIETOR: *RP*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "proprietors": [
+            {
+                "addresses": [
+                    {
+                        "full_address": "Flower Cottage, Notte Street, Plymouth PL5 5DD",
+                        "house_no": "0",
+                        "street_name": "Notte Street",
+                        "town": "Plymouth",
+                        "postal_county": "",
+                        "region_name": "",
+                        "country": "",
+                        "postcode": "PL5 5DD",
+                        "local_name": "",
+                        "dx_number": "",
+                        "leading_information": "",
+                        "sub_building_description": "",
+                        "trailing_information": "",
+                        "sub_building_number": "",
+                        "house_alpha": "",
+                        "plot_no": "",
+                        "secondary_house_alpha": "",
+                        "plot_code": "",
+                        "secondary_house_number": "0",
+                        "email_address": "",
+                        "address_type": "U",
+                        "dx_exchange_name": "",
+                        "house_description": "Flower Cottage"
+                    }
+                ],
+                "name": {
+                    "title": "",
+                    "decoration": "",
+                    "first_name": "Emma",
+                    "last_name": "Pope",
+                    "non_private_individual_name": "",
+                    "full_name": "Emma Pope",
+                    "country_incorporation": "",
+                    "company_registration_number": "",
+                    "name_information": "",
+                    "occupation": "",
+                    "name_supplementary": "",
+                    "trading_name": "",
+                    "trust_type": "",
+                    "name_category": "A",
+                    "charity_name": "",
+                    "local_authority_area": "",
+                    "company_location": "",
+                    "alias_names": []
+                }
+            }
+        ]
+    }
+    },
+    "property_description": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "\u003cCENTRE\u003eLUTON\u003c/CENTRE\u003e\r\rThe Freehold land shown edged with red on the plan of the above title filed at the Registry and being 17 Hazelbury Crescent, Luton (LU1 1DZ).",
+    "entry_date": "2014-08-28",
+    "role_code": "RDES",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "A",
+    "template": "The Freehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "addresses": [
+            {
+                "full_address": "17 Hazelbury Crescent, Luton (LU1 1DZ)",
+                "house_no": "17",
+                "street_name": "Hazelbury Crescent",
+                "town": "Luton",
+                "postal_county": "",
+                "region_name": "",
+                "country": "",
+                "postcode": "LU1 1DZ",
+                "local_name": "",
+                "dx_number": "",
+                "leading_information": "",
+                "sub_building_description": "",
+                "trailing_information": "",
+                "sub_building_number": "",
+                "house_alpha": "",
+                "plot_no": "",
+                "secondary_house_alpha": "",
+                "plot_code": "",
+                "secondary_house_number": "",
+                "email_address": "",
+                "address_type": "",
+                "dx_exchange_name": "",
+                "house_description": ""
+            }
+        ]
+    }
+    },
+    "price_paid": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "The value stated as at 30 June 2014 was £225,000.",
+    "entry_date": "2014-08-28",
+    "role_code": "RPPD",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "The value stated as at *DA* was *AM*.",
+    "template_code": "BK483",
+    "template_version": 1,
+    "fields": {
+        "date": ["2014-06-30"],
+        "amount": ["£225,000"]
+    }
+    },
+    "provisions": [],
+    "easements": [
+    {
+        "deeds": [
+            {
+                "type": "Transfer",
+                "date": "2000-02-01",
+                "parties": [
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Lillian",
+                            "last_name": "Stone",
+                            "non_private_individual_name": "",
+                            "full_name": "Lillian Stone",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ],
+                    [
+                        {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "Rita",
+                            "last_name": "Ora",
+                            "non_private_individual_name": "",
+                            "full_name": "Rita Ora",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    ]
+                ],
+                "rentcharge_amount": "",
+                "payment_detail": "",
+                "lease_term": ""
+            }
+        ],
+        "notes": [
+            {
+                "text": "Copy filed",
+                "documents_referred": "I"
+            }
+        ],
+        "full_text": "The land tinted blue is subject to the rights reserved by a Transfer of the land in this title and other land dated 1 February 2000 made between (1) Lillian Stone (Vendor) and (2) Rita Ora (Purchaser).\r\r¬NOTE: Copy filed.",
+        "entry_date": "2014-08-28",
+        "role_code": "DCEA",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "The land *E\u003c\u003eE* is subject to the rights *M\u003c\u003eM* a *DT**DE* dated *DD* made between *DP*.\r\r*N\u003c¬NOTE: Copy filed\u003eN*.",
+        "template_code": "CF664",
+        "template_version": 2,
+        "fields": {
+            "extent": ["tinted blue", "of the land in this title and other land"],
+            "miscellaneous": ["reserved by"]
+        }
+    }
+    ],
+    "restrictive_covenants": [],
+    "restrictions": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "RESTRICTION: No disposition of the registered estate by the proprietor of the registered estate is to be registered without a written consent signed by the proprietor for the time being of the Charge dated 30 June 2014 in favour of Preferred Mortgages Limited referred to in the Charges Register.",
+        "entry_date": "2014-08-28",
+        "role_code": "CBCR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "B",
+        "template": "RESTRICTION: No disposition of the registered estate by the proprietor of the registered estate is to be registered without a written consent signed by the proprietor for the time being of the Charge dated *CD* in favour of *CP* referred to in the Charges Register.",
+        "template_code": "BX102",
+        "template_version": 1,
+        "fields": {
+            "date": ["2014-06-30"],
+            "miscellaneous": ["Preferred Mortgages Limited"]
+        }
+    }
+    ],
+    "bankruptcy": [],
+    "charges": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "REGISTERED CHARGE dated 30 June 2014.",
+        "entry_date": "2014-08-28",
+        "role_code": "CCHA",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "REGISTERED CHARGE dated *CD*.",
+        "template_code": "CD100",
+        "template_version": 1,
+        "fields": {
+            "date": ["2014-06-30"]
+        }
+    },
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "Proprietor: #PREFERRED MORTGAGES LIMITED# (Co. Regn. No. 3137809) of Deeds Admin Team, St. Johns Place, Easton Street, High Wycombe, Bucks HP11 1NL and of {DeedsAdmin@capstonemortgageservices.co.uk{.",
+        "entry_date": "2014-08-28",
+        "role_code": "CCHR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "Proprietor: #PREFERRED MORTGAGES LIMITED# (Co. Regn. No. 3137809) of Deeds Admin Team, St. Johns Place, Easton Street, High Wycombe, Bucks HP11 1NL and of {DeedsAdmin@capstonemortgageservices.co.uk{.",
+        "template_code": "CY816",
+        "template_version": 2,
+        "fields": {
+            "proprietors": [
+                [
+                    {
+                        "addresses": [
+                            {
+                                "full_address": "Deeds Admin Team, St. Johns Place, Easton Street, High Wycombe, Bucks HP11 1NL",
+                                "house_no": "0",
+                                "street_name": "",
+                                "town": "",
+                                "postal_county": "",
+                                "region_name": "",
+                                "country": "",
+                                "postcode": "",
+                                "local_name": "",
+                                "dx_number": "",
+                                "leading_information": "",
+                                "sub_building_description": "",
+                                "trailing_information": "",
+                                "sub_building_number": "",
+                                "house_alpha": "",
+                                "plot_no": "",
+                                "secondary_house_alpha": "",
+                                "plot_code": "",
+                                "secondary_house_number": "0",
+                                "email_address": "",
+                                "address_type": "U",
+                                "dx_exchange_name": "",
+                                "house_description": ""
+                            }
+                        ],
+                        "name": {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "",
+                            "last_name": "",
+                            "non_private_individual_name": "Preferred Mortgages Limited",
+                            "full_name": "Preferred Mortgages Limited",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    },
+                    {
+                        "addresses": [
+                            {
+                                "full_address": "",
+                                "house_no": "0",
+                                "street_name": "",
+                                "town": "",
+                                "postal_county": "",
+                                "region_name": "",
+                                "country": "",
+                                "postcode": "",
+                                "local_name": "",
+                                "dx_number": "",
+                                "leading_information": "",
+                                "sub_building_description": "",
+                                "trailing_information": "",
+                                "sub_building_number": "",
+                                "house_alpha": "",
+                                "plot_no": "",
+                                "secondary_house_alpha": "",
+                                "plot_code": "",
+                                "secondary_house_number": "0",
+                                "email_address": "DeedsAdmin@capstonemortgageservices.co.uk",
+                                "address_type": "E",
+                                "dx_exchange_name": "",
+                                "house_description": ""
+                            }
+                        ],
+                        "name": {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "",
+                            "last_name": "",
+                            "non_private_individual_name": "Preferred Mortgages Limited",
+                            "full_name": "Preferred Mortgages Limited",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+    ],
+    "d_schedule": [],
+    "e_schedule": [],
+    "f_schedule": [],
+    "l_schedule": [],
+    "m_schedule": [],
+    "p_schedule": [],
+    "q_schedule": [],
+    "r_schedule": [],
+    "t_schedule": [],
+    "w_schedule": [],
+    "x_schedule": [],
+    "y_schedule": [],
+    "z_schedule": [],
+    "other": []}

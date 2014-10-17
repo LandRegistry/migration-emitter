@@ -1,0 +1,540 @@
+{"title_number": "BD161873", "extent": {
+    "type": "Feature",
+    "properties": {
+        "TSLID": 1.0,
+        "TSLFgnKey": 0.0,
+        "TSLType": 8.0
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [508224.65, 221742.75],
+                [508222.59, 221744.14],
+                [508215.7, 221748.79],
+                [508212.01, 221751.28],
+                [508208.89, 221753.39],
+                [508208.35, 221753.75],
+                [508196.45, 221762.1],
+                [508195.85, 221761.3],
+                [508191.91, 221764.1],
+                [508179.62, 221772.82],
+                [508182.6, 221776.1],
+                [508185.45, 221779.49],
+                [508188.01, 221777.68],
+                [508196.42, 221771.72],
+                [508216.56, 221757.46],
+                [508228.18, 221749.23],
+                [508226.46, 221746.07],
+                [508225.64, 221744.56],
+                [508224.65, 221742.75]
+            ]
+        ]
+    },
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::27700"
+        }
+    }
+    },
+    "tenure": "Freehold", "class_of_title": "Absolute", "edition_date": "2014-10-17", "last_application": "2014-10-17T11:25:46+01:00", "office": "Peterborough Office", "districts": ["LUTON"], "proprietorship": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "PROPRIETOR: %EDDIE GREEN% and %DOTTY BROWN% of 31 Keniworth Road, *Luton* LU1 1DQ.",
+    "entry_date": "2014-08-22",
+    "role_code": "RPRO",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "PROPRIETOR: *RP*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "proprietors": [
+            {
+                "addresses": [
+                    {
+                        "full_address": "31 Keniworth Road, Luton LU1 1DQ",
+                        "house_no": "31",
+                        "street_name": "Keniworth Road",
+                        "town": "Luton",
+                        "postal_county": "",
+                        "region_name": "",
+                        "country": "",
+                        "postcode": "LU1 1DQ",
+                        "local_name": "",
+                        "dx_number": "",
+                        "leading_information": "",
+                        "sub_building_description": "",
+                        "trailing_information": "",
+                        "sub_building_number": "",
+                        "house_alpha": "",
+                        "plot_no": "",
+                        "secondary_house_alpha": "",
+                        "plot_code": "",
+                        "secondary_house_number": "0",
+                        "email_address": "",
+                        "address_type": "U",
+                        "dx_exchange_name": "",
+                        "house_description": ""
+                    }
+                ],
+                "name": {
+                    "title": "",
+                    "decoration": "",
+                    "first_name": "Eddie",
+                    "last_name": "Green",
+                    "non_private_individual_name": "",
+                    "full_name": "Eddie Green",
+                    "country_incorporation": "",
+                    "company_registration_number": "",
+                    "name_information": "",
+                    "occupation": "",
+                    "name_supplementary": "",
+                    "trading_name": "",
+                    "trust_type": "",
+                    "name_category": "A",
+                    "charity_name": "",
+                    "local_authority_area": "",
+                    "company_location": "",
+                    "alias_names": []
+                }
+            },
+            {
+                "addresses": [
+                    {
+                        "full_address": "31 Keniworth Road, Luton LU1 1DQ",
+                        "house_no": "31",
+                        "street_name": "Keniworth Road",
+                        "town": "Luton",
+                        "postal_county": "",
+                        "region_name": "",
+                        "country": "",
+                        "postcode": "LU1 1DQ",
+                        "local_name": "",
+                        "dx_number": "",
+                        "leading_information": "",
+                        "sub_building_description": "",
+                        "trailing_information": "",
+                        "sub_building_number": "",
+                        "house_alpha": "",
+                        "plot_no": "",
+                        "secondary_house_alpha": "",
+                        "plot_code": "",
+                        "secondary_house_number": "0",
+                        "email_address": "",
+                        "address_type": "U",
+                        "dx_exchange_name": "",
+                        "house_description": ""
+                    }
+                ],
+                "name": {
+                    "title": "",
+                    "decoration": "",
+                    "first_name": "Dotty",
+                    "last_name": "Brown",
+                    "non_private_individual_name": "",
+                    "full_name": "Dotty Brown",
+                    "country_incorporation": "",
+                    "company_registration_number": "",
+                    "name_information": "",
+                    "occupation": "",
+                    "name_supplementary": "",
+                    "trading_name": "",
+                    "trust_type": "",
+                    "name_category": "A",
+                    "charity_name": "",
+                    "local_authority_area": "",
+                    "company_location": "",
+                    "alias_names": []
+                }
+            }
+        ]
+    }
+}, "property_description": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "\u003cCENTRE\u003eLUTON\u003c/CENTRE\u003e\r\rThe Freehold land shown edged with red on the plan of the above title filed at the Registry and being 31 Kenilworth Road, Luton (LU1 1DQ).",
+    "entry_date": "2014-08-22",
+    "role_code": "RDES",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "A",
+    "template": "The Freehold land shown edged with red on the plan of the above title filed at the Registry and being *AD*",
+    "template_code": "",
+    "template_version": "",
+    "fields": {
+        "addresses": [
+            {
+                "full_address": "31 Kenilworth Road, Luton (LU1 1DQ)",
+                "house_no": "31",
+                "street_name": "Kenilworth Road",
+                "town": "Luton",
+                "postal_county": "",
+                "region_name": "",
+                "country": "",
+                "postcode": "LU1 1DQ",
+                "local_name": "",
+                "dx_number": "",
+                "leading_information": "",
+                "sub_building_description": "",
+                "trailing_information": "",
+                "sub_building_number": "",
+                "house_alpha": "",
+                "plot_no": "",
+                "secondary_house_alpha": "",
+                "plot_code": "",
+                "secondary_house_number": "",
+                "email_address": "",
+                "address_type": "",
+                "dx_exchange_name": "",
+                "house_description": ""
+            }
+        ]
+    }
+    },
+    "price_paid": {
+    "deeds": [],
+    "notes": [],
+    "full_text": "The price stated to have been paid on 8 August 2014 was £250,000.",
+    "entry_date": "2014-08-22",
+    "role_code": "RPPD",
+    "status": "Current",
+    "lang_code": "ENG",
+    "sub_register": "B",
+    "template": "The price stated to have been paid on *DA* was *AM*.",
+    "template_code": "BK688",
+    "template_version": 1,
+    "fields": {
+        "date": ["2014-08-08"],
+        "amount": ["£250,000"]
+    }
+    },
+    "provisions": [],
+    "easements": [],
+    "restrictive_covenants": [],
+    "restrictions": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.",
+        "entry_date": "2014-08-22",
+        "role_code": "OJPR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "B",
+        "template": "RESTRICTION: No disposition by a sole proprietor of the registered estate (except a trust corporation) under which capital money arises is to be registered unless authorised by an order of the court.",
+        "template_code": "BX900",
+        "template_version": 1,
+        "fields": {}
+    },
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "RESTRICTION: Except under an order of the registrar no disposition by the proprietor of the land is to be registered without the consent of the proprietor of the Charge dated 8 August 2014 in favour of Abbey National PLC referred to in the Charges Register.",
+        "entry_date": "2014-08-22",
+        "role_code": "CBCR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "B",
+        "template": "RESTRICTION: Except under an order of the registrar no disposition by the proprietor of the land is to be registered without the consent of the proprietor of the Charge dated *CD* in favour of *CP* referred to in the Charges Register.",
+        "template_code": "BX294",
+        "template_version": 1,
+        "fields": {
+            "date": ["2014-08-08"],
+            "miscellaneous": ["Abbey National PLC"]
+        }
+    }
+    ],
+    "bankruptcy": [],
+    "charges": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "REGISTERED CHARGE dated 8 August 2014.",
+        "entry_date": "2014-08-22",
+        "role_code": "CCHA",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "REGISTERED CHARGE dated *CD*.",
+        "template_code": "CD100",
+        "template_version": 1,
+        "fields": {
+            "date": ["2014-08-08"]
+        }
+    },
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+        "entry_date": "2014-08-22",
+        "role_code": "CCHR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+        "template_code": "CABBY",
+        "template_version": 2,
+        "fields": {
+            "proprietors": [
+                [
+                    {
+                        "addresses": [
+                            {
+                                "full_address": "Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA",
+                                "house_no": "0",
+                                "street_name": "",
+                                "town": "",
+                                "postal_county": "",
+                                "region_name": "",
+                                "country": "",
+                                "postcode": "",
+                                "local_name": "",
+                                "dx_number": "",
+                                "leading_information": "",
+                                "sub_building_description": "",
+                                "trailing_information": "",
+                                "sub_building_number": "",
+                                "house_alpha": "",
+                                "plot_no": "",
+                                "secondary_house_alpha": "",
+                                "plot_code": "",
+                                "secondary_house_number": "0",
+                                "email_address": "",
+                                "address_type": "U",
+                                "dx_exchange_name": "",
+                                "house_description": ""
+                            }
+                        ],
+                        "name": {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "",
+                            "last_name": "",
+                            "non_private_individual_name": "Abbey National PLC",
+                            "full_name": "Abbey National PLC",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "REGISTERED CHARGE dated 3 October 2014 to secure the moneys including the further advances therein mentioned.",
+        "entry_date": "2014-10-17",
+        "role_code": "CCHA",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "REGISTERED CHARGE dated *CD* to secure the moneys including the further advances therein mentioned.",
+        "template_code": "CHFAD",
+        "template_version": 1,
+        "fields": {
+            "date": ["2014-10-03"]
+        }
+    },
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+        "entry_date": "2014-10-17",
+        "role_code": "CCHR",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "Proprietor: #ABBEY NATIONAL PLC# (Co. Regn. No. 2294747) of Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA.",
+        "template_code": "CABBY",
+        "template_version": 2,
+        "fields": {
+            "proprietors": [
+                [
+                    {
+                        "addresses": [
+                            {
+                                "full_address": "Deeds Services, 101 Midsummer Boulevard, Milton Keynes MK9 1AA",
+                                "house_no": "0",
+                                "street_name": "",
+                                "town": "",
+                                "postal_county": "",
+                                "region_name": "",
+                                "country": "",
+                                "postcode": "",
+                                "local_name": "",
+                                "dx_number": "",
+                                "leading_information": "",
+                                "sub_building_description": "",
+                                "trailing_information": "",
+                                "sub_building_number": "",
+                                "house_alpha": "",
+                                "plot_no": "",
+                                "secondary_house_alpha": "",
+                                "plot_code": "",
+                                "secondary_house_number": "0",
+                                "email_address": "",
+                                "address_type": "U",
+                                "dx_exchange_name": "",
+                                "house_description": ""
+                            }
+                        ],
+                        "name": {
+                            "title": "",
+                            "decoration": "",
+                            "first_name": "",
+                            "last_name": "",
+                            "non_private_individual_name": "Abbey National PLC",
+                            "full_name": "Abbey National PLC",
+                            "country_incorporation": "",
+                            "company_registration_number": "",
+                            "name_information": "",
+                            "occupation": "",
+                            "name_supplementary": "",
+                            "trading_name": "",
+                            "trust_type": "",
+                            "name_category": "",
+                            "charity_name": "",
+                            "local_authority_area": "",
+                            "company_location": "",
+                            "alias_names": []
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+    ],
+    "d_schedule": [],
+    "e_schedule": [],
+    "f_schedule": [],
+    "l_schedule": [
+    {
+        "deeds": [
+            {
+                "type": "Lease",
+                "date": "2013-07-31",
+                "parties": [],
+                "rentcharge_amount": "",
+                "payment_detail": "",
+                "lease_term": "999 years"
+            }
+        ],
+        "notes": [
+            {
+                "text": "Yes",
+                "documents_referred": ""
+            }
+        ],
+        "full_text": "Registration Date     : 06.09.2014                                       \rPlan Reference        : tinted blue                                      \rProperty Description  : Garage 1                                         \rDate of Lease         : 31.07.2013                                       \rTerm                  : 999 years                                        \rLessee's Title        : BD161872                                         \rNOTE: Yes",
+        "entry_date": "",
+        "role_code": "RLLE",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "L",
+        "template": "*S\u003cRegistration Date:\u003e1* *S\u003cPlan Reference:\u003e2* Property Description: *S3* Date of Lease: *S4* Term: *S5* *S\u003cLessees Title:\u003e6*",
+        "template_code": "",
+        "template_version": "",
+        "header": "SCHEDULE OF NOTICES OF LEASES",
+        "parent_register": "C",
+        "fields": {
+            "registration_date": "2014-09-06",
+            "plan_reference": "tinted blue",
+            "property_description": "Garage 1",
+            "date_of_lease": "2013-07-31",
+            "term": "999 years",
+            "lessees_title": "BD161872"
+        }
+    }
+    ],
+    "m_schedule": [],
+    "p_schedule": [],
+    "q_schedule": [],
+    "r_schedule": [],
+    "t_schedule": [],
+    "w_schedule": [
+    {
+        "deeds": [
+            {
+                "type": "Conveyance",
+                "date": "2013-10-05",
+                "parties": [],
+                "rentcharge_amount": "a peppercorn",
+                "payment_detail": "",
+                "lease_term": ""
+            }
+        ],
+        "notes": [
+            {
+                "text": "Noted",
+                "documents_referred": ""
+            }
+        ],
+        "full_text": "Description of land   : tinted pink                                      \rRentcharge            : a peppercorn                                     \rNature of deed        : Conveyance                                       \rDate of deed          : 5 October 2013                                   \rTitle No.of rentcharge: BD161872                                         \rRegistration date     : 10.10.2014                                       \rNOTE: Noted",
+        "entry_date": "",
+        "role_code": "RWRN",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "W",
+        "template": "Description of land: *S1* Rentcharge: *S2* Nature of deed: *S3* Date of deed: *S4* *S\u003cRemarks:\u003e5* *S\u003cRegistration date:\u003e6*",
+        "template_code": "",
+        "template_version": "",
+        "header": "SCHEDULE OF RENTCHARGES",
+        "parent_register": "C",
+        "fields": {
+            "description_of_land": "tinted pink",
+            "rentcharge": "a peppercorn",
+            "nature_of_deed": "Conveyance",
+            "date_of_deed": "2013-10-05",
+            "remarks": "",
+            "registration_date": "2014-10-10"
+        }
+    }
+], "x_schedule": [],
+    "y_schedule": [],
+    "z_schedule": [],
+    "other": [
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "The parts of the land affected thereby are subject to the specified peppercorn yearly rentcharges created by and to the covenants contained in, the Conveyance particulars of which are set out in the Schedule of Rentcharges hereto.",
+        "entry_date": "2014-10-17",
+        "role_code": "RRNT",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "The parts of the land affected thereby are subject to the specified *O\u003c\u003eO* yearly rentcharges created by and to the covenants contained in, the *M\u003c\u003eM* particulars of which are set out in the Schedule of Rentcharges hereto.",
+        "template_code": "CK808",
+        "template_version": 1,
+        "fields": {
+            "miscellaneous": ["peppercorn", "Conveyance"]
+        }
+    },
+    {
+        "deeds": [],
+        "notes": [],
+        "full_text": "The land is subject to the lease set out in the schedule of leases hereto.",
+        "entry_date": "2014-10-17",
+        "role_code": "RLER",
+        "status": "Current",
+        "lang_code": "ENG",
+        "sub_register": "C",
+        "template": "The land is subject to the lease set out in the schedule of leases hereto.",
+        "template_code": "CH155",
+        "template_version": 1,
+        "fields": {}
+    }
+]}
