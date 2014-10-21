@@ -19,12 +19,12 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 
   #consume the message from the queue and publish if successful
 	def on_message(body)
-		@body = body
-		json_message = process_message(body)
-		post_message(json_message)
+    @body = body
+		hash_message = process_message(body)
+		post_message(hash_message)
 		queue = TorqueBox.fetch('/queues/mint_submit_completed')
     hash = {}
-    hash['title_number'] = JSON.parse(json_message)['title_number']
+    hash['title_number'] = JSON.parse(hash_message)['title_number']
 		hash['submitted_at'] = Time.now.to_s
 		queue.publish hash.to_json
     @logger.info( 'Mint submission complete: ' + hash['title_number'] + " at " + hash['submitted_at'] )
@@ -32,27 +32,24 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 
   #process the hash and convert to json ready to submit
 	def process_message(body)
-    begin
-      body_hash = body
-      title = body_hash['title_number']
-    rescue
-      title = 'N/A'
+    if !body['original_message'].nil?
+      @body = body['original_message']
+      body = @body
+      begin
+        title = body['title_number']
+      rescue
+        title = 'N/A'
+      end
+      @logger.info("Resubmitted Message detected: " + title)
     end
+    if !body.is_a? Hash
+      raise 'Body not Hash'
+    end
+    if body['title_number'].nil?
+      raise 'No title number in Hash'
+    end
+    title = body['title_number']
     @logger.info("Mint submission started: " + title)
-		if !body.is_a? Hash
-			raise 'Body not Hash'
-		end
-		@body = body
-		if !body['original_message'].nil?
-			@body = body['original_message']
-			body = @body
-			if !body.is_a? Hash
-				raise 'Body not Hash'
-			end
-		end
-		if body['title_number'].nil?
-			raise 'No title number in JSON'
-		end
 
     json = JSONBuilder.convert_hash(body)
 
@@ -73,12 +70,11 @@ class MintEmitterConsumer < TorqueBox::Messaging::MessageProcessor
 	def on_error(exception)
 		#log error
     begin
-      body_hash = @body
-      title = body_hash['title_number']
+      title = @body['title_number']
     rescue
       title = 'N/A'
     end
-		@logger.error("Mint Submission failure: " + title + "\n" + exception.to_s + "\n" + exception.backtrace.join("\n") + "\nMessage: " + @body.to_s)
+		@logger.error("Mint Submission failure: " + title + "\n" + exception.to_s + "\n" + exception.backtrace.join("\n"))
 		#create error message from failed message body
 		error_message = {}
 		error_message['original_message'] = @body
@@ -98,7 +94,7 @@ end
 #File.open('AGL29061.json', 'w') {|f| f.puts mec.process_message(model)}
 
 #xxxxxxxxx  --- create new test model and save ---------- xxxxxxxxxxxxx
-require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
+#require_relative '../../../../MigrateRegister/apps/Migrator/migrate_register_consumer.rb'
 # mrc = MigrateRegisterConsumer.new
 # # #title_array = ['GR504898', 'CYM200', 'LA353080', 'DT502816', 'WK500527', 'ST500377', 'K789138', 'DT506189', 'BD161881']
 # title_array = ['BD161892','BD161873','BD161872','BD161871','BD161870','BD161882','BD161881']    #SAMPLE TITLES
