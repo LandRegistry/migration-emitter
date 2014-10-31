@@ -56,10 +56,14 @@ class DataExtractor
       deed['parties'].each do |party|
         party_array = []
         if party['names'].present?
+          new_party = {}
+          new_party['party_role_description'] = party['party_role_description']
+          new_party['names'] = []
           party['names'].each do |name|
             json_name = get_name_details(name)
-            party_array.push(json_name) if json_name.present?
+            new_party['names'].push(json_name) if json_name.present?
           end  #of each party name
+          party_array.push(new_party)
         end  #of  party name present
         parties.push(party_array) if party_array.present?
       end  #of each party
