@@ -264,6 +264,7 @@ class DataExtractor
   def self.populate_address( address )
     json_address = {}
 
+    json_address['auto_uppercase_override']   = address['auto_uppercase_override'].present? ? address['auto_uppercase_override'] : false
     json_address['care_of']                   = address['care_of'].present? ? address['care_of'] : false
     json_address['care_of_name']              = address['care_of_name'].present? ? address['care_of_name'] : ''
     json_address['full_address']              = address['address_string'].present? ? address['address_string'] : ''
