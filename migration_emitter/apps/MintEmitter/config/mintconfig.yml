@@ -5,4 +5,4 @@ test:
   mint_endpoint: http://10.0.2.15:8080/FakeMint/titles/
 
 production:
-  mint_endpoint: http://192.168.39.3:8001/titles/
+  mint_endpoint: http://192.168.39.100:8001/titles/
