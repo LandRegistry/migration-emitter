@@ -1,60 +1,41 @@
 Feature: JSON Tests
 
-  Scenario: Title Details Paths exist
-    When I get the JSON
-    Then the JSON should have "title_number"
-    Then the JSON should have "tenure"
-    Then the JSON should have "class_of_title"
-    Then the JSON should have "edition_date"
-    Then the JSON should have "last_application"
-
-  Scenario: Title Details Path Values exist
-    #DT158094
-    When I get the JSON
-    Then the JSON at "title_number" should be "DT158094"
-    Then the JSON at "tenure" should be "Leasehold"
-    Then the JSON at "class_of_title" should be "Absolute"
-    Then the JSON at "edition_date" should be "2005-12-21"
-    Then the JSON at "last_application" should be "2005-12-21T00:00:01+00:00"
+  Background:
+    Given I get the JSON for title "BK507706"
 
   Scenario: District Path exists
-#(IR) will fail as missing
-    When I get the JSON
     Then the JSON should have "title_number"
     Then the JSON should have "districts"
 
   Scenario: District Path value exist
-  #(IR) will fail as missing
-    When I get the JSON
-    Then the JSON at "title_number" should be "WM786101"
-    Then the JSON at "districts" should be "COVENTRY"
-
-  Scenario: District Path exists
-    When I get the JSON
-    Then the JSON should have "title_number"
-    Then the JSON should have "districts"
-
-  Scenario: District Path value exist
-    When I get the JSON
     Then the JSON at "title_number" should be "BK507706"
     Then the JSON at "districts" should be "READING"
 
   Scenario: Office Path exists
-    When I get the JSON
-    Then the JSON should have "title_number"
+   Then the JSON should have "title_number"
     Then the JSON should have "office"
 
   Scenario: Office Path value exist
-    When I get the JSON
-    Then the JSON at "title_number" should be "WM786101"
+   Then the JSON at "title_number" should be "WM786101"
     Then the JSON at "office" should be "Coventry Office"
 
-  Scenario: Office Path value exist
-    When I get the JSON
+  Scenario: Office Path value exist for Deconstructed Address
     Then the JSON at "title_number" should be "BK507706"
     Then the JSON at "office" should be "Gloucester Office"
 
-    #GEOMETRY EXTENT TESTS TO DO
+  Scenario: Geometry paths exist to complete
+    When I get the JSON
+    Then the JSON should have "title_number"
+    Then the JSON should have "extent/type"
+    Then the JSON should have "extent/crs"
+    Then the JSON should have "extent/crs/type"
+    Then the JSON should have "extent/crs/properties"
+    Then the JSON should have "extent/crs/properties/name"
+    Then the JSON should have "extent/geometry"
+    Then the JSON should have "extent/geometry/type"
+    Then the JSON should have "extent/geometry/coordinates/0"
+    Then the JSON should have "extent/properties"
+# to complete
 
   Scenario: Proprietorship paths exist
     When I get the JSON
@@ -260,3 +241,50 @@ Feature: JSON Tests
     Then the JSON should have "easements/0/notes"
     Then the JSON should have "easements/0/notes/0/text"
     Then the JSON should have "easements/0/notes/0/documents_referred"
+
+  Scenario: Provisions Template paths exist
+  #title number
+    When I get the JSON
+    Then the JSON should have "title_number"
+    Then the JSON should have "provisions/0/template"
+    Then the JSON should have "provisions/0/full_text"
+
+  Scenario: Provisions Fields paths exist
+    Then the JSON should have "provisions/0/fields"
+    Then the JSON should have "provisions/0/fields/extent"
+    Then the JSON should have "provisions/0/fields/verbatim_text"
+
+  Scenario: Provisions Deeds paths exist
+    Then the JSON should have "provisions/0/deeds/0"
+    Then the JSON should have "provisions/0/deeds/0/type"
+    Then the JSON should have "provisions/0/deeds/0/date"
+    Then the JSON should have "provisions/0/deeds/0/parties/0"
+    Then the JSON should have "provisions/0/deeds/0/parties/0/0/title"
+    Then the JSON should have "provisions/0/deeds/0/parties/0/0/full_name"
+    Then the JSON should have "provisions/0/deeds/0/parties/0/0/decoration"
+
+  Scenario: Provisions Notes paths exist
+    Then the JSON should have "provisions/0/notes"
+
+  Scenario: h_schedule Template paths exist
+    Then the JSON should have "title_number"
+    Then the JSON should have "h_schedule/template"
+    Then the JSON should have "h_schedule/full_text"
+
+  Scenario: h_schedule Fields paths exist
+    Then the JSON should have "h_schedule/fields"
+
+  Scenario: h_schedule Deeds paths exist
+    Then the JSON should have "h_schedule/deeds/0"
+    Then the JSON should have "h_schedule/deeds/0/type"
+    Then the JSON should have "h_schedule/deeds/0/date"
+    Then the JSON should have "h_schedule/deeds/0/term"
+    Then the JSON should have "h_schedule/deeds/0/parties/0"
+    Then the JSON should have "h_schedule/deeds/0/parties/0/0/title"
+    Then the JSON should have "h_schedule/deeds/0/parties/0/0/full_name"
+    Then the JSON should have "h_schedule/deeds/0/parties/0/0/decoration"
+
+  Scenario: h_schedule Notes paths exist
+    Then the JSON should have "h_schedule/0/notes"
+    Then the JSON should have "h_schedule/0/notes/0/text"
+    Then the JSON should have "h_schedule/0/notes/0/documents_referred"
