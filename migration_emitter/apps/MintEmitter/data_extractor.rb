@@ -140,6 +140,7 @@ class DataExtractor
     json_name['local_authority_area']        = name['local_authority_area'].present? ? name['local_authority_area'] : ''
     json_name['title']                       = name['title'].present? ? name['title'] : ''
     json_name['company_location']            = name['company_location'].present? ? name['company_location'] : ''
+    json_name['auto_uppercase_override']     = name['auto_uppercase_override'].present? ? name['auto_uppercase_override'] : ''
     json_name['alias_names']                 = get_alias_names(name)
 
     json_name
@@ -233,6 +234,7 @@ class DataExtractor
             json_proprietor_name['local_authority_area']        = proprietor['name']['local_authority_area'].present? ? proprietor['name']['local_authority_area'] : ''
             json_proprietor_name['title']                       = proprietor['name']['title'].present? ? proprietor['name']['title'] : ''
             json_proprietor_name['company_location']            = proprietor['name']['company_location'].present? ? proprietor['name']['company_location'] : ''
+            json_proprietor_name['auto_uppercase_override']     = proprietor['name']['auto_uppercase_override'].present? ? proprietor['name']['auto_uppercase_override'] : ''
             json_proprietor_name['alias_names']                 = get_alias_names(proprietor['name'])
 
             json_proprietor['addresses']                        = get_addresses(proprietor)
