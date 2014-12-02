@@ -55,3 +55,6 @@ Geometry            | GF1051  | Conversion command failed: + cmd
 Geometry            | GF1052  | ogr2ogr command failed: + cmd
 Geometry Extractor  | GE1053  | No geometry data found
 Geometry Extractor  | GE1054  | No Extent or Index
+Register Transformer| RT1055  | IR investigation code present
+Full Text Extractor | FT1056  | No generated full text for entry
+Full Text Extractor | FT1057  | No matching entry for generated full text
