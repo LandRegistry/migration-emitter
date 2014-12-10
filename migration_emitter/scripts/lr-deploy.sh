@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-
 #Check environment setting and default to development
+
 if [ -z "$MIGRATOR_ENVIRONMENT" ]
 then
 	env="development"
