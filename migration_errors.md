@@ -7,7 +7,7 @@ Deeds Sub Extractor | DE1002  | Deed Party Seqence Number is 0
 Deeds Sub Extractor | DE1003  | Unrecognised Name Category Code 
 Free Format         | FF1004  | No FF rows found for entry 
 Geometry Extractor  | GE1005  | Register object has no title number set  
-Geometry Extractor  | GE1006  | No Extent or Index 
+Geometry Extractor  | GE1006  | No Extent or Index Generated
 Property Extractor  | PE1007  | No property address or property schedule found for title 
 Property Extractor  | PE1008  | No template found for property description of title   
 Property Extractor  | PE1009  | More than one property description template found for title number  
@@ -50,11 +50,10 @@ Schedule Extractor  | SE1046  | No deeds found for schedule entry  + entry_id
 Schedule Extractor  | SE1047  | Infill array is empty but schedule has mandatory fields 
 Schedule Extractor  | SE1048  | No template found for schedule with role code  + entry.role_code  
 Schedule Extractor  | SE1049  | Error extracting infill information for schedule   
-Geometry            | GF1050  | No response from Geo Convert
-Geometry            | GF1051  | Conversion command failed: + cmd
-Geometry            | GF1052  | ogr2ogr command failed: + cmd
-Geometry Extractor  | GE1053  | No geometry data found
-Geometry Extractor  | GE1054  | No Extent or Index
+Geometry Extractor  | GF1050  | No response from Geo Convert
+Geometry Extractor  | GE1051  | TMF(s) contained no geometry
+Geometry Extractor  | GF1052  | Unknown entity class in TMF(s) <CLASS>
+Geometry Extractor  | GE1053  | Title has no TMFs
 Register Transformer| RT1055  | IR investigation code present
 Full Text Extractor | FT1056  | No generated full text for entry
 Full Text Extractor | FT1057  | No matching entry for generated full text
