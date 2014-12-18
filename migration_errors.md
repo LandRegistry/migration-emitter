@@ -58,3 +58,4 @@ Register Transformer| RT1055  | IR investigation code present
 Full Text Extractor | FT1056  | No generated full text for entry
 Full Text Extractor | FT1057  | No matching entry for generated full text
 Register Metadata   | RC1058  | No last application reference
+Geometry Extractor  | GE1059  | Vector Application Reference has no extent TMF
