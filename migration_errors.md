@@ -53,7 +53,7 @@ Schedule Extractor  | SE1049  | Error extracting infill information for schedule
 Geometry Extractor  | GF1050  | No response from Geo Convert
 Geometry Extractor  | GE1051  | TMF(s) contained no geometry
 Geometry Extractor  | GF1052  | Unknown entity class in TMF(s) <CLASS>
-Geometry Extractor  | GE1053  | Title has no TMFs
+Geometry Extractor  | GE1053  | Title not on index map
 Register Transformer| RT1055  | IR investigation code present
 Full Text Extractor | FT1056  | No generated full text for entry
 Full Text Extractor | FT1057  | No matching entry for generated full text
