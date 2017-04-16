@@ -27,6 +27,7 @@ A title is really just a list of entries, where each entry is a different piece 
   }  
 </pre>
 
+
 The text field will contain markup such as:
 
 <pre>
